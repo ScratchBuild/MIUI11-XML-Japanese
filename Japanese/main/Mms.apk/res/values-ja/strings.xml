@@ -634,7 +634,7 @@
   <string name="saved_to_sim">保存</string>
   <string name="sdcard_has_not_enough_space">SDカードに十分な容量がありません</string>
   <string name="search">メッセージ</string>
-  <string name="search_empty">一致しませんでした</string>
+  <string name="search_empty">メッセージが見つかりませんでした</string>
   <string name="search_hint">メッセージの検索</string>
   <string name="search_keyword_mms">メッセージ</string>
   <string name="search_label">メッセージ</string>
@@ -779,7 +779,6 @@
   <string name="too_many_attachments">添付ファイル数の上限は%1$s個です。最初の%2$s個のみ追加されました</string>
   <string name="too_many_recipients">"宛先が多すぎます (%1$s)。%2$s以上の宛先は設定できません"</string>
   <string name="too_many_unsent_mms">"今すぐメッセージを送信することはできません。未送信のマルチメディアメッセージが多すぎます"</string>
-  <string name="train_edit_destination">追加</string>
   <string name="try_to_send">送信を試行</string>
   <string name="type_attachment">添付</string>
   <string name="type_audio">音声</string>

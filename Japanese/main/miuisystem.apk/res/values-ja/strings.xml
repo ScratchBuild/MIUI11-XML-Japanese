@@ -7,7 +7,7 @@
   <string name="armed_forces_day">"軍隊記念日"</string>
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
-  <string name="birdcicada_preview">Nature sound 2</string>
+  <string name="birdcicada_preview">Nature - Birds &amp; fireflies</string>
   <string name="carousel">Carousel</string>
   <string name="childrens_day">"こどもの日"</string>
   <string name="chinese_youth_day">"青年節"</string>
@@ -88,8 +88,9 @@
   <string name="vip_login">"ログインするにはタップ"</string>
   <string name="vip_not_login">"ログインしていません"</string>
   <string name="vip_sign">"署名:"</string>
-  <string name="waterdrop_preview">Nature sound 1</string>
+  <string name="waterdrop_preview">Nature - Droplets</string>
   <string name="white_dews">白露</string>
+  <string name="windchime">Wind chimes</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
   <string name="yellow_page_module_sms_sent">"SMSを送信"</string>

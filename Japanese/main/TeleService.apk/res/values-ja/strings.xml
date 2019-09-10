@@ -909,6 +909,7 @@
   <string name="privacy_policy_title">プライバシーポリシー</string>
   <string name="private_num">非通知</string>
   <string name="progress_dialog_exiting_ecm">緊急通報待機モードを終了中</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator">"Can't make calls. Contact China Telecom to turn on VoLTE service."</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTEサービスは利用できません。電話をかけるにはVoLTEをオフにしてください。</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">サービスは利用できません。[設定]からVoLTEをオフにしてください。</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTEをオンにする前に、優先ネットワークタイプとしてLTEを選択してください。</string>
@@ -1273,6 +1274,14 @@ Emergency calls are only possible in areas with mobile network coverage."</strin
   <string name="wifi_allow_scan_with_traffic_summary">インターフェースのデータトラフィック量に基づいたWi-Fiローミングスキャンを許可するかしないかを設定できます</string>
   <string name="wifi_auth_password_wrong">パスワードが正しくありません</string>
   <string name="wifi_auto_sel_wapi_cert">自動的に選択</string>
+  <string name="wifi_call_accept">OK</string>
+  <string name="wifi_call_available_message">"You can make calls using WLAN now. If you're connected to a WLAN network, you'll be able to talk even when you're in the areas with no mobile network coverage."</string>
+  <string name="wifi_call_available_title">Wi-Fi通話をオンにする</string>
+  <string name="wifi_call_cancel">キャンセル</string>
+  <string name="wifi_call_help">ヘルプ</string>
+  <string name="wifi_call_help_message">"If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there's no mobile network signal or it's very poor, WLAN network will be used instead."</string>
+  <string name="wifi_call_help_title">WLAN Calling Help</string>
+  <string name="wifi_call_notification_message">"This service is provided by Orange. It might take several hours to activate this service. You'll receive a confirmation SMS as soon as it's available."</string>
   <string name="wifi_call_setting">Wi-Fi通話</string>
   <string name="wifi_call_setting_vodafone_de">Wi-Fi通話</string>
   <string name="wifi_call_setting_vodafone_uk">Wi-Fi通話</string>

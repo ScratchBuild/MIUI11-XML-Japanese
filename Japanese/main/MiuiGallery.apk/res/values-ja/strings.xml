@@ -109,6 +109,7 @@
   <string name="app_name">"ギャラリー"</string>
   <string name="app_name_view_picture">"写真を表示"</string>
   <string name="app_name_view_video">"動画を表示"</string>
+  <string name="app_summary">Managing and editing your photos and videos on your device and in Xiaomi Cloud</string>
   <string name="apply">適用</string>
   <string name="assistant_page_discovery">Discover</string>
   <string name="assistant_page_label">"メモリー"</string>
@@ -204,6 +205,8 @@
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="browse_category_title">Browse</string>
+  <string name="btn_cancel">キャンセル</string>
+  <string name="btn_sure">OK</string>
   <string name="burst_image_download_item_title" formatted="false">Download original (%s|%s)</string>
   <string name="burst_preview_title">Burst shot</string>
   <string name="burst_save_all">すべての写真を保存</string>
@@ -330,6 +333,8 @@
   <string name="collage_title_stitching">Film roll</string>
   <string name="collaps_people">"非表示"</string>
   <string name="confirm">"確認"</string>
+  <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
+  <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
   <string name="confirm_download_video_message">"動画を視聴するにはダウンロードを完了してください。Wi-Fiが利用可能になるとダウンロードを再開します。"</string>
   <string name="confirm_download_video_title">"動画をダウンロードする"</string>
   <string name="confirm_face">"一致しました"</string>
@@ -370,6 +375,7 @@
   <string name="debugging_tip">"デバッグデータの生成中"</string>
   <string name="decrypt_video_failed">"Couldn't prepare video"</string>
   <string name="decrypting_video">Preparing video…</string>
+  <string name="default_device_name">不明なデバイス</string>
   <string name="define_by_user">Custom</string>
   <string name="delete">"削除"</string>
   <string name="delete_album_failed">"アルバムを削除できません"</string>
@@ -394,6 +400,8 @@
   <string name="delete_to_trash_tips">"最近削除した写真は、[設定] &gt; [ゴミ箱] から表示することができます"</string>
   <string name="deny">"拒否"</string>
   <string name="detail_title">"詳細情報"</string>
+  <string name="device_offline">The other device is offline. Start over.</string>
+  <string name="device_type_pc">コンピューター</string>
   <string name="disable_auto_upload_tip">"このアルバムのXiaomi Cloudとの同期をオフにしますか？"</string>
   <string name="disable_auto_upload_title">"Xiaomi Cloudとの同期をオフにする"</string>
   <string name="do_not_remind_me">"二度と表示しない"</string>
@@ -403,6 +411,7 @@
   <string name="document_provider_guide_step_4">4. \"SDカード\"を選択。</string>
   <string name="document_provider_guide_step_5">5. \"選択\"をタップ。</string>
   <string name="double_tap_to_higher_definition">Double tap again for the HD preview</string>
+  <string name="double_tap_for_hr_preview_108m">Double tap again to switch to 108MP preview</string>
   <string name="download_canceled">"ダウンロードをキャンセルしました"</string>
   <string name="download_error_format">"%sをダウンロードできませんでした"</string>
   <string name="download_error_tip">"ダウンロードが中断されました。"</string>
@@ -443,6 +452,7 @@
   <string name="enable_cloud_for_sharing">Turn on Xiaomi Cloud albums to view shared photos.</string>
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
   <string name="enable_face_album_title">Sort by people</string>
+  <string name="enable_midrop">オンにする</string>
   <string name="enter_choice_mode">Entered Share dialog</string>
   <string name="enter_email_hint">"メールアドレスを入力"</string>
   <string name="error_album_not_exist">"アルバムが存在しません"</string>
@@ -552,6 +562,9 @@ Take more photos of your friends!"</string>
   <string name="fast_share_auto_render_finish">Beautified</string>
   <string name="feature_guidance_photo_effects">"新しい写真エフェクトが利用可能です"</string>
   <string name="feature_guidance_video_editor_smart_effects">"新しいエフェクトが利用可能です"</string>
+  <string name="file_cannot_print">このアイテムは印刷できません。</string>
+  <string name="file_cannot_screen_throw">このアイテムはキャストできません。</string>
+  <string name="file_sending">ファイルを転送中…</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Food</string>
   <string name="filter_category_master">Master</string>
@@ -620,6 +633,7 @@ Take more photos of your friends!"</string>
   <string name="flash_on">"フラッシュON"</string>
   <string name="frame_not_support_image_ratio">"This aspect ratio isn't supported"</string>
   <string name="free_view_desc">"3Dビュー"</string>
+  <string name="functions_are_being_developed">This feature will be available soon. Stay tuned!</string>
   <string name="gallery_setting">"設定"</string>
   <string name="gallery_sync_disable_toast">"ギャラリーの同期はオフです"</string>
   <string name="generate_story_summary">MIUI will analyze your photos and create memories. Turn this feature off to stop creating memories.</string>
@@ -642,6 +656,7 @@ Take more photos of your friends!"</string>
   <string name="home_page_empty_action">"写真を撮影"</string>
   <string name="home_page_label">"写真"</string>
   <string name="how_to_set_relation">"グループを作成するにはアルバムを長押し"</string>
+  <string name="hr_preview_108m">Switched to 108MP preview</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
   <string name="hybrid_data_error">"エラーが発生しました"</string>
   <string name="hybrid_locating_fail">"現在地を取得できません"</string>
@@ -872,19 +887,20 @@ Take more photos of your friends!"</string>
   <string name="other_album">"その他のアルバム"</string>
   <string name="other_settings">"その他の設定"</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
+  <string name="pc_device_model_name">コンピューター</string>
   <string name="people_album_empty_title">"人物ごとに写真を並べ替えできます"</string>
   <string name="people_jump_failed">人物との写真がCloudと同期されるのを待ってからもう一度お試しください</string>
   <string name="people_mark_mode_title">\"%s\"を選択</string>
   <string name="people_mark_mode_title_no_mark_name">"人物を選択"</string>
   <string name="people_page_label">"人物"</string>
   <string name="people_page_unname">Unnamed</string>
-  <string name="permissin_contract_desc">For naming people on photos</string>
-  <string name="permission_contract_name">連絡先</string>
+  <string name="permission_contacts_desc">For assigning contacts to people on photos</string>
+  <string name="permission_contacts_name">連絡先</string>
   <string name="permission_optional_category">Optional permissions</string>
-  <string name="permission_phone_desc">For network requests based on device ID</string>
+  <string name="permission_phone_desc">For assigning corresponding devices to recently deleted items in Xiaomi Cloud</string>
   <string name="permission_phone_name">電話</string>
   <string name="permission_require_category">Mandatory permissions</string>
-  <string name="permission_storage_desc">For displaying, editing, and saving photos</string>
+  <string name="permission_storage_desc">For storing, displaying, editing, syncing, and downloading your photos and videos</string>
   <string name="permission_storage_name">ストレージ</string>
   <string name="permission_use_desc">Permissions</string>
   <string name="pet_album_display_name">"ペットの写真"</string>
@@ -1078,6 +1094,7 @@ Take more photos of your friends!"</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
+  <string name="scanning_device_tips">Searching for devices nearby… Make sure the other device is in discoverable mode.</string>
   <string name="screen_doodle_talkback_size">Doodle line width</string>
   <string name="screen_editor_btn_delete">削除</string>
   <string name="screen_editor_btn_save">保存</string>
@@ -1164,6 +1181,7 @@ Take more photos of your friends!"</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
   <string name="select_origin_tip">"元のファイル (%s)"</string>
   <string name="send_file_beautify_failed">"共有できませんでした"</string>
+  <string name="send_files_to">Send items to</string>
   <string name="send_multiple_files_hint_format">"送信 (%s)"</string>
   <string name="send_public_url">"アルバムのURLを送信"</string>
   <string name="send_secret_file_failed">"共有できませんでした"</string>
@@ -1298,6 +1316,8 @@ Take more photos of your friends!"</string>
   <string name="text_tab_bubble">Bubbles</string>
   <string name="text_tab_watermark">Watermarks</string>
   <string name="things_album_empty_title">"被写体ごとに写真を並べ替えできます"</string>
+  <string name="throwing_print">印刷</string>
+  <string name="throwing_screen">キャスト</string>
   <string name="thumbnail_name">"サムネイル"</string>
   <string name="tip_capture_location">"撮影場所:"</string>
   <string name="tip_capture_params">"EXIFデータ:"</string>
@@ -1306,6 +1326,7 @@ Take more photos of your friends!"</string>
   <string name="tip_file_path">"保存場所:"</string>
   <string name="tip_not_download">"端末上にありません。再生時にCloudからダウンロードされます。"</string>
   <string name="tip_screenshot_package_info">"アプリ名:"</string>
+  <string name="tips_prompt_enable_midrop">近くのデバイスとファイルを共有する</string>
   <string name="title_set_name">"名前を入力"</string>
   <string name="title_tip">"ヒント"</string>
   <string name="title_warn">"警告"</string>
@@ -1329,6 +1350,8 @@ Take more photos of your friends!"</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
   <string name="unpublish_succeeded">Album unpublished</string>
   <string name="unpublishing">"キャンセル中…"</string>
+  <string name="unrecognized_manufacture">不明</string>
+  <string name="unrecognized_model">不明なデバイス</string>
   <string name="unsupport_video">"%s doesn't work with videos"</string>
   <string name="user_agree">"同意"</string>
   <string name="user_agreement2">"利用規約"</string>

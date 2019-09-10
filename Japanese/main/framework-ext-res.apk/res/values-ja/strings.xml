@@ -57,6 +57,7 @@
   <string name="file_cannot_screen_throw">このアイテムをキャストできません。</string>
   <string name="file_sending">ファイルを転送中…</string>
   <string name="first_back_long_press_message">"ナビゲーションボタンの長押しアクションに操作を割り当てるには、[設定] &gt; [その他の設定] &gt; [ボタン]に移動します"</string>
+  <string name="flip_screen_camera_tip">Turn device around to use camera</string>
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="force_exit_message">"%1$sを強制終了しました"</string>
   <string name="force_exit_skip_message">"%1$sはシステムで必要なため、終了することができません。"</string>

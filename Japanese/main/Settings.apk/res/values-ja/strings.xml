@@ -204,6 +204,7 @@
   <string name="always">常に</string>
   <string name="always_allow_bind_appwidgets_text">このアプリによるウィジェットの作成とデータへのアクセスを許可しました。</string>
   <string name="always_running">"常に実行（%s）"</string>
+  <string name="always_style">常に</string>
   <string name="amber_alerts_summary">児童誘拐についての速報を受信する</string>
   <string name="amber_alerts_title">誘拐事件速報</string>
   <string name="ambient_display_category_triggers">表示するタイミング</string>
@@ -229,8 +230,16 @@
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
   <string name="anti_spam">ブロックリスト</string>
   <string name="aod_and_lock_screen_settings_title">アンビエントディスプレイとロック画面</string>
+  <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
+  <string name="aod_notification_style_animation">アニメーションを表示</string>
+  <string name="aod_notification_style_none">何もしない</string>
+  <string name="aod_notification_style_screen_on">画面を点灯</string>
   <string name="aod_settings_category_name">アンビエントディスプレイ</string>
   <string name="aod_settings_title">アンビエントディスプレイ</string>
+  <string name="aod_show_mode_title">表示する項目</string>
+  <string name="aod_style_description">画面がオフのときに、時計、日付、通知やその他の項目を表示することができます</string>
+  <string name="aod_style_title">スタイル</string>
+  <string name="aod_to_close">オフにする</string>
   <string name="apn_auth_type">認証タイプ</string>
   <string name="apn_auth_type_none">なし</string>
   <string name="apn_auth_type_pap_chap">PAPまたはCHAP</string>
@@ -1115,6 +1124,7 @@ This feature can be turned off in the Settings."</string>
   <string name="cache_header_label">キャッシュ</string>
   <string name="cache_size_label">キャッシュ</string>
   <string name="cached">キャッシュしたバックグラウンドプロセス</string>
+  <string name="calendar_remind">予定</string>
   <string name="calendar_sound_dialog_title">カレンダー音を選択</string>
   <string name="calendar_sound_title">カレンダー音</string>
   <string name="call_manager_enable_summary">このサービスを使って通話方法を管理することを許可します。</string>
@@ -2166,7 +2176,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fcc_equipment_id">装置ID</string>
   <string name="feature_flags_dashboard_title">Feature flags</string>
   <string name="feedback">フィードバック</string>
-  <string name="feedback_settings">フィードバック</string>
+  <string name="feedback_settings">サービスとフィードバック</string>
   <string name="file_privacy_password_role_instruction">プライベートなファイルはここに保存されます。</string>
   <string name="filter">フィルタ</string>
   <string name="filter_all_apps">すべてのアプリ</string>
@@ -3156,7 +3166,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="media_output_summary">スマートフォン</string>
   <string name="media_output_summary_unavailable">利用できません</string>
   <string name="media_output_title">メディアの再生先</string>
-  <string name="media_volume_option_title">メディアの音量</string>
+  <string name="media_volume_option_title">音楽、ゲーム、メディア</string>
   <string name="media_volume_summary">音楽や動画の再生音量</string>
   <string name="media_volume_title">メディア</string>
   <string name="medium_font">中</string>
@@ -3350,6 +3360,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="model_name">モデル</string>
   <string name="model_number">端末モデル</string>
   <string name="model_summary">モデル: %1$s</string>
+  <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
   <string name="modify_instruction_password_settings">パスワードを設定</string>
   <string name="modify_privacy_password">パスワードを変更</string>
   <string name="more_account_settings_title">その他のアカウント</string>
@@ -3625,6 +3636,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notifi_importance_none">通知を表示しない</string>
   <string name="notifi_importance_unspecified">再生を許可</string>
   <string name="notifi_no_channels">"This app hasn't received any notifications yet"</string>
+  <string name="notification_animation_style">Special effects</string>
   <string name="notification_app_settings_button">通知設定</string>
   <string name="notification_badge_title">通知ドットの許可</string>
   <string name="notification_badging_title">通知ドットの許可</string>
@@ -3695,6 +3707,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notification_reboot_summary_hm">端末を再起動するにはタップ。</string>
   <string name="notification_reboot_title">再起動して更新を適用</string>
   <string name="notification_reboot_title_hm">再起動して更新を適用</string>
+  <string name="notification_remind">通知</string>
   <string name="notification_ringtone_title">デフォルトの通知音</string>
   <string name="notification_section_header">通知</string>
   <string name="notification_settings">音と通知</string>
@@ -3932,7 +3945,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="pointer_location_summary">現在のタップデータをオーバーレイ表示する</string>
   <string name="pointer_settings_category">マウス/トラックパッド</string>
   <string name="pointer_speed">ポインタの速度</string>
-  <string name="popup_gesture_summary">フロントカメラを自動的に開くには、ホーム画面に戻って、端末を持ち上げた後に画面を見てください</string>
+  <string name="popup_gesture_summary">Hold your phone in front of you and quickly raise it by 20 cm to open front camera</string>
   <string name="popup_gesture_title">フロントカメラを開くために持ち上げる</string>
   <string name="popup_led_summary">フロントカメラをポップアップした時にアニメーションを表示する</string>
   <string name="popup_led_title">Visual effect</string>
@@ -4404,7 +4417,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="retry">再試行</string>
   <string name="rgb_manage_facerecoginition_text">2D顔データを管理</string>
   <string name="right_function_key">右ショートカット</string>
-  <string name="ring_volume_option_title">着信音の音量</string>
+  <string name="ring_volume_option_title">通話、リマインダー、通知</string>
   <string name="ring_volume_title">着信音量</string>
   <string name="ringtone_mute">None</string>
   <string name="ringtone_slot_setting_title">シングルSIMの設定</string>
@@ -4451,6 +4464,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="saved_wifi">保存されたネットワークの管理</string>
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
+  <string name="scheduled_style">Scheduled</string>
   <string name="sccret_code_error">入力したコードが間違っています。</string>
   <string name="screen">画面</string>
   <string name="screen_cancel">キャンセル</string>
@@ -4463,7 +4477,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_confirm">オンにする</string>
   <string name="screen_dark_mode_select_time_error_summary">開始時間と終了時間を同じにすることはできません</string>
   <string name="screen_dark_mode_time_title">スケジュール</string>
-  <string name="screen_effect">コントラストと色</string>
+  <string name="screen_effect">Color scheme</string>
   <string name="screen_key_long_press">ナビゲーションボタンを長押し</string>
   <string name="screen_key_long_press_action">トリガ機能</string>
   <string name="screen_key_long_press_timeout">長押し時間を設定</string>
@@ -4487,7 +4501,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_never_timeout_title">スリープにしない</string>
   <string name="screen_on_proximity_sensor_summary">ポケットに入れたらタッチジェスチャーをロックする</string>
   <string name="screen_on_proximity_sensor_title">ポケットモード</string>
-  <string name="screen_optimize">コントラスト</string>
+  <string name="screen_optimize">色</string>
   <string name="screen_optimize_disabled">読書モードを使用中はコントラストの調整はできません</string>
   <string name="screen_paper_mode_adjust_level">調整</string>
   <string name="screen_paper_mode_apps_loading">読み込み中…</string>
@@ -5535,6 +5549,7 @@ PINが正しくない可能性があります。"</string>
   <string name="system_apps_updater">System apps updater</string>
   <string name="system_backup_section_title">バックアップ</string>
   <string name="system_dashboard_summary">言語、時間、バックアップ、アップデート</string>
+  <string name="system_haptic_feedback">Haptic feedback</string>
   <string name="system_package">システムアップデートは外部メディアにはインストールできません。</string>
   <string name="system_print_service_help">印刷について</string>
   <string name="system_shortcut_wake">ショートカットボタンでスリープ解除</string>
@@ -5552,6 +5567,7 @@ PINが正しくない可能性があります。"</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>
   <string name="telephony_monitor_switch_summary">Telephony Monitor は、電話やモデムの機能で問題が検出されたときにログを収集し、バグを報告するようユーザーに通知を表示します</string>
   <string name="telephony_monitor_toast">Telephony Monitor の変更を適用するには、端末を再起動してください</string>
+  <string name="temporary_style">10 seconds after tapping the screen</string>
   <string name="terms_title">利用規約</string>
   <string name="testing">テスト中</string>
   <string name="testing_phone_info">携帯電話情報</string>
@@ -5622,6 +5638,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_layout_current">文字サイズ</string>
   <string name="title_layout_current2">文字サイズ</string>
+  <string name="title_layout_current2_weight">Text size &amp; font weight</string>
   <string name="title_of_auto_launch_manage">自動起動</string>
   <string name="to_close">オフにする</string>
   <string name="title_local_resource">ローカルリソース</string>
@@ -6279,6 +6296,9 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="webview_disabled_for_user">（%s では無効）</string>
   <string name="webview_license_title">システムのWebViewライセンス</string>
   <string name="webview_uninstalled_for_user">（%s からアンインストール）</string>
+  <string name="weight_heavy">Bold</string>
+  <string name="weight_light">Light</string>
+  <string name="weight_setting_toast">You can change font weight only for the default system font</string>
   <string name="welcome">ようこそ</string>
   <string name="wfd_available_devices">利用可能なデバイス</string>
   <string name="wfd_disconnect_diag_msg">%1$sへの接続を終了します。</string>

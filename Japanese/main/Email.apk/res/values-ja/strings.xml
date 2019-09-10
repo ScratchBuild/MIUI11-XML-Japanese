@@ -8,6 +8,7 @@
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
   <string name="account_failure">"セッションがタイムアウトしました"</string>
   <string name="account_name_toast">"同じ名前のアカウントが既に存在します"</string>
+  <string name="account_options_actionbar_title">General Settings</string>
   <string name="account_options_sync_title">"同期"</string>
   <string name="account_password_spaces_error">"このパスワードは1文字以上の空白文字で開始または終了しています。
         多くのサーバーではパスワードに空白文字をサポートしていません。"</string>
@@ -557,6 +558,9 @@
   <string name="mail_login_help_details1">1.Email password: If you haven’t set up client verification code and already open the POP3/IMAP/SMTP protocol,you can use email password to sign in.</string>
   <string name="mail_login_help_details2">2.Client verification code:If you already set up a client verification code,you need use this to sign in.And make sure the POP3/IMAP/SMTP protocol was open.</string>
   <string name="mail_login_help_title">Email password or client verification code description:</string>
+  <string name="mail_outlook_login_tips">According to Microsoft requirements, you need to type the password in the Microsoft Authorization page.</string>
+  <string name="mail_outlook_oauth_login">Log in with OAuth</string>
+  <string name="mail_outlook_psw_login">Login with password</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
   <string name="mailbox_name_display_ad">"広告"</string>
   <string name="mailbox_name_display_add_account">メールアカウントを追加</string>
@@ -723,6 +727,7 @@ Try a different inbox."</string>
   <string name="outbox_alert_select_operation">"アクションを選択"</string>
   <string name="outbox_alert_title_sent_failed">"メールを送信できませんでした"</string>
   <string name="outbox_no_mails">Empty</string>
+  <string name="outlook_login_failed_non_proxy_title">"Couldn't access OutLook server"</string>
   <string name="output_all_log">"すべてのログを出力"</string>
   <string name="output_db_summary">"データベースとして出力されます"</string>
   <string name="output_db_title">"データベースを出力"</string>
@@ -864,6 +869,7 @@ to receive reminders about payments and trips"</string>
   <string name="quick_3">"確認して折り返し連絡します。"</string>
   <string name="quick_4">"この件についてミーティングを行いませんか。"</string>
   <string name="quick_reply_dialog_title">"返信を選択"</string>
+  <string name="quick_reply_expend">Expand</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_reply_hint_reply_only_from">"クイック返信 (送信者のみ)"</string>
@@ -1023,6 +1029,9 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="str_select_all">"すべて選択"</string>
   <string name="str_select_none">"すべて選択を解除"</string>
   <string name="subject_hint">"件名"</string>
+  <string name="sync_calendra_fail_per_content">Tap to allow access to calendar</string>
+  <string name="sync_calendra_fail_per_title">"Couldn't sync calendar"</string>
+  <string name="sync_calendra_fail_permission">"Couldn't sync calendar, allow Mail to access your calendar in the Settings"</string>
   <string name="sync_contacts_fail_per_content">"連絡先へのアクセスを許可するにはタップ"</string>
   <string name="sync_contacts_fail_per_title">"連絡先を同期できませんでした"</string>
   <string name="sync_contacts_fail_permission">"連絡先を同期できませんでした、[設定]からメールアプリに連絡先へのアクセスを許可してください"</string>

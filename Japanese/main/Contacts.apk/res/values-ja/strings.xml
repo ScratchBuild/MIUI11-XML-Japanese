@@ -224,6 +224,7 @@
   <string name="contact_detail_miprofile_save_success_toast">"連絡先カードを受信しました"</string>
   <string name="contact_detail_miprofile_settings_header">"その他の設定"</string>
   <string name="contact_detail_miprofile_subtitle">"既にカードを交換済みです"</string>
+  <string name="contact_detail_more_calllog">もっと表示</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"ネットワークに接続できません"</string>
   <string name="contact_detail_profile_switch_fail_toast">"サーバーで問題が発生しました"</string>
   <string name="contact_detail_profile_switch_off">"連絡先カードをオフにする"</string>

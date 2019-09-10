@@ -442,7 +442,7 @@
   <string name="cta_dialog_negative">終了</string>
   <string name="cta_dialog_positive">同意</string>
   <string name="cta_dialog_text_all">To use App vault, you should read and agree with %1$s\"User Agreement\" %2$s and %3$s \"Privacy Policy\" %4$s. The service also requires internet connection and access to the location services. The content catcher used by some services also requires internet connection. Agree?</string>
-  <string name="cta_dialog_text_new_user">"Before using App vault, you must agree to Xiaomi's %1$s\"User Agreement\"%2$s, %3$s\"Privacy Policy\"%4$s, and %5$s\"App vault Privacy Policy\"%6$s. App vault needs to connect to the internet and access your location info to work normally. Tap \"Start\" to agree."</string>
+  <string name="cta_dialog_text_new_user">Read and agree to our %1$sUser Agreement%2$s and %3$sPrivacy Policy%4$s.</string>
   <string name="cta_dialog_text_old_user">Before using App vault, you must agree to %1$s\"App vault Privacy Policy\"%2$s. Tap \"Start\" to agree.</string>
   <string name="cta_dialog_title">規約と条件</string>
   <string name="cta_negative">閉じる</string>
@@ -966,6 +966,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="load_no_more">これ以上表示できる情報はありません。</string>
   <string name="loading_desktop">読み込み中…</string>
   <string name="locating_fail">現在地を取得できません</string>
+  <string name="location_permission_desc">For building navigation routes and providing car-hailing services</string>
   <string name="locations">Frequent places</string>
   <string name="locations_preferences">Addresses</string>
   <string name="login_before_use">初めにログインする必要があります</string>

@@ -51,10 +51,17 @@
   <string name="delete_timer_item_title">"タイマーを削除"</string>
   <string name="delete_timezone_title">"タイムゾーンを削除"</string>
   <string name="dialog_confirm_abort">"変更を破棄しますか？"</string>
+  <string name="dialog_legal_off_day">&lt;Data&gt;"Looks like you're using holiday alarms.This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
+  <string name="dialog_legal_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Holiday alarms will go off on Saturday and Sunday."</string>
+  <string name="dialog_legal_workday">&lt;Data&gt;"Looks like you're using weekday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
+  <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Looks like you're using weekday and holiday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
+  <string name="dialog_legal_workday_and_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Weekday alarms will go off from Monday to Friday. Holiday alarms will go off on Saturday and Sunday."</string>
+  <string name="dialog_legal_workday_desc">"Clock isn't allowed to connect to the internet to update the info about working days. Weekday alarms will go off from Monday to Friday."</string>
   <string name="dialog_message_agree">"同意"</string>
   <string name="dialog_message_for_contact_permission">"誕生日アラームを利用するには、時計アプリが連絡先にアクセスする必要があります。同意しますか？"</string>
   <string name="dialog_message_negative">"同意しない"</string>
   <string name="dialog_message_not_remind">"次回から表示しない"</string>
+  <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="dialog_privacy_content">In order to get relevant info about local public holidays, adjust alarms, and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
   <string name="dialog_privacy_content_global">In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
   <string name="dialog_privacy_content_news">In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
@@ -226,9 +233,7 @@
   <string name="status_bar_clock_date_time_format_12">a h:mm:ss</string>
   <string name="stopwatch_lap_empty_text">"ラップなし"</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
-  <string name="system_permission_phone_desc">For identifying different devices</string>
-  <string name="system_permission_purpose">Alarms, stopwatch, timers, world clock</string>
-  <string name="system_permission_storage_desc">For accessing alarm ringtones</string>
+  <string name="system_permission_purpose">Creating weekday alarms and setting customized ringtones</string>
   <string name="system_time_setting">"設定"</string>
   <string name="system_time_settings_category_title">"時刻の設定"</string>
   <string name="time">"時刻"</string>

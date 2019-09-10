@@ -289,6 +289,7 @@
   <string name="partial_cancel_successful">"いくつかのファイルを削除できませんでした、残りのファイルを %s に移動しました。"</string>
   <string name="partial_delete_failure">"いくつかのファイルを削除できませんでした、もう一度お試しください。"</string>
   <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>
+  <string name="path_name_email">Email</string>
   <string name="permission_denial">"ファイルにアクセスできませんでした。File Managerがファイルにアクセスできるよう [設定] から許可してください。"</string>
   <string name="permission_required">"ファイルにアクセスできませんでした。File Managerがファイルにアクセスできるよう [設定] から許可してください。"</string>
   <string name="phone">"内部ストレージ"</string>

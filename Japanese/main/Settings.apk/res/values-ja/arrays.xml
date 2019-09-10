@@ -522,9 +522,9 @@
         <item>常にチェック</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
+        <item>画面を点灯しない</item>
         <item>画面を点灯する</item>
         <item>アニメーションを表示</item>
-        <item>画面を点灯しない</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Blue</item>
@@ -733,13 +733,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>メニューを表示</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimize contrast for available light</item>
-        <item>"Increase display's contrast"</item>
+        <item>Adjust colors based on the current lighting</item>
+        <item>Always enhance colors</item>
         <item>Contrast will remain constant</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Automatic contrast</item>
-        <item>Increased contrast</item>
+        <item>Auto (recommended)</item>
+        <item>Saturated</item>
         <item>Standard</item>
     </string-array>
     <string-array name="screen_saturation_title">

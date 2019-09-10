@@ -102,7 +102,7 @@ You can sign in to your Mi Account using %s now."</string>
 ID:%s
 このコードを技術者に送ってください。"</string>
   <string name="empty_device_list_notice">No devices</string>
-  <string name="ep_unsupported">お使いの端末ではMiアカウントへのログインをサポートしていません</string>
+  <string name="ep_unsupported">お使いの端末ではMiアカウントにログインできません</string>
   <string name="error_dup_binded_email">"このメールアドレスは既に別のMiアカウントに関連付けられています。"</string>
   <string name="error_invalid_bind_address">"入力したメールアドレスは無効です"</string>
   <string name="exceed_binded_phone_times_notice">"この電話番号は既に別のMi Accountに関連付けられています。"</string>
@@ -374,6 +374,8 @@ ID:%s
   <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
   <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
   <string name="passport_talkback_voice_captcha">Play voice verification code</string>
+  <string name="passport_ticket_login_select_sim_card">SIMカードを選択</string>
+  <string name="passport_ticket_login_select_sim_card_cancel">キャンセル</string>
   <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">"認証コードを取得中…"</string>
@@ -456,7 +458,7 @@ ID:%s
   <string name="system_ad_list">View related apps.</string>
   <string name="system_ad_summary">"Turn this feature on to allow showing a small number of ads in system apps. These ads help us develop and improve our products and services. You can choose to turn this feature off anytime. Thanks for your support! "</string>
   <string name="system_ad_switch">Ads in system apps</string>
-  <string name="system_ad_switch_failed">failed</string>
+  <string name="system_ad_switch_failed">設定を適用できませんでした</string>
   <string name="temporary_not_available">この機能はまだ使用できません。</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">"Find deviceをオフにしています…"</string>

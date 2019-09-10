@@ -54,12 +54,14 @@
   <string name="birthday_saved">"誕生日を保存しました"</string>
   <string name="birthday_term">"誕生日"</string>
   <string name="book_card_free">"無料"</string>
-  <string name="book_card_rating_text">"|   %1$s 評価"</string>
+  <string name="book_card_rating_text">"%1$s 評価"</string>
   <string name="can_not_create_long_event">"予定の名前が長すぎます"</string>
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
   <string name="cancel_reminder_later">通知をキャンセル</string>
+  <string name="card_credit_repayment">返済日</string>
+  <string name="card_credit_today">今日</string>
   <string name="card_detail_dialog_message">"%1$sを購読すると毎日最新のコンテンツが配信され、いつでも閲覧することができます。"</string>
   <string name="card_detail_dialog_negative">"今はしない"</string>
   <string name="card_detail_dialog_positive">"今すぐ購読"</string>
@@ -94,7 +96,7 @@
   <string name="credit_card_date_label">"返済期日："</string>
   <string name="credit_card_number_label">"カード番号："</string>
   <string name="credit_currency">元</string>
-  <string name="credit_detail_amount_label">应还</string>
+  <string name="credit_detail_amount_label">本期应还</string>
   <string name="credit_detail_sms_content">"SMSの本文"</string>
   <string name="credit_detail_today">今日：</string>
   <string name="credit_event_delete_successfully">"クレジットカードの支払い予定が正常に削除されました"</string>
@@ -247,7 +249,7 @@
   <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
   <string name="joke_card_paste_suffix">"【Xiaomiカレンダーから】"</string>
   <string name="life_assistant_group_title">生活助手</string>
-  <string name="limit">限行</string>
+  <string name="limit">限行尾号</string>
   <string name="limit_after_tomorrow">"明後日"</string>
   <string name="limit_card_limit_desc">限行尾号</string>
   <string name="limit_card_no_limit_data_desc">暂无限行数据</string>
@@ -257,6 +259,7 @@
   <string name="limit_card_preview_desc">订阅并设置限行提醒后更新数据</string>
   <string name="limit_card_set_reminder">"通知の設定"</string>
   <string name="limit_city_label">"都市を選択"</string>
+  <string name="limit_detail_title">都市の制限</string>
   <string name="limit_no_city">"都市データなし"</string>
   <string name="limit_notification_date_format">M月d日(EE)</string>
   <string name="limit_notification_text">%1$s%2$s限行尾号:%3$s</string>

@@ -20,14 +20,6 @@
         <item quantity="other">%1$d アイテム/秒 | 残り時間: %2$s</item>
         <item quantity="one">%1$d アイテム/秒 | 残り時間: %2$s</item>
     </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d日前</item>
-        <item quantity="zero">%1$d日前</item>
-        <item quantity="one">%1$d日前</item>
-        <item quantity="two">%1$d日前</item>
-        <item quantity="few">%1$d日前</item>
-        <item quantity="many">%1$d日前</item>
-    </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">You can clear unimportant data for %d apps</item>
         <item quantity="one">You can clear unimportant data for %d app</item>
@@ -72,30 +64,13 @@
         <item quantity="other">"%1$d時間"</item>
         <item quantity="one">"%1$d時間"</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d時間前</item>
-        <item quantity="zero">%1$d時間前</item>
-        <item quantity="one">%1$d時間前</item>
-        <item quantity="two">%1$d時間前</item>
-        <item quantity="few">%1$d時間前</item>
-        <item quantity="many">%1$d時間前</item>
-    </plurals>
-    <plurals name="million">
-        <item quantity="other">Downloaded by %1$d people</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">%1$d分前</item>
-        <item quantity="zero">%1$d分前</item>
-        <item quantity="one">%1$d分前</item>
-        <item quantity="two">%1$d分前</item>
-        <item quantity="few">%1$d分前</item>
-        <item quantity="many">%1$d分前</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Downloaded by %1$d people</item>
+        <item quantity="one">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Downloaded by %1$d people</item>
+        <item quantity="one">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">"%1$d分"</item>

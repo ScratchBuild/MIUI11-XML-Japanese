@@ -46,6 +46,7 @@
   <string name="appcleaner_g_audio_summary_wechat">Permanently delete WeChat voice messages</string>
   <string name="appcleaner_g_audio_title_qq">QQ voice message cleaner</string>
   <string name="appcleaner_g_audio_title_wechat">WeChat voice message cleaner</string>
+  <string name="appcleaner_g_day_earlier">Earlier</string>
   <string name="appcleaner_g_earlier">Earlier</string>
   <string name="appcleaner_g_image_sum_title_chat_wechat">Sent images</string>
   <string name="appcleaner_g_image_sum_title_make_wechat">Images</string>
@@ -59,6 +60,8 @@
   <string name="appcleaner_g_normal_summary_wechat">Permanently delete WeChat files</string>
   <string name="appcleaner_g_normal_title_qq">QQ file cleaner</string>
   <string name="appcleaner_g_normal_title_wechat">WeChat file cleaner</string>
+  <string name="appcleaner_g_seven_day">過去7日間</string>
+  <string name="appcleaner_g_thirty_day">過去30日間</string>
   <string name="appcleaner_g_this_month">今月</string>
   <string name="appcleaner_g_video_sum_title_chat_wechat">Sent videos</string>
   <string name="appcleaner_g_video_sum_title_make_wechat">Videos</string>
@@ -76,6 +79,17 @@
   <string name="appcleaner_result_dc_card_title">Free up more storage</string>
   <string name="appcleaner_wechat_clean_summary">Delete unnecessary items from WeChat</string>
   <string name="appcleaner_wechat_clean_title">App cleaner</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Clear %s of WeChat cache to free up storage space</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Don't forget to clear cache"</string>
+  <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Remind to clear WeChat cache</string>
+  <string name="appcleaner_wechat_pref_time_every_day">Every day</string>
+  <string name="appcleaner_wechat_pref_time_fifteen_day">Every 15 days</string>
+  <string name="appcleaner_wechat_pref_time_seven_day">Every 7 days</string>
+  <string name="appcleaner_wechat_pref_time_three_day">Every 3 days</string>
+  <string name="appcleaner_wechat_pref_title_clean_alert">Remind to clear WeChat cache</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Cache size</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Remind</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Cache size</string>
   <string name="appcleaner_wechat_scanning_cache">WeChat cache</string>
   <string name="appcleaner_wechat_scanning_chat">Sent files</string>
   <string name="appcleaner_wechat_scanning_trash">Trash</string>
@@ -100,7 +114,8 @@
   <string name="btn_text_quick_cleanup_video">"選択した%1$s個の動画を削除"</string>
   <string name="btn_text_quick_scan">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
-  <string name="button_optimizer">OK</string>
+  <string name="button_agree">同意</string>
+  <string name="button_deny">同意しない</string>
   <string name="button_text_add_to_white_list">"例外"</string>
   <string name="button_text_backup_uninstall">"初めにバックアップ"</string>
   <string name="button_text_cancel">"キャンセル"</string>
@@ -201,7 +216,7 @@
   <string name="delete_confirm">"削除"</string>
   <string name="delete_confirm_msg">"選択したすべてのファイルを完全に削除しますか？"</string>
   <string name="desc_image">"写真"</string>
-  <string name="dialog_content_checkbox_delete_cloud_image">"Mi Cloudからも写真を削除"</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">"Xiaomi Cloudからも写真を削除"</string>
   <string name="dialog_content_select_all_confirm">"この写真のコピーを保持しますか？"</string>
   <string name="dialog_msg_add_white_list_error">"このファイルは例外に追加できません"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">"選択したアプリをバックアップ後にアンインストールしますか？"</string>
@@ -458,7 +473,7 @@
   <string name="sc_allow_network_dialog_message">"このアプリが更新を受信するためインターネットに接続することを許可しますか？"</string>
   <string name="scanning">"スキャン中…"</string>
   <string name="search_history">"検索履歴"</string>
-  <string name="security_center_slogan">Security. Always on guard.</string>
+  <string name="security_center_slogan">Keep your device fast and secure</string>
   <string name="see_more">"その他"</string>
   <string name="set_immediately">"設定"</string>
   <string name="seton_immediately">"オンにする"</string>
@@ -476,9 +491,8 @@
   <string name="summary_delete_cache">"選択したアプリのキャッシュを消去しますか？"</string>
   <string name="summary_delete_large_file">"選択したファイルを完全に削除しますか？"</string>
   <string name="summary_delete_video">"&gt;選択した動画を完全に削除しますか？"</string>
-  <string name="summary_optimizer">"この機能はフォルダ名をアップロードしてCheetah Mobileのオンラインデータベースを更新し、お使いの端末のIDを必要とします。"</string>
+  <string name="summary_optimizer">"Cleaner needs to upload the filenames of the location data files to Clean Master's servers to be able to update cloud definitions. Agree?"</string>
   <string name="sys_cache_on_sdcard_item_name">"キャッシュ"</string>
-  <string name="text_optimizer">"フォルダ名をアップロード"</string>
   <string name="there_is_no">問題は見つかりませんでした</string>
   <string name="tips_low_storage_dialog_cancel">"キャンセル"</string>
   <string name="tips_low_storage_dialog_msg_qq">QQ cache size has reached 3GB. This might slow down your device. Clear QQ cache now?</string>

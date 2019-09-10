@@ -55,6 +55,7 @@
   <string name="component_title_settings_video_wallpaper">Wallpapers with special effects</string>
   <string name="component_title_video_wallpaper">Wallpaper movies</string>
   <string name="component_title_wallpaper">"壁紙"</string>
+  <string name="concentration_old_period">More</string>
   <string name="count_down_tip">残り %d秒</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>
   <string name="current_using_float_wallpaper_text">Transparent</string>
@@ -125,6 +126,7 @@
   <string name="find_more_font">もっと探す</string>
   <string name="find_more_theme">"もっと探す"</string>
   <string name="find_more_wallpapers">"もっと探す"</string>
+  <string name="first_page_recommend">Recommended</string>
   <string name="float_wallpaper_is_here">Transparent wallpaper</string>
   <string name="gift_anonymous">"匿名"</string>
   <string name="gift_operation_fail_dlg_abandon">"キャンセル"</string>
@@ -491,6 +493,10 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="show_mamual_hide_theme">Show hidden themes</string>
   <string name="show_mamual_hide_wallpaper">Show hidden wallpapers</string>
   <string name="swipe_find_more">上にスワイプして詳細を表示</string>
+  <string name="system_cta_main_purpose">Manage and use online and offline themes, wallpapers, ringtones, fonts, and video wallpapers</string>
+  <string name="system_cta_runtime_perm_desc_get_accounts">For accessing IMEI and providing download services</string>
+  <string name="system_cta_runtime_perm_desc_read_phone_state">For signing in and managing system accounts</string>
+  <string name="system_cta_runtime_perm_desc_storage">For storing saved themes, ringtones, fonts, wallpapers, and video wallpapers</string>
   <string name="system_precust">プリインストール済み</string>
   <string name="the_picture_is_not_support">"画像はサポートされていません"</string>
   <string name="the_picture_is_too_small">"画像が小さすぎます"</string>
@@ -582,12 +588,15 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="title_my_miwallpaper_resource">My live wallpapers</string>
   <string name="title_my_miwallpaper_video_file_resource">My wallpaper movies</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
+  <string name="title_system_audio_alarm_resource">System alarms</string>
   <string name="title_system_audio_notification_resource">"システムの通知音"</string>
   <string name="title_system_audio_resource">"システムの着信音"</string>
   <string name="title_system_wallpaper_resource">"システムの壁紙"</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="transparent_wallpaper">Transparent wallpaper</string>
   <string name="transparent_wallpaper_apply_success">Set successfully. You can turn this feature off in Themes &gt; Profile &gt; Beta features.</string>
+  <string name="transparent_wallpaper_auto_start_pref_summary">Keep using transparent wallpapers after you reboot your device</string>
+  <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
   <string name="transparent_wallpaper_enable_success">Turned on successfully</string>
   <string name="transparent_wallpaper_guide">Go to Themes</string>
   <string name="transparent_wallpaper_guide_tip">You can select a transparent wallpaper in Themes now.</string>

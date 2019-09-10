@@ -42,7 +42,7 @@
   <string name="new_version">"更新が利用可能"</string>
   <string name="no_info">"更新情報がありません。"</string>
   <string name="no_network">"ネットワークに接続できません。"</string>
-  <string name="no_update">お使いの端末は最新か、サーバー側に問題があります。xiaomi.euで最新版をチェックしてください！</string>
+  <string name="no_update">既に最新版です</string>
   <string name="no_xioamieu">"あなたはXiaomi.euチームが作成したMIUI ROMを使用していないため、
 利用可能な更新はありません。"</string>
   <string name="notif_cancel">"キャンセル"</string>

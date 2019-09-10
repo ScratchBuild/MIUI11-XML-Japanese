@@ -64,8 +64,8 @@
   <string name="print_fail_network_error">印刷できませんでした。ネットワークの設定を確認して、もう一度お試しください。</string>
   <string name="print_forget_printer">"プリンタを切断"</string>
   <string name="print_help_label">ヘルプ</string>
-  <string name="print_help_tip">端末とプリンタの両方が同じWi-Fiネットワークに接続されているか、またはWi-Fiダイレクトがオンになっているかを確認してください。\"ヘルプ\"を表示。</string>
-  <string name="print_help_tip_reg">ヘルプ</string>
+  <string name="print_help_tip">端末とプリンタの両方が同じWi-Fiネットワークに接続されているか、またはWi-Fiダイレクトがオンになっているかを確認してください。%1$s。</string>
+  <string name="print_help_tip_reg">\"ヘルプ\"を表示</string>
   <string name="print_no_print_services">使用できる印刷サービスがありません</string>
   <string name="print_no_printers">"プリンタが見つかりません"</string>
   <string name="print_options_collapsed">"印刷オプションを折りたたみました"</string>
