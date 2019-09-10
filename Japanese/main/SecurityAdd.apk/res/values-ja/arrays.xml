@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_net_usage_number">
+        <item>無制限</item>
+        <item>100M</item>
+        <item>200M</item>
+        <item>500M</item>
+        <item>カスタム</item>
+    </string-array>
+</resources>

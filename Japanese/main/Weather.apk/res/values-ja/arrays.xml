@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_detail_title">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Unhealthy for sensitive groups</item>
+        <item>Unhealthy</item>
+        <item>Very unhealthy</item>
+        <item>Hazardous</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>"良好"</item>
+        <item>"中程度"</item>
+        <item>"注意"</item>
+        <item>"不健康"</item>
+        <item>"危険"</item>
+        <item>"有害"</item>
+        <item>Beyond index</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Force 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>北京</item>
+        <item>上海</item>
+        <item>香港</item>
+        <item>台北</item>
+        <item>ジャカルタ</item>
+        <item>デリー</item>
+        <item>ムンバイ</item>
+        <item>モスクワ</item>
+        <item>ハイデラバード</item>
+        <item>チェンナイ</item>
+        <item>イスタンブール</item>
+        <item>リオデジャネイロ</item>
+        <item>シンガポール</item>
+        <item>ベルリン</item>
+        <item>ローマ</item>
+        <item>ニューヨーク</item>
+        <item>ロサンゼルス</item>
+        <item>シカゴ</item>
+        <item>東京</item>
+        <item>パリ</item>
+        <item>バンコク</item>
+        <item>ソウル</item>
+        <item>クアラルンプール</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>"適切"</item>
+        <item>"不適切"</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>"適切"</item>
+        <item>"不適切"</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>"弱い"</item>
+        <item>"中程度"</item>
+        <item>"強い"</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Heavy</item>
+        <item>Moderate</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Lightly polluted</item>
+        <item>Moderately polluted</item>
+        <item>Heavily polluted</item>
+        <item>Severely polluted</item>
+        <item>Beyond index</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>"晴れ"</item>
+        <item>"曇り"</item>
+        <item>"一面曇り"</item>
+        <item>"霧"</item>
+        <item>"豪雨"</item>
+        <item>"土砂降り"</item>
+        <item>"暴風雨"</item>
+        <item>"雷雨"</item>
+        <item>"にわか雨"</item>
+        <item>"大雨"</item>
+        <item>"並雨"</item>
+        <item>"小雨"</item>
+        <item>"雨混じりの雪"</item>
+        <item>"猛吹雪"</item>
+        <item>"雪"</item>
+        <item>"大雪"</item>
+        <item>"並雪"</item>
+        <item>"小雪"</item>
+        <item>"強い砂嵐"</item>
+        <item>"砂嵐"</item>
+        <item>"砂"</item>
+        <item>"強風"</item>
+        <item>"雹(ひょう)"</item>
+        <item>"ちり"</item>
+        <item>"煙霧"</item>
+        <item>"冷たい雨"</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>"北"</item>
+        <item>"北東"</item>
+        <item>"東"</item>
+        <item>"南東"</item>
+        <item>"南"</item>
+        <item>"南西"</item>
+        <item>"西"</item>
+        <item>"北東"</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>"ビューフォート風力階級"</item>
+        <item>"キロメートル毎時 (km/h)"</item>
+        <item>"メートル毎秒 (m/s)"</item>
+        <item>"マイル毎時 (mph)"</item>
+        <item>"ノット (kn)"</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Force %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+    </string-array>
+</resources>

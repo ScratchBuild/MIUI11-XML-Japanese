@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d個のアイテムをブロック済み</item>
+        <item quantity="one">%d個のアイテムをブロック済み</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d matches</item>
+        <item quantity="one">%d match</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">過去%d日間</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%2$d件中%1$d件目</item>
+        <item quantity="one">1件</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d秒後に自動的に新しいページが作成されます</item>
+        <item quantity="one">%d秒後に自動的に新しいページが作成されます</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">%1$d秒後に動画が再生されます</item>
+        <item quantity="one">%1$d秒後に動画が再生されます</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d個のアイテムを選択済み</item>
+        <item quantity="one">%1$d個のアイテムを選択済み</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d個の動画を正常に削除しました。</item>
+        <item quantity="one">%1$d個の動画を正常に削除しました。</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">%1$d個の動画を消去しますか？</item>
+        <item quantity="one">%1$d個の動画を消去しますか？</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">履歴から%1$d個のアイテムを削除しました。</item>
+        <item quantity="one">履歴から%1$d個のアイテムを削除しました。</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">履歴から%1$d個のアイテムを削除しますか？</item>
+        <item quantity="one">履歴から%1$d個のアイテムを削除しますか？</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">残り%d分</item>
+        <item quantity="one">残り%d分</item>
+    </plurals>
+</resources>

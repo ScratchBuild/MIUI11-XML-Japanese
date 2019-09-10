@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">"メディアストレージ"</string>
+  <string name="artist_label">"アーティスト"</string>
+  <string name="root_audio">"音声"</string>
+  <string name="root_images">"画像"</string>
+  <string name="root_videos">"動画"</string>
+  <string name="uid_label">"メディア"</string>
+</resources>

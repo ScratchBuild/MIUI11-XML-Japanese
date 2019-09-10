@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_reminder_interval_entries">
+        <item>1回のみ</item>
+        <item>2分ごと</item>
+        <item>15分ごと</item>
+        <item>オフ</item>
+    </string-array>
+</resources>

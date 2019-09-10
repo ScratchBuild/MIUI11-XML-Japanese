@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>英語</item>
+        <item>フランス語</item>
+        <item>スペイン語</item>
+        <item>日本語</item>
+        <item>韓国語</item>
+        <item>中国語</item>
+        <item>ヘブライ語</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>ホームのみ</item>
+        <item>自動</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>トリプルモード</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>トリプルモード</item>
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">ホームへ移動</string>
+  <string name="abc_action_bar_up_description">上へ移動</string>
+  <string name="abc_action_menu_overflow_description">その他のオプション</string>
+  <string name="abc_action_mode_done">完了</string>
+  <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+  <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+  <string name="abc_search_hint">検索…</string>
+  <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+  <string name="abc_searchview_description_query">検索キーワード</string>
+  <string name="abc_searchview_description_search">検索</string>
+  <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+  <string name="abc_searchview_description_voice">音声検索</string>
+  <string name="abc_shareactionprovider_share_with">共有</string>
+  <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+  <string name="abc_toolbar_collapse_description">折りたたむ</string>
+  <string name="about">"XiaomiEU Tools v1.0 concept based on MIUI's Security Center designed by ZduneX25
+2018 All rights reserved."</string>
+  <string name="btn_cancel">キャンセル</string>
+  <string name="btn_next">次へ</string>
+  <string name="carousel_desc">ロック画面の自動制御</string>
+  <string name="carousel_title">Wallpaper carousel</string>
+  <string name="dialog_desc">Fow now you can only choose to use switch through desktop icon, picking pattern will FC.</string>
+  <string name="dialog_title">警告！</string>
+  <string name="domain_desc">アプリにURLを割り当てる</string>
+  <string name="domain_title">Domain links</string>
+  <string name="dpi_desc">画面サイズの拡大、追加のフォントスケーリングやDPIの調整など、UI全般をカスタマイズする高度なツール。</string>
+  <string name="dpi_title">DPIコントロール</string>
+  <string name="hardware_test">Make sure you are alright</string>
+  <string name="hardware_title">ハードウェアテスト</string>
+  <string name="oreo_desc">A built-in mini game to blow off some steam or simply kill boredom.</string>
+  <string name="oreo_title">Oreo Easter Egg</string>
+  <string name="power_desc">アイドル時のバッテリーを節約</string>
+  <string name="power_title">電源</string>
+  <string name="ram_desc">どのプロセスがRAMを最も消費しているかを追跡するため、メモリ使用量の統計を取得。</string>
+  <string name="ram_title">RAM使用量</string>
+  <string name="search_menu_title">検索</string>
+  <string name="space_desc">Another separate space</string>
+  <string name="space_title">Second space</string>
+  <string name="theme_desc">Customize device look</string>
+  <string name="theme_title">テーマ</string>
+  <string name="tools">Tools %1$s</string>
+</resources>

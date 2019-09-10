@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playback_streaming_quality">
+        <item>自動</item>
+        <item>低品質</item>
+        <item>中品質</item>
+        <item>高品質</item>
+        <item>最高品質</item>
+    </string-array>
+</resources>

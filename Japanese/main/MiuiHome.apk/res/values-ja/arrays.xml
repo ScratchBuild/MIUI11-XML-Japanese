@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="editing_mode_entries">
+        <item>"壁紙"</item>
+        <item>"ウィジェット"</item>
+        <item>"設定"</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>"晴れ"</item>
+        <item>"曇り"</item>
+        <item>"霞み"</item>
+        <item>"霧"</item>
+        <item>"集中豪雨"</item>
+        <item>"暴風雨"</item>
+        <item>"強い豪雨"</item>
+        <item>"雷雨"</item>
+        <item>"にわか雨"</item>
+        <item>"豪雨"</item>
+        <item>"雨"</item>
+        <item>"霧雨"</item>
+        <item>"みぞれ"</item>
+        <item>"吹雪"</item>
+        <item>"雨混じりの雪"</item>
+        <item>"大雪"</item>
+        <item>"雪"</item>
+        <item>"小雪"</item>
+        <item>"強い砂嵐"</item>
+        <item>"砂嵐"</item>
+        <item>"弱い砂嵐"</item>
+        <item>"砂嵐"</item>
+        <item>"雹(ひょう)"</item>
+        <item>"ちり"</item>
+        <item>"煙霧"</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>"デフォルト"</item>
+        <item>"クラシック"</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Slide</item>
+        <item>Crossfade</item>
+        <item>Tumble</item>
+        <item>Page</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Cube</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>"テーマのデフォルト"</item>
+        <item>"中央"</item>
+        <item>"左寄り"</item>
+        <item>"右寄り"</item>
+    </string-array>
+</resources>

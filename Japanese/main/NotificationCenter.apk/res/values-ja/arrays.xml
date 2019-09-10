@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>受信した時刻で並べ替え</item>
+        <item>通知数で並べ替え</item>
+        <item>通知を表示できるアプリ</item>
+        <item>通知を表示できないアプリ</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>通知内容を表示する</item>
+        <item>"ロック画面に通知を表示しない</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>通知の内容を表示</item>
+        <item>通知を表示するが、内容は隠す</item>
+        <item>ロック画面に通知を表示しない</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_process_mode">
+        <item>通知のみ</item>
+        <item>自動的に消去</item>
+        <item>消去して通知</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>サイズ順</item>
+        <item>名前順</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Frequently used</item>
+        <item>サイズ順</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>サイズ順</item>
+        <item>名前順</item>
+    </string-array>
+    <string-array name="wechat_sort">
+        <item>日付順</item>
+        <item>サイズ順</item>
+    </string-array>
+</resources>

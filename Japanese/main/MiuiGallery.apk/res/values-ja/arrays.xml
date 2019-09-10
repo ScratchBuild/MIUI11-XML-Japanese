@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities_title">
+        <item>Special day</item>
+        <item>Day to remember</item>
+        <item>Vibrant moments</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Last Monday</item>
+        <item>Last Tuesday</item>
+        <item>Last Wednesday</item>
+        <item>Last Thursday</item>
+        <item>Last Friday</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Last Chinese New Year's Eve"</item>
+        <item>Last Chinese New Year</item>
+        <item>Last Lantern Festival</item>
+        <item>Last Dragon Boat Festival</item>
+        <item>Last Qixi Festival</item>
+        <item>Last Mid-Autumn Festival</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Chinese New Year's Eve through the years"</item>
+        <item>Chinese New Year through the years</item>
+        <item>Lantern Festival through the years</item>
+        <item>Dragon Boat Festival through the years</item>
+        <item>Qixi Festival through the years</item>
+        <item>Mid-Autumn Festival through the years</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Last New Year's Day"</item>
+        <item>"Last Valentine's Day"</item>
+        <item>Last Labor Day</item>
+        <item>"Last Children's Day"</item>
+        <item>Last National Day</item>
+        <item>Last Christmas</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"New Year's Day through the years"</item>
+        <item>"Valentine's Day through the years"</item>
+        <item>Labor Day through the years</item>
+        <item>"Children's Day through the years"</item>
+        <item>National Day through the years</item>
+        <item>Christmas through the years</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Last January</item>
+        <item>Last February</item>
+        <item>Last March</item>
+        <item>Last April</item>
+        <item>Last May</item>
+        <item>Last June</item>
+        <item>Last July</item>
+        <item>Last August</item>
+        <item>Last September</item>
+        <item>Last October</item>
+        <item>Last November</item>
+        <item>Last December</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Last spring</item>
+        <item>Last summer</item>
+        <item>Last autumn</item>
+        <item>Last winter</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Past weekends</item>
+        <item>Days to remember</item>
+        <item>Daily events</item>
+        <item>Ordinary &amp; Extraordinary</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>"男の子"</item>
+        <item>"女の子"</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>写真をバックアップする</item>
+        <item>写真をCloudと同期する</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>My weekends</item>
+        <item>Bits of life</item>
+        <item>Weekend memories</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>移動</item>
+        <item>コピー</item>
+        <item>キャンセル</item>
+    </string-array>
+    <string-array name="month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>"父親"</item>
+        <item>"母親"</item>
+        <item>"父方の祖父"</item>
+        <item>"父方の祖母"</item>
+        <item>"母方の祖父"</item>
+        <item>"母方の祖母"</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Together</item>
+        <item>Good times</item>
+        <item>In unison</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>"わたし"</item>
+        <item>"子ども"</item>
+        <item>"家族"</item>
+        <item>"同僚"</item>
+        <item>"同級生"</item>
+        <item>"友だち"</item>
+        <item>"未分類"</item>
+    </string-array>
+    <string-array name="season">
+        <item>春</item>
+        <item>夏</item>
+        <item>秋</item>
+        <item>冬</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>"父親"</item>
+        <item>"母親"</item>
+        <item>"父方の祖父"</item>
+        <item>"父方の祖母"</item>
+        <item>"母方の祖父"</item>
+        <item>"母方の祖母"</item>
+    </string-array>
+    <string-array name="search_voice_assistant_suggestion">
+        <item>IDカードの写真を見つけるのを手伝ってください</item>
+        <item>我想看在三亚拍的照片</item>
+        <item>找出有小米文字的图片</item>
+        <item>昨年の春祭りの写真を検索する</item>
+        <item>先月ビーチで撮影した母親との写真を見つけるのを手伝ってください</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Moving forward</item>
+        <item>Full of energy</item>
+    </string-array>
+</resources>

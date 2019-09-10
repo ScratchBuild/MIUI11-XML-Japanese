@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_scene_names">
+        <item>オフ</item>
+        <item>文書</item>
+        <item>花</item>
+        <item>食べ物</item>
+        <item>ppt</item>
+        <item>空</item>
+        <item>日の出/日の入</item>
+        <item>猫</item>
+        <item>犬</item>
+        <item>植物</item>
+        <item>夜景</item>
+        <item>雪景色</item>
+        <item>砂浜</item>
+        <item>秋</item>
+        <item>キャンドルライト</item>
+        <item>自動車</item>
+        <item>草地</item>
+        <item>メープルの葉</item>
+        <item>多肉植物</item>
+        <item>建物</item>
+        <item>都市</item>
+        <item>曇り</item>
+        <item>曇り</item>
+        <item>人物(逆光)</item>
+        <item>人物(順光)</item>
+        <item>人物</item>
+        <item>宝石</item>
+        <item>仏像</item>
+        <item>牛</item>
+        <item>カレー</item>
+        <item>バイク</item>
+        <item>寺院</item>
+        <item>砂浜</item>
+        <item>水中</item>
+        <item>タワー</item>
+        <item>月</item>
+        <item>グループ撮影</item>
+        <item>彫像</item>
+    </string-array>
+</resources>

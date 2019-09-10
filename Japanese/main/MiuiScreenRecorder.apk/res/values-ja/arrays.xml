@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>自動</item>
+        <item>縦向き</item>
+        <item>横向き</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>ミュート</item>
+        <item>マイク</item>
+        <item>システム音声</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>内部ストレージ</item>
+        <item>外部ストレージ</item>
+    </string-array>
+</resources>

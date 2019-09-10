@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_frequent_phrases">よく使うフレーズを追加</string>
+  <string name="delete_frequent_phrases">よく使うフレーズを削除</string>
+  <string name="delete_frequent_phrases_confirm">選択したよく使うフレーズを削除しますか？</string>
+  <string name="edit_frequent_phrases">よく使うフレーズを編集</string>
+  <string name="frequent_phrases_des">数回タップするだけでテキストの編集中によく使うフレーズを入力できます</string>
+  <string name="frequent_phrases_size_exceeded">よく使うフレーズは%1$d個まで追加できます。もっと追加するには不要なものを削除してください。</string>
+  <string name="menu_add_frequent_phrases">追加</string>
+  <string name="menu_delete">削除"</string>
+  <string name="menu_edit">編集</string>
+  <string name="sync_phrase_label">よく使うフレーズ</string>
+</resources>

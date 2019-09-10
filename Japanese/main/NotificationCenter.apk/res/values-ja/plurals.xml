@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">1日辺り %d 件の通知</item>
+        <item quantity="one">1日辺り %d 件の通知</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">1週間辺り %d 件の通知</item>
+        <item quantity="one">1週間辺り %d 件の通知</item>
+    </plurals>
+</resources>

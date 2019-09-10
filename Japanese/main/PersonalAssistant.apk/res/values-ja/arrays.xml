@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_title">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度</item>
+        <item>中度</item>
+        <item>重度</item>
+        <item>严重</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>空气%1$s</item>
+        <item>空气%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>小</item>
+        <item>標準</item>
+        <item>大</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>夜</item>
+        <item>早朝</item>
+        <item>朝</item>
+        <item>正午</item>
+        <item>午後</item>
+        <item>夕方</item>
+        <item>夕べ</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>要</item>
+        <item>只要</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>拥堵</item>
+        <item>公里拥堵</item>
+        <item>公里缓行</item>
+        <item>道路施工</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>错峰出行</item>
+        <item>有严重拥堵</item>
+        <item>路况畅通</item>
+        <item>无明显拥堵</item>
+        <item>有异常交通</item>
+    </string-array>
+    <string-array name="sms_exclude_category">
+        <item>返済</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Red - up, green - down</item>
+        <item>Green - up, red - down</item>
+    </string-array>
+</resources>

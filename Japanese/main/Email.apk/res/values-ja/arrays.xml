@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>"今夜"</item>
+        <item>"明日"</item>
+        <item>"週末"</item>
+        <item>"来週"</item>
+        <item>"来月"</item>
+        <item>"日付を選択"</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>"返信"</item>
+        <item>"全員に返信"</item>
+        <item>"転送"</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>"最小"</item>
+        <item>"小"</item>
+        <item>"中"</item>
+        <item>"大"</item>
+        <item>"最大"</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recently viewed</item>
+        <item>Format</item>
+        <item>Name</item>
+        <item>Sender</item>
+        <item>Date received</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Frequently Used</item>
+        <item>All Folders</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Newer message</item>
+        <item>Older message</item>
+        <item>Inbox</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>すべて</item>
+        <item>受信者のみ</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>mobile:</item>
+        <item>Phone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>住所:</item>
+        <item>電話:</item>
+        <item>名前:</item>
+        <item>メール:</item>
+        <item>携帯:</item>
+        <item>WeChat:</item>
+        <item>FAX:</item>
+        <item>郵便番号:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>免責事項:</item>
+        <item>メールアプリの免責事項</item>
+        <item>Sent via WPSMail</item>
+        <item>Sent from</item>
+        <item>Sent with</item>
+        <item>Thanks,</item>
+        <item>Best Regards</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Thanks,</item>
+        <item>Best Regards</item>
+        <item>Sent from my</item>
+        <item>Original email</item>
+        <item>Sent from my</item>
+        <item>Sent from</item>
+        <item>From</item>
+        <item>This email</item>
+        <item>免責事項</item>
+        <item>メールアプリの免責事項</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feature_desc">
+        <item>いくつかの既知の問題を修正しました</item>
+    </string-array>
+</resources>

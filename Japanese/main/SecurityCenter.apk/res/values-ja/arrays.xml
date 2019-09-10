@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"今週 "</item>
+        <item>"今日 "</item>
+        <item>"今月 "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"昨日 "</item>
+        <item>"今日 "</item>
+        <item>"先月 "</item>
+        <item>"今月 "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"今週: "</item>
+        <item>"今日: "</item>
+        <item>"今月: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"昨日: "</item>
+        <item>"今日: "</item>
+        <item>"先月: "</item>
+        <item>"今月: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"昨日 (モバイルデータ) "</item>
+        <item>"今日 (モバイルデータ) "</item>
+        <item>"先月 (モバイルデータ) "</item>
+        <item>"今月 (モバイルデータ) "</item>
+        <item>"昨日 (Wi-Fi) "</item>
+        <item>"今日 (Wi-Fi) "</item>
+        <item>"先月 (Wi-Fi) "</item>
+        <item>"今月 (Wi-Fi)"</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"モバイルデータ使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"モバイル使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>"警告を表示"</item>
+        <item>"警告と共にモバイルデータをオフ"</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Always</item>
+        <item>For exceptions only</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>"デバイスがロックされた時"</item>
+        <item>"デバイスがロックされた時、またはアプリを終了した後"</item>
+        <item>"デバイスがロックされた時、またはアプリを終了した1分後"</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>"状態"</item>
+        <item>"アプリ名"</item>
+        <item>"使用頻度"</item>
+        <item>"ストレージ使用"</item>
+        <item>Installation time</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>"状態順"</item>
+        <item>"アプリ名順"</item>
+        <item>"使用頻度順"</item>
+        <item>"ストレージ使用順"</item>
+        <item>"インストール時間順"</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Installation source</item>
+        <item>Installation time</item>
+        <item>Last update source</item>
+        <item>Last update time</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>"データ使用量"</item>
+        <item>"電話の残高"</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>"オフにして通知する"</item>
+        <item>"通知のみ"</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Monthly data plan</item>
+        <item>Daily data plan</item>
+        <item>Unlimited data plan</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Legal workdays</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>デフォルト</item>
+        <item>パフォーマンス優先</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>デフォルトの温度制御モードを使用</item>
+        <item>パフォーマンス優先</item>
+    </string-array>
+</resources>

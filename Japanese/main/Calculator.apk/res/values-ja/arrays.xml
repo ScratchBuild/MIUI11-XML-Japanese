@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mortgage_repayment">
+        <item>元利均等返済</item>
+        <item>元金均等返済</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>左丸括弧</item>
+        <item>右丸括弧</item>
+        <item>階乗</item>
+        <item>自然対数</item>
+        <item>対数</item>
+        <item>平方根</item>
+        <item>割る</item>
+        <item>掛ける</item>
+        <item>足す</item>
+        <item>引く</item>
+        <item>小数点</item>
+        <item>べき乗</item>
+        <item>正接(タンジェント)</item>
+        <item>正弦(サイン)</item>
+        <item>余弦(コサイン)</item>
+        <item>円周率</item>
+        <item>イコール</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>JPY</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>HKD</item>
+    </string-array>
+</resources>

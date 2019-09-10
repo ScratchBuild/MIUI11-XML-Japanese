@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d個のファイルをコピーしています。</item>
+        <item quantity="one">%1$d個のファイルをコピーしています。</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d個のファイルを移動しています。</item>
+        <item quantity="one">%1$d個のファイルを移動しています。</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d件のファイルを削除しています。</item>
+        <item quantity="one">%1$d件のファイルを削除しています。</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d 個のファイルをコピーできませんでした</item>
+        <item quantity="one">%1$d 個のファイルをコピーできませんでした</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d 個のファイルを移動できませんでした</item>
+        <item quantity="one">%1$d 個のファイルを移動できませんでした</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d 個のファイルを削除できませんでした</item>
+        <item quantity="one">%1$d 個のファイルを削除できませんでした</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d件のファイルをクリップボードにコピーしました。</item>
+        <item quantity="one">%1$d件のファイルをクリップボードにコピーしました。</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d 個を選択中</item>
+        <item quantity="one">%1$d 個を選択中</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d 個のアイテム</item>
+        <item quantity="one">%1$d 個のアイテム</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">%1$d 個のファイルを削除しますか？</item>
+        <item quantity="one">%1$d 個のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">%1$d 個のフォルダとそのコンテンツを削除しますか？</item>
+        <item quantity="one">%1$d 個のフォルダとそのコンテンツを削除しますか？</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">%1$d 個の項目を削除しますか？</item>
+        <item quantity="one">%1$d 個の項目を削除しますか？</item>
+    </plurals>
+</resources>

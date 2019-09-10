@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">メディアサーバー</string>
+  <string name="cancel">キャンセル</string>
+  <string name="enable_wifi_btn">オンにする</string>
+  <string name="enable_wifi_message">近くの端末を検索して接続するにはWi-Fiをオンにします。</string>
+  <string name="enable_wifi_title">Wi-Fiをオンにする</string>
+  <string name="media_feature_projection">画面のミラーリング</string>
+  <string name="media_route_controller_disconnect">切断</string>
+  <string name="media_status_error">エラー</string>
+  <string name="media_status_started">接続しました</string>
+  <string name="media_status_starting">接続中…</string>
+  <string name="media_status_stopped">停止しました</string>
+  <string name="media_status_stopping">停止中…</string>
+  <string name="noti_projection_status_desc_on">画面のミラーリングはオンです</string>
+  <string name="noti_projection_status_title">Mi Playワイヤレスディスプレイ</string>
+  <string name="prjection_title">ワイヤレスディスプレイ</string>
+  <string name="search_for_devices">更新</string>
+  <string name="wifi_display_autonomous_go">Wi-Fi Directグループオーナーを有効</string>
+  <string name="wifi_display_certification_heading">認証</string>
+  <string name="wifi_display_details">ディスプレイの設定</string>
+  <string name="wifi_display_enable_menu_item">ワイヤレスディスプレイの有効化</string>
+  <string name="wifi_display_listen_channel">リッスンチャンネル</string>
+  <string name="wifi_display_listen_mode">リッスンモードを有効</string>
+  <string name="wifi_display_no_devices_found">周辺にデバイスが見つかりません</string>
+  <string name="wifi_display_operating_channel">チャンネル操作</string>
+  <string name="wifi_display_options_done">完了</string>
+  <string name="wifi_display_options_forget">切断</string>
+  <string name="wifi_display_options_name">名前</string>
+  <string name="wifi_display_options_title">ワイヤレスディスプレイのオプション</string>
+  <string name="wifi_display_pause">一時停止</string>
+  <string name="wifi_display_resume">再開</string>
+  <string name="wifi_display_session_info">セッション情報</string>
+  <string name="wifi_display_settings_title">画面のキャスト</string>
+  <string name="wifi_display_status_connected">接続済み</string>
+  <string name="wifi_display_status_connecting">接続中</string>
+  <string name="wifi_display_status_in_use">使用中</string>
+  <string name="wifi_display_status_not_available">ご利用いただけません</string>
+  <string name="wifi_display_wps_config">WPS設定</string>
+</resources>

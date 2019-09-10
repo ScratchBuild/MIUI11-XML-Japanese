@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">HybridAccessory</string>
+  <string name="short_cut_dialog_cancel_button_text">いいえ</string>
+  <string name="short_cut_dialog_cotent">以下のアプリはインストールせずに使用できます。ショートカットを保存しますか？</string>
+  <string name="short_cut_dialog_create_button_text">はい</string>
+  <string name="short_cut_dialog_not_tip_check_box">二週間後まで表示しない</string>
+  <string name="short_cut_dialog_title">ショートカットを作成</string>
+</resources>

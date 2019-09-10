@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>名前</item>
+        <item>ニックネーム</item>
+        <item>電話</item>
+        <item>Eメール</item>
+        <item>組織</item>
+        <item>IM</item>
+        <item>IP電話</item>
+        <item>誕生日</item>
+        <item>ウェブサイト</item>
+        <item>住所</item>
+        <item>メモ</item>
+        <item>関連事項</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>最長</item>
+        <item>2日</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>未設定</item>
+        <item>1時間</item>
+        <item>6時間</item>
+        <item>12時間</item>
+        <item>1日</item>
+        <item>最長</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>常に</item>
+        <item>サイレントモード時のみ</item>
+        <item>バイブレーションしない</item>
+    </string-array>
+    <string-array name="reason_type">
+        <item>詐欺</item>
+        <item>違法な内容</item>
+        <item>スパム</item>
+        <item>その他</item>
+        <item>キャンセル</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>受信して通知する</item>
+        <item>受信のみ</item>
+        <item>拒否する</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>MMS</item>
+        <item>Miメッセージ</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Miメッセージ</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1秒</item>
+        <item>2秒</item>
+        <item>3秒</item>
+        <item>4秒</item>
+        <item>5秒</item>
+        <item>6秒</item>
+        <item>7秒</item>
+        <item>8秒</item>
+        <item>9秒</item>
+        <item>10秒</item>
+        <item>その他</item>
+    </string-array>
+</resources>
