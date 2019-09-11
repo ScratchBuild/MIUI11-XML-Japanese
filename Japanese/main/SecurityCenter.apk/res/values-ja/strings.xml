@@ -2252,8 +2252,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
   <string name="system_permission_declare_privacy_declare">We respect and protect your privacy.Note that %1s needs to collect your data and requires the following permissions to work normally:</string>
   <string name="system_permission_declare_privacy_no_permission">Note that %1s needs to collect your data to work normally.We respect and protect your privacy.</string>
-We respect and protect your privacy."</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using this feature.&lt;/Data></string>
   <string name="system_permission_declare_revoke_system">このアプリを終了することができます。</string>
   <string name="system_permission_declare_revoke_uninstallable">You can sign out, uninstall this app, or revoke your authorization in Security &gt; Manage apps &gt; Permissions &gt; Permissions.</string>
   <string name="system_permission_declare_use_network">ネットワークへの接続</string>
