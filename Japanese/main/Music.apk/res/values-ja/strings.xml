@@ -104,6 +104,7 @@
   <string name="change_download_quality">"ダウンロード品質を変更"</string>
   <string name="character_counter_content_description">文字数制限を %2$d 文字のうち %1$d 文字超えました</string>
   <string name="choose_download_quality">"ダウンロード品質を選択"</string>
+  <string name="choose_music_lang_pref">曲の優先言語</string>
   <string name="choose_stream_quality">"ストリーミング品質を選択"</string>
   <string name="click_to_shuffle">"シャッフルするにはタップ"</string>
   <string name="close_music_time">"残り時間: "</string>
@@ -702,10 +703,10 @@
   <string name="sleep_mode_summary">"一定時間後にプレーヤーを停止する"</string>
   <string name="sleep_mode_title">"スリープタイマー"</string>
   <string name="sliding_pro_center">PRO center</string>
-  <string name="song_already_in_playlist">この曲は既にキューに入っています</string>
+  <string name="song_already_in_playlist">この曲は既にプレイリストに存在します</string>
   <string name="song_exist_in_playlist">この曲は既にキューに入っています</string>
   <string name="song_info">"曲の詳細"</string>
-  <string name="song_is_added_to_playlist">キューに追加しました</string>
+  <string name="song_is_added_to_playlist">プレイリストに追加しました</string>
   <string name="song_is_empty">Song name can not be empty.</string>
   <string name="song_name">Song</string>
   <string name="song_not_find">"この曲は利用できません。"</string>
@@ -729,6 +730,7 @@
   <string name="tab_artist_list">"アーティスト"</string>
   <string name="tab_folder">Folders</string>
   <string name="tab_playlist">Playlists</string>
+  <string name="tab_top_results">Top result</string>
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="tab_video">Videos</string>
@@ -766,6 +768,7 @@
   <string name="toast_my_playlist_illegal_name">"The title of this playlist isn't valid. Rename this playlist."</string>
   <string name="toast_my_playlist_set_to_private">"This playlist is private now. Other people can't see it."</string>
   <string name="toast_my_playlist_set_to_public">This playlist is public now. Other people can see it.</string>
+  <string name="toast_my_playlist_sync_failed">ネットワークエラーのため、プレイリストを同期できませんでした。</string>
   <string name="toast_new_playlist_name_no_enter">"Can't start a new paragraph"</string>
   <string name="toast_new_playlist_name_too_long">"プレイリスト名が長すぎます"</string>
   <string name="toast_normal_songs_for_download">"ダウンロード品質を標準に設定しました"</string>
