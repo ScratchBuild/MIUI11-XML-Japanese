@@ -1054,6 +1054,11 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="sync_and_backup_bookmark">"ブックマークの同期とバックアップ"</string>
   <string name="sync_and_backup_history">"同期とバックアップの履歴"</string>
   <string name="sync_cloud_tabs">"同期"</string>
+  <string name="system_permission_accounts_purpose">システムアカウントのログインと管理に使用されます</string>
+  <string name="system_permission_main_purpose">Browse the web, search for information, read news, watch videos, etc</string>
+  <string name="system_permission_phone_state_purpose">対応するサービスを提供するために、端末のIMEI識別子を取得するために使用されます</string>
+  <string name="system_permission_storage_purpose">保存した画像などのファイルの読み取りと書き込み、およびファイルのアップロード/ダウンロード機能を有効にするために使用されます</string>
+  <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
   <string name="tab_hotpage">"ニュースフィード"</string>
   <string name="tab_quicklinks">"スタートページ"</string>
   <string name="tab_yellowpage">"リンク"</string>
