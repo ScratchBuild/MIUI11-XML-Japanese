@@ -2,7 +2,6 @@
 <resources>
   <string name="app_name">MiCloudSync</string>
   <string name="error_data_in_transfer">同期は%s時間で終了します。</string>
-  <string name="error_data_in_transfer_title">Mi Cloudが利用できません</string>
   <string name="error_forbidden">Mi Accountに問題があるため、同期がオフになっています。</string>
   <string name="error_not_acceptable">同期がオフになっています。</string>
   <string name="error_title">同期できませんでした</string>

@@ -29,6 +29,7 @@
   <string name="character_counter_content_description">文字数制限を %2$d 文字のうち %1$d 文字超えました</string>
   <string name="choose_pay_title">支払い方法を選択</string>
   <string name="choose_picture">"QRコードの画像を選択"</string>
+  <string name="close_hotspot_when_connecting_to_wifi">ホットスポットがオンです。Wi-Fiをオンにします。</string>
   <string name="common_retake_picture">"撮り直す"</string>
   <string name="common_retry">再試行</string>
   <string name="common_save">保存</string>
@@ -151,6 +152,7 @@
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">常に確認</string>
   <string name="setting_default_function">Default feature</string>
+  <string name="setting_function_sort">Rearrange features</string>
   <string name="setting_preference_pay">優先の支払い方法</string>
   <string name="setting_title">設定</string>
   <string name="setting_use_last_choose">前回の選択を使用</string>
@@ -204,7 +206,7 @@
   <string name="website_details">ウェブサイト:</string>
   <string name="weixin_code_tip">WeChatを使用するにはこのQRコードをスキャンしてください</string>
   <string name="wifi_details">Wi-Fi:</string>
-  <string name="wifi_exist_fail">Wi-Fiホットスポット \"%1$s\" は既に存在します。削除してもう一度お試しください。</string>
+  <string name="wifi_exist_fail">Wi-Fiホットスポット \"%1$s\" は既に存在します。削除してからコードをもう一度スキャンして接続します。</string>
   <string name="wifi_open_fail">Wi-Fiをオンにできません</string>
   <string name="wifi_psd_toolong">パスワードが長すぎます。手動で入力してください。</string>
   <string name="wifi_pwd">Password:</string>

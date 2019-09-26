@@ -231,6 +231,7 @@
   <string name="anti_spam">ブロックリスト</string>
   <string name="aod_and_lock_screen_settings_title">アンビエントディスプレイとロック画面</string>
   <string name="aod_close_color_inversion">"This feature doesn't work with color inversion. Turn off color inversion first."</string>
+  <string name="aod_name_wanxiang">アンビエントディスプレイ</string>
   <string name="aod_notification_style_animation">アニメーションを表示</string>
   <string name="aod_notification_style_none">何もしない</string>
   <string name="aod_notification_style_screen_on">画面を点灯</string>
@@ -1229,6 +1230,7 @@ This feature can be turned off in the Settings."</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
   <string name="choose_a_card_to_reset">リセットするにはSIMカードを選択</string>
   <string name="choose_keyguard_clock_style">ロック画面の時計フォーマット</string>
+  <string name="choose_lock_pattern_header_text">パターンを設定</string>
   <string name="choose_keyguard_clock_summary">この設定はサードパーティのテーマでは機能しません</string>
   <string name="choose_profile">プロファイルの選択</string>
   <string name="choose_smartcover_type">ケースの種類を選択</string>
@@ -1366,6 +1368,7 @@ This feature can be turned off in the Settings."</string>
   <string name="confirm_frp_credential_message">端末は工場出荷時の状態にリセットされています。以前の機密情報でロックを解除できます。</string>
   <string name="confirm_frp_credential_skip_txt">代わりにGoogleアカウントを使用する</string>
   <string name="confirm_frp_credential_title">ファクトリーリセット後にロック解除</string>
+  <string name="confirm_lock_pattern_header_text">パターンを入力</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_password_with_fingerprint">指紋を使用</string>
   <string name="confirm_password_with_password">パスワードを入力</string>
@@ -1658,7 +1661,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="day_of_week">曜日</string>
   <string name="dc_light_dialog_summary">アンチフリッカーモードがオンの場合、画質に影響を与える可能性があります。とにかくオンにしますか？</string>
   <string name="dc_light_summary">目の疲れを軽減するにはアンチフリッカーモードを適用する</string>
-  <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
+  <string name="dc_light_summary_new">DC dimming prevents extensive flickering and reduces eye strain in low light conditions. However, image quality might be affected when this feature is on.</string>
   <string name="dc_light_title">アンチフリッカーモード</string>
   <string name="debug_app">デバッグアプリを選択</string>
   <string name="debug_app_not_set">デバッグアプリケーションが設定されていません</string>
@@ -2329,11 +2332,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
   <string name="forget_password_dialog_button_text">戻る</string>
-  <string name="forget_password_dialog_content_four">&lt;Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.&lt;/Data></string>
-  <string name="forget_password_dialog_content_one">&lt;Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."&lt;/Data></string>
-  <string name="forget_password_dialog_content_three">&lt;Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."&lt;/Data></string>
+  <string name="forget_password_dialog_content_four">2. Select [Wipe data], and wait until your device reboots.</string>
+  <string name="forget_password_dialog_content_one">&lt;Data&gt;"If you forget your password, you won't be able to restore it. However, you can reset your password after you &amp;lt;font color=#ec2700&amp;gt;erase all data on your device&amp;lt;/font&amp;gt; (including photos, contacts, etc.). Back up all important data before this."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_three">1. Turn off your device. Press the [Power] button and the [Volume+] button simultaneously, and hold them until you see the * icon.</string>
   <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
-  <string name="forget_password_dialog_title">Reset your password</string>
+  <string name="forget_password_dialog_title">データを消去</string>
   <string name="forget_pattern">&lt;u>Forgot pattern?&lt;/u></string>
   <string name="forget_privacy_password_setting">Mi Accountを追加</string>
   <string name="forget_privacy_password_summary">Mi Accountを使用してパスワードをリセット</string>
@@ -3278,8 +3281,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_gallery_search_title">ギャラリー内の写真を検索</string>
   <string name="miui_lab_gesture_desc">ナビゲーションボタンの代わりにジェスチャーを使用する</string>
   <string name="miui_lab_gesture_title">フルスクリーンジェスチャーを使用</string>
-  <string name="miui_lab_home_feed_desc">Bright ideas. Compelling stories.</string>
-  <string name="miui_lab_home_feed_title">メディアセンター</string>
   <string name="miui_lab_install_drive_mode_error">インストールできませんでした。もう一度お試しください。</string>
   <string name="miui_lab_install_drive_mode_summary">運転モードはシステムアプリです。インストールにインターネット接続は必要ありません。</string>
   <string name="miui_lab_install_drive_mode_title">運転モードをインストール</string>

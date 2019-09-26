@@ -2214,6 +2214,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="superpower_dialog_massage">ウルトラバッテリーセーバーは、基本的な機能(通話、SMS、ネットワークへの接続など)をできるだけ長く利用できるようにするため、 消費電力が多く端末のパフォーマンスを低下させる機能を制限します。ウルトラバッテリーセーバーをオンにしますか？</string>
   <string name="superpower_dialog_title">ウルトラバッテリーセーバー</string>
   <string name="superpower_notification_hint_enter">オンにする</string>
+  <string name="superpower_notification_new_title">バッテリー残量が %d%% 未満です</string>
   <string name="superpower_notification_summary">ウルトラバッテリーセーバーをオンにする</string>
   <string name="superpower_notification_time_12">M月d日 EEEE</string>
   <string name="superpower_notification_time_24">M月d日 EEEE</string>
@@ -2250,8 +2251,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
   <string name="system_permission_declare_no_say_no_analytics">"If you don't want to grant these permissions, you can unenroll in Settings &gt; Additional settings &gt; Privacy &gt; User Experience Program."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
-  <string name="system_permission_declare_privacy_declare">We respect and protect your privacy.Note that %1s needs to collect your data and requires the following permissions to work normally:</string>
-  <string name="system_permission_declare_privacy_no_permission">Note that %1s needs to collect your data to work normally.We respect and protect your privacy.</string>
+  <string name="system_permission_declare_privacy_declare">We respect and protect your privacy. Note that %1s needs to collect your data and requires the following permissions to work normally:</string>
+  <string name="system_permission_declare_privacy_no_permission">Note that %1s needs to collect your data to work normally. We respect and protect your privacy.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using this feature.&lt;/Data></string>
   <string name="system_permission_declare_revoke_system">このアプリを終了することができます。</string>
   <string name="system_permission_declare_revoke_uninstallable">You can sign out, uninstall this app, or revoke your authorization in Security &gt; Manage apps &gt; Permissions &gt; Permissions.</string>

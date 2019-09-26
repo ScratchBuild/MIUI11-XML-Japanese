@@ -70,8 +70,8 @@
   <string name="description_uploadtime">"更新"</string>
   <string name="description_version">"バージョン"</string>
   <string name="description_version_szie">"バージョン: %1$s サイズ: %2$s"</string>
-  <string name="desktop_effects">ホーム画面のエフェクト</string>
-  <string name="desktop_wallpaper">"ホーム画面"</string>
+  <string name="desktop_effects">ライブ壁紙</string>
+  <string name="desktop_wallpaper">壁紙</string>
   <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
   <string name="detail_author_fans">"Followers: "</string>
   <string name="detail_author_works">"Items: "</string>
@@ -201,7 +201,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="kuyin_user_agreement_content_href">iFlytek Privacy Policy</string>
   <string name="lab">Beta features</string>
   <string name="like_list">Items I liked</string>
-  <string name="live_wallpaper">"ライブ壁紙"</string>
+  <string name="live_wallpaper">動画壁紙</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_resource_detail_fail">"テーマを読み込めません"</string>
   <string name="loading_resource_detail_info">"読み込み中…"</string>
@@ -537,7 +537,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="theme_component_title_photo_frame">"フォトフレーム"</string>
   <string name="theme_component_title_ringtone">"着信音"</string>
   <string name="theme_component_title_statusbar">"ステータスバー"</string>
-  <string name="theme_component_title_wallpaper">"ホーム画面"</string>
+  <string name="theme_component_title_wallpaper">"壁紙"</string>
   <string name="theme_current_using_has_update">"テーマの更新が利用可能"</string>
   <string name="theme_description_title_customized">"カスタム"</string>
   <string name="theme_detail_tab_comment">コメント</string>
@@ -578,8 +578,8 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="third_party_pickers_activity_title">"%1$sを追加"</string>
   <string name="title_component">"テーマのカスタマイズ"</string>
   <string name="title_my_audio_resource">My ringtones</string>
-  <string name="title_my_miwallpaper_desktop_effects">ホーム画面のエフェクト</string>
-  <string name="title_my_miwallpaper_resource">My live wallpapers</string>
+  <string name="title_my_miwallpaper_desktop_effects">ライブ壁紙</string>
+  <string name="title_my_miwallpaper_resource">My video wallpapers</string>
   <string name="title_my_miwallpaper_video_file_resource">My wallpaper movies</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
   <string name="title_system_audio_notification_resource">"システムの通知音"</string>

@@ -51,6 +51,8 @@
   <string name="mobiledata_alert_dialog_title">モバイルデータ通信の警告</string>
   <string name="open_perm_msg">コンパスが正常に動作するには、位置情報とカメラへのアクセス許可が必要です。これは座標を決定し、ライブビューを提供するために必要です。許可しますか？</string>
   <string name="open_perm_title">アクセス許可が必要</string>
+  <string name="permission_camera_desc">Using the spirit level</string>
+  <string name="permission_location_desc">Displaying coordinates and atmospheric pressure</string>
   <string name="preference_other">その他</string>
   <string name="preference_privacy_title">プライバシーポリシー</string>
   <string name="pressure_title">気圧</string>

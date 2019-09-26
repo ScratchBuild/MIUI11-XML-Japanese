@@ -283,6 +283,7 @@
   <string name="text_play_speed_2_0">2X playback speed</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"File Managerがインストールされていません"</string>
+  <string name="usage_description">Transcribing audio and syncing items with the cloud</string>
   <string name="webview_check_network">ネットワーク設定</string>
   <string name="webview_data_error">エラーが発生しました</string>
   <string name="webview_locating_fail">現在地が見つかりませんでした</string>

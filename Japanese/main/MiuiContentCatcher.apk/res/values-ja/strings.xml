@@ -2,8 +2,9 @@
 <resources>
   <string name="app_name">Application Extension Service</string>
   <string name="auth_activity_label">確認コード</string>
-  <string name="auth_fingerprint_content">保存されたパスワードにアクセスするには、</string>
-  <string name="auth_fingerprint_content_message">指紋を確認できませんでした、再試行</string>
+  <string name="auth_fingerprint_content">指紋を読み取り中…</string>
+  <string name="auth_fingerprint_content_message">センサーに指を置いてください</string>
+  <string name="auth_fingerprint_content_message_error">指紋を読み取れませんでした。再試行</string>
   <string name="auth_fingerprint_title">指紋を確認</string>
   <string name="autofill_description">"MIUIはパスワードを暗号化して保存することで、必要なときにいつでも自動で入力することができます。Xiaomiは暗号化されたパスワードを読むことはできません。</string>
   <string name="autofill_hint_email_address">メールアドレス</string>

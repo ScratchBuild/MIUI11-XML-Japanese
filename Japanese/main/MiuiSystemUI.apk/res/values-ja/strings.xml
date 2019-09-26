@@ -509,6 +509,8 @@
   <string name="ext_media_safe_unmount_notification_title">SDカードの安全な取り出し</string>
   <string name="ext_media_unmountable_notification_message">SDカードが故障しています。再フォーマットを行ってください。</string>
   <string name="ext_media_unmountable_notification_title">故障したSDカード</string>
+  <string name="face_data_apply_for_category_title">顔データを使用してロックを解除</string>
+  <string name="face_data_apply_for_keyguard_title">ロック画面</string>
   <string name="face_data_input_camera_fail">"カメラを起動できませんでした"</string>
   <string name="face_data_input_camera_ok">カメラを起動中…</string>
   <string name="face_data_input_cancel">"キャンセル"</string>
@@ -540,6 +542,7 @@
   <string name="face_unlock_be_on_the_screen">"顔の前で端末を静止してください"</string>
   <string name="face_unlock_by_notification_screen_on_msg">"着信通知で画面が点灯するたびに、顔データを使用して端末のロックを解除することができます。これにより、電池の消耗が早くなる可能性があります。"</string>
   <string name="face_unlock_by_notification_screen_on_title">"画面の点灯時に顔認証でのロック解除を許可"</string>
+  <string name="face_unlock_category_title">ロック画面のオプション</string>
   <string name="face_unlock_check_failed">"認識できませんでした"</string>
   <string name="face_unlock_close_screen">"画面に近づいてください"</string>
   <string name="face_unlock_down">"頭を上げてください"</string>
@@ -953,11 +956,11 @@ EEEE"</string>
   <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
   <string name="miui_screen_rotation_freeze_message">自動回転は無効です。</string>
   <string name="miui_toast_zen_dnd_to_off">DND is off now. Sounds and vibration are restored to normal.</string>
-  <string name="miui_toast_zen_standard_to_off">DND is off now. Ringtones are restored to normal.</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">DND is off now. Ringtones, as well as notification and media sounds, will be played.</string>
+  <string name="miui_toast_zen_standard_to_off">Silent mode is off now. Ringtones are restored to normal.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Silent mode is off now. Ringtones, as well as notification and media sounds, will be played.</string>
   <string name="miui_toast_zen_to_dnd">Switched to DND. Sounds are silenced and vibration is off now.</string>
-  <string name="miui_toast_zen_to_standard">Switched to DND. Ringtones for calls and notifications are silenced now.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Switched to DND. Ringtones, as well as notification and media sounds, are silenced now.</string>
+  <string name="miui_toast_zen_to_standard">Switched to Silent mode. Ringtones for calls and notifications are silenced now.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Switched to Silent mode. Ringtones, as well as notification and media sounds, are silenced now.</string>
   <string name="mobile_data">モバイルデータ</string>
   <string name="mobile_data_always_on">モバイルデータを常にON</string>
   <string name="mobile_data_always_on_summary">Wi‑Fiが（ネットワークの自動切り替えで）ONのときでもモバイルデータが常にONになります。</string>

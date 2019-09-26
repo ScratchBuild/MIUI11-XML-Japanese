@@ -234,6 +234,12 @@
         <item>"未定"</item>
         <item>"いいえ"</item>
     </string-array>
+    <string-array name="response_labels2">
+        <item>返信しない</item>
+        <item>承諾</item>
+        <item>後で決める</item>
+        <item>辞退</item>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>射手座</item>

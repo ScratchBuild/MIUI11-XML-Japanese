@@ -31,6 +31,8 @@
   <string name="check_in_todo_app">タスクを表示</string>
   <string name="cloud_service_state_open_reminder">"クラウドとの同期をオンにして、メモを同期します。"</string>
   <string name="cloud_trash_bin_title">"クラウドのメモを削除"</string>
+  <string name="confirm_cancel">同意しない</string>
+  <string name="confirm_ok">同意</string>
   <string name="cta_confirm_cancel">許可しない</string>
   <string name="cta_confirm_ok">許可</string>
   <string name="cta_dialog_message">メモアプリが正常に動作するには、インターネットへの接続、音声の録音、および連絡先へのアクセス許可が必要です。許可しますか？</string>
@@ -133,13 +135,20 @@
   <string name="notealert_ok">"却下"</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">"この許可を悪意のあるアプリに利用されると、個人情報にアクセスされる恐れがあります。"</string>
+  <string name="permission_get_account_desc">Syncing notes with the cloud</string>
   <string name="permission_intro_contact">For marking notes taken during calls</string>
   <string name="permission_intro_microphone">For recording voice notes</string>
   <string name="permission_intro_phone">For marking notes taken during calls</string>
   <string name="permission_intro_storage">For saving notes and attachments</string>
+  <string name="permission_microphone_desc">Making voice notes</string>
+  <string name="permission_network_for_cloud_desc">To sync notes with the cloud, you need to connect to the internet. Mobile data might be used to sync items. Connect now?</string>
+  <string name="permission_read_contact_desc">Associating the notes created during calls with contacts</string>
+  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI will collect your voice recordings and device ID to transcribe audio and create voice notes. Learn more in Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">"メモへのアクセス"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">確認なしでメモを削除するには、2本の指で上にスワイプ</string>
   <string name="pref_desc_todo_float_mode">画面の端からスワイプしてタスクツールボックスを開く</string>
+  <string name="pref_remind_type_summary">Play reminder sound in Silent mode</string>
+  <string name="pref_remind_type_title">Ignore Silent mode</string>
   <string name="pref_title_cloud_trash_bin">クラウドで削除されたメモ</string>
   <string name="pref_title_common">"その他の設定"</string>
   <string name="pref_title_font_size">"文字サイズ"</string>
@@ -152,6 +161,7 @@
   <string name="redo">"やり直し"</string>
   <string name="refuse_to_open_as_pic_because_of_loading">"メモが読み込まれるまで待って、もう一度お試しください。"</string>
   <string name="refuse_to_share_as_pic_because_of_content">"このメモは共有するには大きすぎます。"</string>
+  <string name="remind_title">リマインダー</string>
   <string name="rename_folder_dialog_tile">"フォルダ名を変更"</string>
   <string name="rich_text_bold_description">"太字"</string>
   <string name="rich_text_center_description">"中央寄せ"</string>

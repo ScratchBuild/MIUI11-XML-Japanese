@@ -395,9 +395,9 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_detail_summary_off">同期はオフです</string>
   <string name="sync_detail_text">同期の詳細</string>
   <string name="sync_dspt">同期</string>
-  <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴、メッセージをすべての端末で同期します。 %s にブラウザでアクセスすることで同期したアイテムを確認できます。"</string>
+  <string name="sync_dspt_entrance_provision">"写真、メモ、やその他のアイテムをすべての端末で同期します。 %s にブラウザでアクセスすることで同期したアイテムを確認できます。"</string>
   <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Xiaomi Cloudが写真、連絡先、メモなどをバックアップするために必要です。Xiaomi Cloudは無料ですぐに使用できます。"</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Xiaomi Cloudが写真、メッセージ、メモなどをバックアップするために必要です。Xiaomi Cloudは無料ですぐに使用できます。"</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi Cloudを使用</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Xiaomi Cloud使用しない？"</string>
   <string name="sync_dspt_entrance_provision_network">"このアプリが正常に動作するには、インターネットへの接続が必要です。データを同期させるには、モバイルデータ接続またはWi-Fiをオンにする必要があります。"</string>

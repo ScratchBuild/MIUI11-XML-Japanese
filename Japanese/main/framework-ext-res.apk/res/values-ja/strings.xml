@@ -34,7 +34,6 @@
   <string name="button_text_next_step_timer">"次へ (%d)"</string>
   <string name="call_record_or">" または "</string>
   <string name="caller_info_name_delimiter">" または "</string>
-  <string name="can_not_transfer_when_screening">転送中はキャストできません</string>
   <string name="cancel_action">"キャンセル"</string>
   <string name="configure_input_methods">"キーボードの選択"</string>
   <string name="confirm_cancel_task_files">%1$sへのファイル送信をキャンセルしますか？</string>

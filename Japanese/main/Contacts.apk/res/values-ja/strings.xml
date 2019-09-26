@@ -126,6 +126,7 @@
   <string name="callrecordview_menu_delete_sim">Clear call history records (%s)</string>
   <string name="callrecordview_menu_delete_stranger">"不明な番号を消去"</string>
   <string name="callrecordview_menu_edit_call_note">"通話メモを編集"</string>
+  <string name="callrecordview_menu_identify_numbers">Identify phone numbers</string>
   <string name="callrecordview_menu_ip">"自動IPダイヤル"</string>
   <string name="callrecordview_menu_livetalk">Top-up package</string>
   <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -203,6 +204,7 @@
   <string name="contact_detail_action_item_nocalllog">"通話履歴なし"</string>
   <string name="contact_detail_calllog_call_note_tips">"メモ"</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
+  <string name="contact_detail_calllog_correct_yellow_page">修正または報告</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
   <string name="contact_detail_entry_pay">"送金"</string>
   <string name="contact_detail_entry_pay_dialog_title">電話番号を選択</string>
@@ -1197,6 +1199,7 @@ To add a contact to your list of favorites:
   <string name="wipe_data">"データを消去"</string>
   <string name="yellowPageNavigationIconLabel">"イエローページ"</string>
   <string name="yellowPageNavigationLabel">"イエローページ"</string>
+  <string name="yellowpage_address_tag">住所</string>
   <string name="yellowpage_fc_toast">"イエローページがクラッシュしたため、この機能を使用できません。"</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
@@ -1217,6 +1220,7 @@ To add a contact to your list of favorites:
   <string name="yellowpage_navigation_send_to_desktop_downloading">"ダウンロード中…"</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"ネットワークに接続できません"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">"ホーム画面に設置しました"</string>
+  <string name="yellowpage_provider_label">Data provided by</string>
   <string name="yellowpage_search_the_yellowpage">"イエローページを検索"</string>
   <string name="yellowpage_user_profile">"プロフィール"</string>
   <string name="zero_items_selected">"アイテムを選択"</string>

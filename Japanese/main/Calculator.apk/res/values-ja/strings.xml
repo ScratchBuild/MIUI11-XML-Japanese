@@ -145,6 +145,7 @@
   <string name="negDesc">Switch between temperatures below and above zero</string>
   <string name="network_confirm_content">"通貨変換、税金や住宅ローン計算が正常に動作するには、インターネットへの接続と位置情報サービスへのアクセスが必要です。"</string>
   <string name="network_confirm_title">"ネットワーク接続が必要"</string>
+  <string name="network_purpose">Welcome to Calculator! Calculator allows you to convert currencies, calculate mortgage repayments, and more.</string>
   <string name="none">None</string>
   <string name="not_supported_due_to_language">この機能は中国語でのみ利用可能です</string>
   <string name="percentDesc">パーセント</string>

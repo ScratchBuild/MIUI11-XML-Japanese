@@ -123,6 +123,7 @@
   <string name="confirm_recording_fail_calling_alert">"通話中に録音することはできません。"</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"別のアプリが既にデバイスのマイクを録音するために使用中です。"</string>
   <string name="confirm_recording_fail_title">"録音できません"</string>
+  <string name="confirm_reset_manually_parameter_message">すべてのパラメータをデフォルト値にリセットしますか？</string>
   <string name="confirm_restore_message">"カメラのデフォルト設定を復元しますか？"</string>
   <string name="confirm_restore_title">"デフォルト設定を復元"</string>
   <string name="custom_watermark_contains_senstive_words">"Watermarks can't contain restricted terms (%1$s)"</string>
@@ -210,6 +211,8 @@ and then create a shot with a minimal amount of noise."</string>
 and then create a shot where everyone looks best."</string>
   <string name="hint_groupshot_beauty">"Can't use Beautify in group shots"</string>
   <string name="hint_slow_motion">The video you shoot will be played slower.</string>
+  <string name="hint_subtitle">边录边说，语音自动转字幕</string>
+  <string name="hint_subtitle_prompt">已开启语音字幕，请边录边说</string>
   <string name="hunt_dual_water_mark">Dual camera watermark will be added automatically.</string>
   <string name="install_confirmed">"インストール"</string>
   <string name="lens_dirty_detected_content">"端末のカメラが汚れているようです。より良い
@@ -262,12 +265,14 @@ in Portrait mode"</string>
   <string name="live_sticker_network_error_hint">ネットワークエラー</string>
   <string name="live_sticker_tab_name">TikTok Magic Sticker</string>
   <string name="live_sticker_updating">更新中…</string>
+  <string name="location_permission_des">为照片或视频添加位置信息</string>
   <string name="lying_direct_hint">現在の向き</string>
   <string name="macro_mode">マクロ</string>
   <string name="macro_mode_tip">レンズと被写体の間の距離を10cm以内に近づけてください</string>
   <string name="macro_mode_use_hint_text_body">"マクロモードを使用して、小さな被写体を写真で大きく見せます"</string>
   <string name="macro_mode_use_hint_text_title">マクロ</string>
   <string name="makeup_reset_toast">Cleared makeup effects successfully</string>
+  <string name="manually_raw_hint">RAW</string>
   <string name="message_snap_double_confirm">"音量ボタンの長押しには現在、NFCの起動が割り当てられています。この機能を置換えますか？"</string>
   <string name="mimoji_app_name">Fun Cam</string>
   <string name="mimoji_back">戻る</string>
@@ -341,6 +346,16 @@ in Portrait mode"</string>
   <string name="module_name_square">Square</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"分割画面でカメラアプリは動作しません"</string>
+  <string name="network_access_user_notice_agree">同意</string>
+  <string name="network_access_user_notice_message_live_video">"欢迎您使用短视频功能，我们将使用联网功能为您提供道具、音乐等趣味性功能。
+
+点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
+  <string name="network_access_user_notice_message_sticker">"欢迎您使用贴纸功能，我们将使用联网功能获取更多贴纸。
+
+点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
+  <string name="network_access_user_notice_message_voice_caption">"欢迎您使用语音字幕功能，我们将使用联网功能为您提供实时语音转字幕服务。
+
+点击同意，表示您同意"&lt;a href="http://www.miui.com/res/doc/eula.html?lang=zh_CN"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy.html?lang=zh_CN"&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/a&gt;&amp;#20197;&amp;#21450;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#35768;&amp;#21487;&amp;#12290;</string>
   <string name="network_access_user_notice_title">インターネットに接続する</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入してください"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
@@ -649,6 +664,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">"スローモーション"</string>
   <string name="pref_video_speed_title">Video capture speed</string>
+  <string name="pref_video_subtitle">语音字幕</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">"0.3秒間隔 (10回)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">"4秒間隔 (120回)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">"5秒間隔 (150回)"</string>
@@ -672,11 +688,12 @@ Keep the subject sharp while blurring the background."</string>
   <string name="preparing_sd">"内部ストレージを確認中…"</string>
   <string name="recapture_dialog_message">确认重拍？</string>
   <string name="recapture_dialog_title">重新拍摄将清空当前形象</string>
-  <string name="recommend_macro_mode">建议使用微距模式</string>
-  <string name="recommend_portrait">建议使用人像模式</string>
+  <string name="recommend_macro_mode">建议开启“微距”模式</string>
+  <string name="recommend_portrait">建议使用“人像”模式</string>
   <string name="recommend_soft_light_tip">Use flash in the soft light mode</string>
-  <string name="recommend_super_night">建议使用夜景模式</string>
+  <string name="recommend_super_night">建议使用“夜景”模式</string>
   <string name="record_back_pressed_hint">"録画を停止するにはもう一度タップ"</string>
+  <string name="reset_manually_parameter_hint">リセット</string>
   <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、音量[＋]ボタンと戻るボタンを同時に押してください。"</string>
   <string name="screen_on_proximity_sensor_summary">"イヤホンの領域を覆わないでください"</string>
   <string name="search_settings">カメラ設定;品質;Image quality;Image location;Picture location;顔検出;シャッター音</string>
@@ -705,9 +722,10 @@ Keep the subject sharp while blurring the background."</string>
   <string name="spaceIsLow_content_external_storage_priority">"SDカードの空き容量が不足しています"</string>
   <string name="spaceIsLow_content_primary_storage_priority">"USBストレージの空き容量が不足しています"</string>
   <string name="start_capture">OK</string>
+  <string name="subtitle_network_exception_tips">网络不给力，暂时无法使用语音字幕</string>
   <string name="super_eis">超级防抖</string>
   <string name="super_eis_disabled_hint">超级防抖已关闭</string>
-  <string name="super_night_hint">画质优化中，请保持稳定</string>
+  <string name="super_night_hint">画质优化中，请持稳手机</string>
   <string name="super_night_toast">写真の撮影中は端末をしっかり保持してください</string>
   <string name="tap_to_exposure">"手動で露出を調整するにはタップ"</string>
   <string name="tap_to_focus">"フォーカスするにはタップ"</string>
@@ -754,5 +772,8 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="wideselfie_rotate_to_front">端末を前方に傾ける</string>
   <string name="wideselfie_rotate_to_left_slowly">端末を左に回転させる</string>
   <string name="wideselfie_rotate_to_right_slowly">端末を右に回転させる</string>
+  <string name="vv_use_hint_text_body">"开始VISION录制，更潮流的拼接玩法
+随后拍出时尚大片"</string>
+  <string name="vv_use_hint_text_title">视频VISION</string>
   <string name="wait">"読み込み中…"</string>
 </resources>

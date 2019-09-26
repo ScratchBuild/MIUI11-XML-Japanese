@@ -693,6 +693,7 @@ ID:%s
   <string name="network_show_wifi_setting_tip_dialog_title">"Wi-Fiネットワークが利用可能"</string>
   <string name="next_button_label">"進む"</string>
   <string name="no_app_open_document">"この操作を処理するためのアプリが見つかりませんでした"</string>
+  <string name="no_memory_space">メモリーに空きがありません</string>
   <string name="no_space_alert_cancel">"後で"</string>
   <string name="no_space_alert_clean">"空き領域を確保"</string>
   <string name="no_space_alert_text">"十分な空き領域がありません"</string>
@@ -1176,5 +1177,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="voice_title_please">Start speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
   <string name="webpage_title">"ブックマークと履歴"</string>
+  <string name="wechat_not_installed">Wechatがインストールされていません</string>
   <string name="window_manager_hybrid_application_list_title_text">最近使用した</string>
 </resources>

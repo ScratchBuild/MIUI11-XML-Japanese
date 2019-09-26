@@ -171,6 +171,7 @@
   <string name="add_pre_message_attachments_no">"追加しない"</string>
   <string name="add_pre_message_attachments_yes">"追加する"</string>
   <string name="add_star">Star</string>
+  <string name="all_purpose">Welcome to Mail! This email client was created by Kingsoft for Xiaomi. You can use this app to send and receive emails.</string>
   <string name="allread">"すべてを既読にする"</string>
   <string name="always_bcc_myself">"常に自分をBCCに追加する"</string>
   <string name="always_show_images">この送信者からの画像を常に表示する</string>
@@ -278,6 +279,7 @@
   <string name="config_cancel">"キャンセル"</string>
   <string name="config_retry">"再試行"</string>
   <string name="confirm">OK</string>
+  <string name="confirm_age">年齢の確認</string>
   <string name="confirm_before_delete">"削除前に確認する"</string>
   <string name="confirm_before_delete_keywords">"削除前に確認する;削除確認"</string>
   <string name="confirm_before_send">"送信前に確認する"</string>
@@ -514,6 +516,7 @@
   <string name="header_category_other">"フィードバック"</string>
   <string name="header_label_general_preferences">"全般"</string>
   <string name="help_and_info">"ヘルプ"</string>
+  <string name="help_email_title">MI Mail</string>
   <string name="help_me_get_qq_auth">Get QQ code</string>
   <string name="help_weixin_title">"If you have any questions, feel free to drop us a line in our official WeChat account: "</string>
   <string name="hide_elided">▼ Hide quoted text</string>
@@ -732,7 +735,9 @@ Try a different inbox."</string>
   <string name="output_db_summary">"データベースとして出力されます"</string>
   <string name="output_db_title">"データベースを出力"</string>
   <string name="output_to_disk">"ファイルとしてログを出力"</string>
+  <string name="over_16_content">16歳以上ですか？</string>
   <string name="over_due">Overdue</string>
+  <string name="over_sixteen">私は16歳以上です。</string>
   <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
   <string name="overlays_ok">Open permissions</string>
   <string name="overlays_tip">Phone settings - Application - Application Details - open floating Windows permissions in the permissions manager, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
@@ -765,12 +770,21 @@ Try a different inbox."</string>
   <string name="perference_setup_send_tag">"送信メールサーバー"</string>
   <string name="permission_access_provider_desc">"このアプリにメールデータベース（送受信したメッセージ、ユーザー名、パスワードを含む）へのアクセスを許可します。"</string>
   <string name="permission_access_provider_label">"メールプロバイダのデータへのアクセス"</string>
+  <string name="permission_des_calendar">Used to sync calendar messages for you</string>
+  <string name="permission_des_contact">Used to read the contact email address for you to quickly fill in the mail contact</string>
+  <string name="permission_des_detail">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases."</string>
+  <string name="permission_des_external_storage">Used to compose your mail and read local files to complete the process of adding and saving attachments</string>
+  <string name="permission_des_phone_status">Used to obtain IMEI to distinguish different devices</string>
+  <string name="permission_des_storage">For creating new emails, as well as saving and adding attachments</string>
   <string name="permission_read_attachment_desc">"メールの添付ファイルの読み取りをこのアプリに許可します。"</string>
   <string name="permission_read_attachment_label">"メール添付ファイルの読み取り"</string>
   <string name="permission_tip">Configuration fails, please allow calls and text messages during configuration permissions</string>
+  <string name="personal_data_collection_summary">When the switch is toggled on, you agree that we may collect your personal data. You can toggle the switch off, revoke your authorization, and delete your data from our servers at any time.</string>
+  <string name="personal_data_collection_title">Collecting personal data</string>
   <string name="phone">phone</string>
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
   <string name="photo_view_count">%1$d/%2$d</string>
+  <string name="pl_select_age">年齢を選択してください。</string>
   <string name="please_fill_in_your_mailbox_information2">"受信トレイの情報を入力してください"</string>
   <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
 to receive reminders about payments and trips"</string>
@@ -816,6 +830,7 @@ to receive reminders about payments and trips"</string>
   <string name="print_scheduler_title">Print all schedulers</string>
   <string name="privacy_des">"Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \"%1$s\" below, you're agreeing to our \"%2$s\"."</string>
   <string name="privacy_policy">"プライバシーポリシー"</string>
+  <string name="privacy_setting_agree">同意</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="pull_load_more">Pull up to load more</string>
@@ -1003,6 +1018,8 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="service_protocol_discribe">"I've read and agree with WPS Mail Service Agreement"</string>
   <string name="service_protocol_title">Service Agreement</string>
   <string name="set_network">"ネットワークを設定"</string>
+  <string name="setting_kids_subtitle">ユーザーの年齢確認</string>
+  <string name="setting_kids_title">16歳以上です。</string>
   <string name="settings_activity_title">"設定"</string>
   <string name="share_choose">"共有するファイルを選択"</string>
   <string name="sharing">"共有"</string>
@@ -1096,6 +1113,8 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="turn_auto_sync_on_dialog_title">"自動同期をONにしますか？"</string>
   <string name="unbind_dialog_text">"この操作を行うとアプリはメールの分析を停止します。
 アカウントを削除しますか？"</string>
+  <string name="under_16_content">16歳未満ですか？</string>
+  <string name="under_sixteen">私は16歳未満です。</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>
@@ -1114,6 +1133,11 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="upload_logs">"ログをアップロード"</string>
   <string name="upload_logs_keywords">"ログをアップロード"</string>
   <string name="uploading_logs">"読み込み中…"</string>
+  <string name="user_privacy_settings">プライバシー設定</string>
+  <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Authorize\" you're giving WPS Mail all the required permissions)"</string>
+  <string name="user_privacy_settings_path">提示：您可以在用户隐私设置中撤回您的同意，设置－用户隐私设置。</string>
+  <string name="user_privacy_settings_summary">我们将会收集您的android ID（已经加密，作为您使用MI Mail的唯一用户标识）或操作日志。您有权随时通过用户隐私设置撤回您的同意。</string>
+  <string name="user_privacy_settings_title">MI Mail的隐私权限提醒</string>
   <string name="validation_failed_prompt">"アカウントを確認できません、%sのサーバー設定を確認してください"</string>
   <string name="verify_code">Verification code</string>
   <string name="version_string">Version: %s</string>

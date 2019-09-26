@@ -55,6 +55,7 @@
   <string name="operation_send">送信</string>
   <string name="permission_intro_microphone">音源がマイクに設定されているときに音声を録音するため</string>
   <string name="permission_intro_storage">画面の録画を保存するため</string>
+  <string name="permission_microphone_desc">Using the microphone as the audio source for screen recordings</string>
   <string name="quit_recording">スクリーンレコーダーを終了</string>
   <string name="recording_failure">記録できませんでした</string>
   <string name="recording_max_size">動画ファイルがサイズの上限に達したため、録画を停止して自動保存しました。録画を続行するには中断したところから録画を開始してください。</string>
@@ -67,6 +68,8 @@
   <string name="screen_record_params">録画パラメータ</string>
   <string name="select_all">すべて選択</string>
   <string name="settings">設定</string>
+  <string name="settings_other">その他</string>
+  <string name="settings_privacy">プライバシーポリシー</string>
   <string name="show_hard_key">ナビゲーションボタンを可視化</string>
   <string name="show_hard_key_summary">ホーム、メニュー、戻るボタンを押した時にプロンプトを表示する</string>
   <string name="show_screen_touch">タッチジェスチャーを表示</string>
