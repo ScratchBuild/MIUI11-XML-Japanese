@@ -5,7 +5,11 @@
   <string name="accessibility_shutter_button">シャッター</string>
   <string name="action_search">検索</string>
   <string name="address">住所:</string>
+  <string name="agree_app_use">Scanning QR codes and recognizing them on other images</string>
   <string name="agree_btn">同意</string>
+  <string name="agree_camera_permission">For taking photos and recording video</string>
+  <string name="agree_storage_permission">For accessing photos and files stored on your device</string>
+  <string name="always">常に</string>
   <string name="amazon_assistant_shopping_title">Amazonで検索</string>
   <string name="app_description_content">"スキャナではQRコード、ドキュメント、名刺などをスキャンできます。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。"</string>
   <string name="app_description_title">スキャナーについて</string>
@@ -27,6 +31,7 @@
   <string name="camera_error_title">Camera error</string>
   <string name="cancel">キャンセル</string>
   <string name="character_counter_content_description">文字数制限を %2$d 文字のうち %1$d 文字超えました</string>
+  <string name="choose_open_code_app">アプリを選択</string>
   <string name="choose_pay_title">支払い方法を選択</string>
   <string name="choose_picture">"QRコードの画像を選択"</string>
   <string name="close_hotspot_when_connecting_to_wifi">ホットスポットがオンです。Wi-Fiをオンにします。</string>
@@ -124,6 +129,7 @@
   <string name="not_insert_contact">"Can't add contact"</string>
   <string name="not_recommend_access_web_url">とにかく移動</string>
   <string name="note">Remark:</string>
+  <string name="once">一度だけ</string>
   <string name="pay_no_tip">次回から表示しない</string>
   <string name="pay_save_this_choose">この選択を記憶する</string>
   <string name="payment_text">%sで開く</string>
@@ -168,7 +174,9 @@
   <string name="switch_open">オンにする</string>
   <string name="tel">発信</string>
   <string name="title">Title:</string>
+  <string name="to_install_title">This QR code redirects you to an uninstalled app. Download this app now?</string>
   <string name="to_pay">Complete payment</string>
+  <string name="toinstall">ダウンロード</string>
   <string name="translate_auto_lock">翻訳をロック</string>
   <string name="translate_auto_unlock">翻訳のロックを解除</string>
   <string name="translate_copy_success">正常にコピーされました</string>
