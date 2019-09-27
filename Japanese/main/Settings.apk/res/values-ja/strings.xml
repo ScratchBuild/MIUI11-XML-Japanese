@@ -2333,7 +2333,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
   <string name="forget_password_dialog_button_text">戻る</string>
   <string name="forget_password_dialog_content_four">2. Select [Wipe data], and wait until your device reboots.</string>
-  <string name="forget_password_dialog_content_one">&lt;Data&gt;"If you forget your password, you won't be able to restore it. However, you can reset your password after you &amp;lt;font color=#ec2700&amp;gt;erase all data on your device&amp;lt;/font&amp;gt; (including photos, contacts, etc.). Back up all important data before this."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_one">&lt;Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."&lt;/Data></string>
   <string name="forget_password_dialog_content_three">1. Turn off your device. Press the [Power] button and the [Volume+] button simultaneously, and hold them until you see the * icon.</string>
   <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
   <string name="forget_password_dialog_title">データを消去</string>
