@@ -3269,8 +3269,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_ai_cloud_closed">AI preloadingはまだ使用できません。</string>
   <string name="miui_lab_ai_preload_desc">AI preloadingによりアプリの起動速度が向上します</string>
   <string name="miui_lab_ai_preload_title">AI preloading</string>
-  <string name="miui_lab_aiasst_call_screen_desc">Connect By Tips</string>
-  <string name="miui_lab_aiasst_call_screen_title">Tips Call</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Transform voice and text to answer calls silently</string>
+  <string name="miui_lab_aiasst_call_screen_title">AI Call Assistant</string>
   <string name="miui_lab_drive_mode_desc">音声コントロールとWeChatメッセージの読み上げを使用</string>
   <string name="miui_lab_drive_mode_title">運転モード</string>
   <string name="miui_lab_feature_applied">適用しました</string>
