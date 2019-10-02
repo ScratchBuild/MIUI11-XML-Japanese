@@ -24,7 +24,7 @@
   <string name="download_queued">"キューに追加済み"</string>
   <string name="download_remaining">"残り%s"</string>
   <string name="download_running">"処理中"</string>
-  <string name="download_running_percent">"処理中（%d%%）"</string>
+  <string name="download_running_percent">"処理中 (%d%%)"</string>
   <string name="download_unknown_title">"&lt;無題>"</string>
   <string name="enter_garbage_clean">"内部ストレージをクリーンアップします。"</string>
   <string name="insufficient_space">"お使いの端末の内部ストレージに十分な空き領域がありません"</string>

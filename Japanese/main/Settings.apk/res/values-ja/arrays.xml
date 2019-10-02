@@ -733,14 +733,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>メニューを表示</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Adjust colors based on the current lighting</item>
-        <item>Always enhance colors</item>
-        <item>Contrast will remain constant</item>
+        <item>環境光の状態に応じて色を調節します</item>
+        <item>常に色を強調します</item>
+        <item>コントラストを一定に保ちます</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Auto (recommended)</item>
-        <item>Saturated</item>
-        <item>Standard</item>
+        <item>オート (推奨)</item>
+        <item>飽和</item>
+        <item>標準</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>鮮やか</item>

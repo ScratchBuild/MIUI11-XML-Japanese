@@ -1068,12 +1068,12 @@ Playback quality"</string>
   <string name="brightness_summary">画面の明るさを調整する</string>
   <string name="brightness_title">明るさ</string>
   <string name="bssid_label">BSSID:</string>
-  <string name="bt_aac_dialog_summary">"Current device supports AAC codec. However, AAC may fail to play sound due to compatibility issues. Your device switched to SBC codec automatically.
-You can change this in the Settings."</string>
+  <string name="bt_aac_dialog_summary">"現在のデバイスはAACコーデックをサポートしています。ただし、AACコーデックは互換性の問題によりサウンドの再生に失敗することがあるので自動的にSBCコーデックへと変更されました。
+  これらは設定で変更することが可能です。"</string>
   <string name="bt_aac_dialog_title">Bluetooth connection</string>
-  <string name="bt_aac_open_dialog_summary">"AAC may fail to play sound due to compatibility issues.
-You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices."</string>
-  <string name="bt_aac_open_dialog_title">Switching to AAC codec</string>
+  <string name="bt_aac_open_dialog_summary">"AACコーデックは互換性の問題によりサウンドの再生に失敗することがあります。
+設定 &gt; Bluetooth &gt; ペア設定したBluetoothデバイスよりこの機能をOFFにできます。"</string>
+  <string name="bt_aac_open_dialog_title">AACコーデックに変更</string>
   <string name="bt_aac_pre_title">AAC</string>
   <string name="bt_dialog_remember_choice">この選択を記憶する</string>
   <string name="bt_dialog_settings">設定</string>
@@ -1954,7 +1954,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dual_clock_aod_open_message">デュアルクロックはロック画面、ホーム画面、画面の消灯時に表示されます。</string>
   <string name="dual_clock_hint">デュアルクロックを使用するにはシステムの時計ウィジェットとデフォルトテーマが必要です</string>
   <string name="dual_clock_ok">OK</string>
-  <string name="dual_clock_open_message">Dual Clock will be displayed on the Lock screen, Home screen.</string>
+  <string name="dual_clock_open_message">デュアルクロックはロック画面、ホーム画面に表示されます。</string>
   <string name="dump_log">問題に関するログを取得</string>
   <string name="dump_log_summary">"この機能はMIUIのAlpha版とBeta版で診断ログを生成するために設計されています。慎重に使用してください。
 生成されたログはファイルマネージャーで表示できます。"</string>
@@ -2337,7 +2337,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="forget_password_dialog_content_three">1. Turn off your device. Press the [Power] button and the [Volume+] button simultaneously, and hold them until you see the * icon.</string>
   <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
   <string name="forget_password_dialog_title">データを消去</string>
-  <string name="forget_pattern">&lt;u>Forgot pattern?&lt;/u></string>
+  <string name="forget_pattern">&lt;u>パターンを忘れましたか?&lt;/u></string>
   <string name="forget_privacy_password_setting">Mi Accountを追加</string>
   <string name="forget_privacy_password_summary">Mi Accountを使用してパスワードをリセット</string>
   <string name="forget_wifi_message">お使いの端末はこのネットワークへの自動接続を停止します。</string>
@@ -5729,12 +5729,12 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
   <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>
-  <string name="turn_on_keyguard_password_alert">"Remember your password. If you forget it, you won't be able to restore it."</string>
-  <string name="turn_on_keyguard_password_alert_choose">"Remember your password. If you forget it, you'll have to erase all data on your device to set a new one."</string>
+  <string name="turn_on_keyguard_password_alert">"パスワードを忘れないようにしてください。忘れた場合、回復することができません。"</string>
+  <string name="turn_on_keyguard_password_alert_choose">"パスワードを忘れないようにしてください。忘れた場合、デバイス上の全てのデータを削除する必要があります。"</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">後で</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">OK</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">OK(%d秒)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"パスワードを忘れないでください。もし忘れた場合、写真や連絡先などデバイス上の全てのデータを削除する必要があります。"</string>
   <string name="turn_on_keyguard_password_alert_forget_title">パスワードを記憶する</string>
   <string name="turn_on_radio">無線通信をON</string>
   <string name="turn_on_security_lock">画面ロックを選択</string>
@@ -5829,43 +5829,43 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usage_access_description">使用状況へのアクセスにより、アプリは他のアプリの使用状況、使用頻度、携帯通信会社、言語設定などの情報を追跡できるようになります。</string>
   <string name="usage_access_title">使用履歴にアクセスできるアプリ</string>
   <string name="usage_log">アプリ使用状況の統計</string>
-  <string name="usage_state_app_timer">Screen time</string>
-  <string name="usage_state_app_usage_detail_title">App usage details</string>
-  <string name="usage_state_app_usage_list_title">"Apps' screen time"</string>
-  <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Screen time between %d:00 and %d:00</string>
-  <string name="usage_state_app_use_time">App screen time</string>
+  <string name="usage_state_app_timer">スクリーンタイム</string>
+  <string name="usage_state_app_usage_detail_title">アプリ使用時間の詳細</string>
+  <string name="usage_state_app_usage_list_title">アプリのスクリーンタイム</string>
+  <string name="usage_state_app_usage_list_week_title">アプリのスクリーンタイム</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">%d:00 から %d:00 のスクリーンタイム</string>
+  <string name="usage_state_app_use_time">アプリのスクリーンタイム</string>
   <string name="usage_state_channel_mouth">過去30日間</string>
   <string name="usage_state_channel_week">過去7日間</string>
   <string name="usage_state_date">M月d日</string>
-  <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications between %d:00 and %d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Unlocked device between %d:00 and %d:00</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00 から %d:00 の通知</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00 から %d:00 のアンロック回数</string>
   <string name="usage_state_friday">金</string>
   <string name="usage_state_go_more">More apps</string>
   <string name="usage_state_hour_minute" formatted="false">%d時間%d分</string>
   <string name="usage_state_less_one_minute">1分未満</string>
   <string name="usage_state_monday">月</string>
-  <string name="usage_state_mourth_day">Screen time on %s</string>
+  <string name="usage_state_mourth_day">%s のスクリーンタイム</string>
   <string name="usage_state_noti_mourth_day">Notifications on %s</string>
   <string name="usage_state_notification">Manage notifications</string>
   <string name="usage_state_notification_manager">Manage app notifications</string>
-  <string name="usage_state_remind_summary">Turn on to receive screen time alerts</string>
-  <string name="usage_state_remind_title">Screen time alert</string>
+  <string name="usage_state_remind_summary">スクリーンタイムアラートを受け取るにはONにしてください</string>
+  <string name="usage_state_remind_title">スクリーンタイムアラート</string>
   <string name="usage_state_rest_day">週末</string>
   <string name="usage_state_saturday">土</string>
-  <string name="usage_state_set_invalid_time_toast">"Can't set time limits shorter than 1 minute"</string>
+  <string name="usage_state_set_invalid_time_toast">"制限を１分未満には設定できません"</string>
   <string name="usage_state_sunday">日</string>
   <string name="usage_state_thursday">木</string>
-  <string name="usage_state_today">Today</string>
-  <string name="usage_state_today_total_text">Screen time today</string>
+  <string name="usage_state_today">今日</string>
+  <string name="usage_state_today_total_text">今日のスクリーンタイム</string>
   <string name="usage_state_tuesday">火</string>
   <string name="usage_state_unlock_mourth_day">Unlocked on %s</string>
-  <string name="usage_state_usage_time">Screen time</string>
-  <string name="usage_state_usage_time_remind">Screen time alert</string>
-  <string name="usage_state_use_time_remind_title">Screen time alert</string>
+  <string name="usage_state_usage_time">スクリーンタイム</string>
+  <string name="usage_state_usage_time_remind">スクリーンタイムアラート</string>
+  <string name="usage_state_use_time_remind_title">スクリーンタイムアラート</string>
   <string name="usage_state_wednesday">水</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">週末: %d時間%d分</string>
-  <string name="usage_state_week_total_text">Screen time (過去7日間)</string>
+  <string name="usage_state_week_total_text">スクリーンタイム (過去7日間)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">平日</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">平日: %d時間%d分</string>
@@ -5893,25 +5893,25 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usage_type_video">動画</string>
   <string name="usage_type_wake_lock">スリープモードにしない</string>
   <string name="usage_type_wifi_running">Wi-Fi使用</string>
-  <string name="usagestats_app_category_miui_financial">Finance</string>
-  <string name="usagestats_app_category_miui_game">Games</string>
-  <string name="usagestats_app_category_miui_life">Lifestyle</string>
-  <string name="usagestats_app_category_miui_productivity">Productivity</string>
-  <string name="usagestats_app_category_miui_reading">Reading</string>
-  <string name="usagestats_app_category_miui_shopping">Shopping</string>
-  <string name="usagestats_app_category_miui_social">Social networks</string>
-  <string name="usagestats_app_category_miui_system">System apps</string>
-  <string name="usagestats_app_category_miui_tools">Tools</string>
-  <string name="usagestats_app_category_miui_undefined">Other</string>
-  <string name="usagestats_app_category_miui_video_etc">Music and video</string>
-  <string name="usagestats_device_notification_des">Screen time limit for today: %s</string>
-  <string name="usagestats_device_notification_des_over">"You've already reached your screen time limit today."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">"Today's limit: %s | %s remaining"</string>
-  <string name="usagestats_device_notification_title">Screen time alert</string>
+  <string name="usagestats_app_category_miui_financial">ファイナンス</string>
+  <string name="usagestats_app_category_miui_game">ゲーム</string>
+  <string name="usagestats_app_category_miui_life">ライフスタイル</string>
+  <string name="usagestats_app_category_miui_productivity">仕事効率化</string>
+  <string name="usagestats_app_category_miui_reading">書籍</string>
+  <string name="usagestats_app_category_miui_shopping">ショッピング</string>
+  <string name="usagestats_app_category_miui_social">ソーシャルネットワーク</string>
+  <string name="usagestats_app_category_miui_system">システムアプリ</string>
+  <string name="usagestats_app_category_miui_tools">ツール</string>
+  <string name="usagestats_app_category_miui_undefined">その他</string>
+  <string name="usagestats_app_category_miui_video_etc">音楽とビデオ</string>
+  <string name="usagestats_device_notification_des">今日のスクリーンタイムの制限: %s</string>
+  <string name="usagestats_device_notification_des_over">今日は既にスクリーンタイムの上限に達しました。</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">"本日の制限: %s | 残り %s"</string>
+  <string name="usagestats_device_notification_title">スクリーンタイムアラート</string>
   <string name="usagestats_device_timeout_des" formatted="false">"You've been using your device for %dh %dm today. Have some rest!"</string>
-  <string name="usagestats_device_timeout_negative">Remind in 1 hour</string>
+  <string name="usagestats_device_timeout_negative">１時間後に通知</string>
   <string name="usagestats_device_timeout_positive">OK</string>
-  <string name="usagestats_device_timeout_title">Screen time alert</string>
+  <string name="usagestats_device_timeout_title">スクリーンタイムアラート</string>
   <string name="usb_adb_input">USBデバッグ (セキュリティ設定)</string>
   <string name="usb_adb_input_desc">USBデバッグを介した入力のシミュレートにアクセス許可を付与する</string>
   <string name="usb_audio_disable_routing">USBオーディオルーティングを無効化</string>
@@ -6344,24 +6344,24 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_api_test">Wi-Fiネットワーク API</string>
   <string name="wifi_ap_unable_to_handle_new_sta">アクセス ポイントが一時的にいっぱいです</string>
   <string name="wifi_assistant">Wi-Fiアシスタント</string>
-  <string name="wifi_assistant_auto_confirm_data_message">This WLAN network has no access to the internet. Your device will use mobile data instead. You can turn off WLAN assistant in the Settings.</string>
+  <string name="wifi_assistant_auto_confirm_data_message">このネットワークはインターネットへアクセスできません。デバイスは代わりにモバイルデータを使用します。設定でWi-FiアシスタントをOFFにできます。</string>
   <string name="wifi_assistant_confirm_always">次回から表示しない</string>
   <string name="wifi_assistant_confirm_connection_title">確認</string>
   <string name="wifi_assistant_data_prompt">データ使用量の警告を表示</string>
-  <string name="wifi_assistant_data_prompt_summary">Show data usage warning when WLAN assistant switches to mobile data</string>
-  <string name="wifi_assistant_description">"Here's how WLAN assistant works:
-1. When WLAN connection is poor, WLAN assistant will try to connect your device to other available WLAN networks.
-2. If all available WLAN connections turn out to be poor and mobile data is turned on, WLAN assistant will switch to mobile data."</string>
+  <string name="wifi_assistant_data_prompt_summary">Wi-Fiアシスタントがモバイルデータに切り替えるときにデータ使用量の警告を表示する</string>
+  <string name="wifi_assistant_description">"Wi-Fiアシスタントの仕組み:
+1. Wi-Fiの受信感度が低い場合、Wi-Fiアシスタントは他の利用できるWi-Fiネットワークに接続しようと試みます。
+2. もし他の利用できるWi-Fiネットワークの受信感度が低くモバイルデータがONになっている場合、Wi-Fiアシスタントはモバイルデータに切り替えます。"</string>
   <string name="wifi_assistant_disconnect">切断</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">This Wi-Fi network has no access to the internet. Use mobile data instead?</string>
-  <string name="wifi_assistant_explicitly_confirm_disconnect">This WLAN network has no access to the internet. Disconnect now?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">This WLAN network has no access to the internet. Other WLAN networks are available. Switch networks?</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">このWi-Fiネットワークはインターネットへアクセスできません。モバイルデータを代わりに使用しますか？</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">このWi-Fiネットワークはインターネットへアクセスできません。切断しますか？</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">このWi-Fiネットワークはインターネットへアクセスできません。他のWi-Fiネットワークが利用できます。切り替えますか？</string>
   <string name="wifi_assistant_keep_connection">接続を維持</string>
   <string name="wifi_assistant_off">OFF</string>
   <string name="wifi_assistant_ok">OK</string>
   <string name="wifi_assistant_on">ON</string>
   <string name="wifi_assistant_setup_wifi_assistant">セットアップ</string>
-  <string name="wifi_assistant_summary">Switch between WLAN networks and mobile data when WLAN connection is poor</string>
+  <string name="wifi_assistant_summary">受信感度が低い場合にWi-Fiネットワークとモバイルデータを切り替えます</string>
   <string name="wifi_assistant_switch_data">モバイルデータを使用</string>
   <string name="wifi_assistant_switch_wifi">ネットワークを切り替え</string>
   <string name="wifi_auto_connect">自動接続</string>
