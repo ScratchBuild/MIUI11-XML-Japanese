@@ -4,6 +4,7 @@
   <string name="activity_not_found">"アプリがインストールされていません"</string>
   <string name="activity_not_unlocked">アプリを開く前に、端末が完全に再起動されるのを待ちます</string>
   <string name="add_screen">"画面を追加"</string>
+  <string name="additional_settings">その他の設定</string>
   <string name="all_apps">すべてのアプリ</string>
   <string name="all_apps_no_search_results">何も見つかりませんでした</string>
   <string name="all_apps_search_app">アプリを検索</string>
@@ -113,6 +114,11 @@
   <string name="disable_wallpaper_scroll">"横スクロールをオフにする"</string>
   <string name="double_tap_to_lock_title">画面をロックするにはダブルタップ</string>
   <string name="download_action">"ダウンロード"</string>
+  <string name="drawer_background">背景</string>
+  <string name="drawer_background_dark">ダーク</string>
+  <string name="drawer_background_light">ライト</string>
+  <string name="drawer_background_transparency">アプリドロワーの背景の透明度</string>
+  <string name="drawer_settings">アプリドロワー</string>
   <string name="dual_app">デュアルアプリ</string>
   <string name="edit_folder_title">"フォルダ名を編集"</string>
   <string name="edit_mode_dual_app">デュアルアプリを作成</string>
@@ -200,6 +206,7 @@
   <string name="home_gesture_notification_bar">通知</string>
   <string name="home_pull_down_action">ホーム画面を下にスワイプ</string>
   <string name="home_screen">"ホーム画面"</string>
+  <string name="home_screen_settings">ホーム画面</string>
   <string name="home_slide_up_action">ホーム画面を上にスワイプ</string>
   <string name="icon_reorganize_channel">"アイコンを整列"</string>
   <string name="image_too_small_message">"元の画像は十分な大きさではない。"</string>
@@ -216,6 +223,7 @@
   <string name="liked">お気に入りに追加済み</string>
   <string name="loading_desktop">"読み込み中…"</string>
   <string name="loading_wallpaper">"読み込み中…"</string>
+  <string name="local_apps">ローカルアプリ</string>
   <string name="local_wallpaper">"ダウンロード済み"</string>
   <string name="lock_screen">"ロック画面"</string>
   <string name="lock_screen_cells_title">ホーム画面のレイアウトをロック</string>
@@ -299,6 +307,7 @@
   <string name="quick_app">Quick App</string>
   <string name="recent_apps">履歴</string>
   <string name="recents_config_title">履歴</string>
+  <string name="recommend_app">おすすめアプリ</string>
   <string name="recommend_apps_no_data">"データなし"</string>
   <string name="recommend_apps_no_data_toast">現在おすすめはありません。</string>
   <string name="recommend_apps_notice">おすすめのアプリ</string>
@@ -317,6 +326,8 @@
   <string name="screen_cells_config_title">ホーム画面のレイアウト</string>
   <string name="screen_locked_toast">"ホーム画面のレイアウトはロックされています。"</string>
   <string name="screen_number">%d screen</string>
+  <string name="search_in_apps_store">%2$s で \"%1$s\" を検索する</string>
+  <string name="search_no_result">何も見つかりませんでした</string>
   <string name="select_all">"すべて選択"</string>
   <string name="select_frame">"フレーム"</string>
   <string name="select_photo">"写真"</string>
@@ -332,6 +343,7 @@
   <string name="shortcut_share_dialog_title">免責事項</string>
   <string name="show_all">"すべて表示"</string>
   <string name="show_mem_info_title">メモリの状態を表示</string>
+  <string name="show_most_popular_apps_you_used">よく使用するアプリをドロワーに表示する</string>
   <string name="show_recents_recommend_title">おすすめを表示</string>
   <string name="sort_by_abc">"名前順"</string>
   <string name="sort_by_frequency">"使用順"</string>
@@ -368,8 +380,6 @@
   <string name="unknown_artist_name">"不明なアーティスト"</string>
   <string name="unnamed_folder_name">"フォルダ"</string>
   <string name="unstable_dialog_content">"This is a preview version of the Android system image, and is subject to change. The use of this system image is governed by the Android SDK Preview License Agreement. The Android preview system image isn't a stable release, and may contain errors and defects that can result in damage to your computer systems, devices, or data. The preview Android system image isn't subject to the same testing as the factory OS and can cause this device, installed services or applications to stop working."</string>
-  <string name="user_query_notification_text">桌面操作是否舒适？动画是否显示流畅？参加调研快快告诉我们吧!</string>
-  <string name="user_query_notification_title">MIUI系统桌面邀请您参加使用方式调研</string>
   <string name="wallpaper">"壁紙"</string>
   <string name="wallpaper_auto_change_title">"ロック画面"</string>
   <string name="wallpaper_failed_message">"壁紙を設定できません"</string>
