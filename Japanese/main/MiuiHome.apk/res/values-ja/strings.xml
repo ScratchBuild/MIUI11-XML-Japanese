@@ -214,6 +214,7 @@
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
+  <string name="launcher_minus_screen_title">Minus one screen</string>
   <string name="launcher_not_exist">"エラーが発生しました。ホーム画面に戻りもう一度やり直してください。"</string>
   <string name="launcher_pull_down_title">ホーム画面を下にスワイプ</string>
   <string name="launcher_slide_up_title">ホーム画面を上にスワイプ</string>
@@ -255,6 +256,7 @@
   <string name="menu_workspace_preview">"ホーム画面をプレビュー"</string>
   <string name="mi_wallpaper">MIUI Themes</string>
   <string name="minus_one_screen">App vault</string>
+  <string name="minus_one_screen_none">なし</string>
   <string name="miui_screen_config_title">ホーム画面の設定</string>
   <string name="mtzgadget_missing_text">"ウィジェットは利用できません"</string>
   <string name="multi_selecting_tips">"アプリのアイコンをここにドラッグ＆ドロップ。"</string>

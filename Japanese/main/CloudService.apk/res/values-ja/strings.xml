@@ -19,11 +19,14 @@
   <string name="cloud_find_device_off">オフ</string>
   <string name="cloud_find_device_on">オン</string>
   <string name="cloud_lab_title">Lab</string>
+  <string name="cloud_storage_already_full">クラウドストレージがいっぱいです: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">使用量: %1$s/%2$s</string>
+  <string name="cloud_storage_default_title">クラウドストレージ</string>
   <string name="cloud_storage_info_type_drive">Mi Drive</string>
   <string name="cloud_storage_info_type_duokan">Duokan</string>
   <string name="cloud_storage_info_type_others">その他</string>
   <string name="cloud_storage_info_type_pdc">システム設定</string>
+  <string name="cloud_storage_loading_data">読み込み中…</string>
   <string name="cloud_storage_manage_title">ストレージの管理</string>
   <string name="cloud_storage_no_data">クラウドにはまだアイテムがありません</string>
   <string name="cloudservice_new_sync">"Cloudと%sを同期"</string>

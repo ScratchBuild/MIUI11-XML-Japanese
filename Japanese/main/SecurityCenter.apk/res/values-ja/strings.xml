@@ -1634,6 +1634,11 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">"電池使用量を分析"</string>
   <string name="power_cell">"セルスタンバイ"</string>
+  <string name="power_center_5g_save_close_detail">5G battery saver increases battery life without affecting 5G connectivity. Turn off anyway?</string>
+  <string name="power_center_5g_save_close_later">"Don't turn off"</string>
+  <string name="power_center_5g_save_close_title">Turning off 5G battery saver</string>
+  <string name="power_center_5g_save_summary_text">Make 5G connectivity less power consuming in certain scenarios</string>
+  <string name="power_center_5g_save_title_text">5G battery saver</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_back">"戻る"</string>
   <string name="power_center_battery_last">残り %s</string>
@@ -1842,6 +1847,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_upload">"アップロード"</string>
   <string name="process_mediaserver_label">"メディアサーバー"</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Ad</string>
   <string name="prompt_all">Ask for all</string>
   <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>

@@ -217,6 +217,8 @@ ID:%s
   <string name="passport_continue">"続行"</string>
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
   <string name="passport_copy_message_vcode">"コードをコピー"</string>
+  <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
+  <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
   <string name="passport_delete_account">"ログアウト"</string>
   <string name="passport_downlink_reg">"電話番号"</string>
   <string name="passport_email">"メールアドレス"</string>

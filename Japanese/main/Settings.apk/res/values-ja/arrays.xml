@@ -735,12 +735,12 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>環境光の状態に応じて色を調節します</item>
         <item>常に色を強調します</item>
-        <item>コントラストを一定に保ちます</item>
+        <item>Restore standard color of screen content with color calibration</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>オート (推奨)</item>
         <item>飽和</item>
-        <item>標準</item>
+        <item>元の色</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>鮮やか</item>

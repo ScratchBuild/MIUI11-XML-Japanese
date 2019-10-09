@@ -25,6 +25,7 @@
   <string name="fast_connect_device_connect_retry">再試行</string>
   <string name="fast_connect_device_connect_setup">設定</string>
   <string name="fast_connect_device_connect_success">完了</string>
+  <string name="fast_connect_device_headset">バッテリー</string>
   <string name="fast_connect_device_headset_l">左</string>
   <string name="fast_connect_device_headset_r">右</string>
   <string name="fast_connect_device_headset_reset">long press box reset button</string>
