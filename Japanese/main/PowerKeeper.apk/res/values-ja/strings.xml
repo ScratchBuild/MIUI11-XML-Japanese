@@ -53,6 +53,8 @@
   <string name="nonui_mode_config_description">"MIUIは端末が使用されていないことを検出するとバッテリーを節約するため、通知を受信しても画面やLEDライトを点灯せず、指紋センサーやタッチ操作を無効にします。"</string>
   <string name="nonui_mode_config_title">"非対話モード"</string>
   <string name="performance_category">"パフォーマンス"</string>
+  <string name="permstep_description">アプリが端末の歩数情報を読み取ることを許可する</string>
+  <string name="permstep_label">歩数の読み取り</string>
   <string name="power_center">バッテリーの最適化</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s runs abnormally</string>
   <string name="power_checker_background_cpu_title">%1$s runs abnormally</string>
