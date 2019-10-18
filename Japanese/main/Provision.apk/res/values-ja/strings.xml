@@ -32,6 +32,8 @@
   <string name="enable_accessibility_dialog_message">You turned on TalkBack by pressing the screen with 2 fingers for more than 10 seconds. TalkBack provides voice feedback for people with visual impairments. If you turned it on by accident, tap the Cancel button, and then double tap the screen.</string>
   <string name="enable_accessibility_dialog_negative_btn">"キャンセル"</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="font_hint_large">Default text size</string>
+  <string name="font_hint_normal">Increase text size</string>
   <string name="ime_privacy_policy">"選択したキーボードのプライバシーポリシー"</string>
   <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s.</string>
   <string name="input_method_category">"メッセージやメモなどを書き込むために使用するデフォルトのキーボードを選択します。他のサードパーティ製キーボードを後からインストールすることもできます。"</string>
@@ -84,6 +86,10 @@
   <string name="sim_dectection_next">"続行"</string>
   <string name="sim_redetection">"再確認"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
+  <string name="skip_gesture_guide_dialog_message">Make sure you know how to use full screen gestures before selecting this option.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">キャンセル</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="skip_gesture_guide_dialog_title">フルスクリーンジェスチャー</string>
   <string name="skip_underline">"この手順をスキップ"</string>
   <string name="start_up_slogan">Designed for full screen experience</string>
   <string name="summary_not_set">"未設定"</string>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_missing_private_key">Private key required to install a certificate</string>
+  <string name="action_missing_user_cert">Certificate required to install a private key</string>
   <string name="app_name">"証明書インストーラ"</string>
   <string name="cert_is_added">"%sがインストールされています。"</string>
   <string name="cert_missing_error">"インストールできませんでした。証明書ファイルが見つかりませんでした。"</string>
@@ -19,7 +21,6 @@
   <string name="name_char_error">"文字と数字だけを含んだ名前を入力してください。"</string>
   <string name="name_credential_dialog_title">"証明書の名前を指定する"</string>
   <string name="name_empty_error">"名前を入力してください。"</string>
-  <string name="no_cert_file_found">"SDカードで証明書ファイルが見つかりません。"</string>
   <string name="no_cert_to_saved">"インストールする証明書がありません。"</string>
   <string name="one_cacrt">"CA証明書1件"</string>
   <string name="one_usercrt">"ユーザー証明書1件"</string>
@@ -33,9 +34,9 @@
   <string name="pick_file_title">"証明書の選択"</string>
   <string name="pkcs12_file_password_dialog_title">"%sから抽出"</string>
   <string name="pkcs12_password_dialog_title">"証明書を抽出"</string>
-  <string name="sdcard_not_present">"SDカードが挿入されていません。"</string>
   <string name="storage_error">"証明書を保存できませんでした。[OK]をタップしてやり直してください。"</string>
   <string name="unable_to_save_cert">"証明書を保存できませんでした。認証情報ストレージが無効か、適切に初期化されていません。"</string>
+  <string name="userkey_type">アルゴリズム:</string>
   <string name="wifi_cancel_label">"キャンセル"</string>
   <string name="wifi_config_text">"名前: %1$s
 FQDN: %2$s

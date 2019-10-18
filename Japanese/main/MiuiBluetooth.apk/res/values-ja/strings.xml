@@ -15,6 +15,7 @@
   <string name="bluetooth_preference_found_devices">"使用可能なデバイス"</string>
   <string name="bluetooth_preference_scan_title">"デバイスの検索"</string>
   <string name="bluetooth_search_for_devices">"デバイスの検索"</string>
+  <string name="copy">コピー</string>
   <string name="device_picker">"Bluetoothデバイスの設定"</string>
   <string name="disconnect">"切断"</string>
   <string name="fast_connect_device_box">Box</string>
@@ -51,9 +52,11 @@
   <string name="mi_key_summary_open_camera">"カメラを開くにはMi Keyをダブルクリック"</string>
   <string name="mi_key_summary_take_photo">"写真を撮影するにはMi Keyをクリック"</string>
   <string name="mi_key_take_photo">"写真を撮影"</string>
+  <string name="not_set">Not set</string>
   <string name="notify_device_lose_connection_text">"%1$sとペアを解除するにはタップ"</string>
   <string name="notify_device_lose_connection_title">"%1$sとの接続が失われました"</string>
   <string name="ok_button">OK</string>
+  <string name="preference_copied">\"%1$s\" をクリップボードにコピーしました。</string>
   <string name="progress_scanning">"検索中…"</string>
   <string name="reset_function_msg">"この機能をリセットすると、%1$sが正常に動作しなくなる可能性があります。"</string>
   <string name="some_app_taking">"(%1$sが既にこの機能を使用しています)"</string>

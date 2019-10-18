@@ -421,9 +421,8 @@
         <item>高速</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>自動（時間帯に基づく）</item>
-        <item>常に ON</item>
-        <item>常に OFF</item>
+        <item>ダーク</item>
+        <item>ライト</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>過去30日間</item>

@@ -94,6 +94,6 @@
   <string name="pws_other_message_identifiers">緊急警報</string>
   <string name="show_cmas_opt_out_summary">CMASの警報（国家レベルの警報以外）を初めて表示した後に受信停止選択ダイアログを表示</string>
   <string name="show_cmas_opt_out_title">受信停止選択ダイアログを表示</string>
-  <string name="sms_cb_settings">緊急警報の設定</string>
+  <string name="sms_cb_settings">緊急アラート</string>
   <string name="view_details_title">警報の詳細</string>
 </resources>

@@ -12,6 +12,10 @@
         <item quantity="other">%d年前</item>
         <item quantity="one">%d年前</item>
     </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d 個のアプリにデバイスへのフルアクセスを許可しています</item>
+        <item quantity="one">1 個のアプリにデバイスへのフルアクセスを許可しています</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">極めて短い遅延（%1$dミリ秒）</item>
         <item quantity="one">極めて短い遅延（%1$dミリ秒）</item>
@@ -148,6 +152,14 @@
         <item quantity="other">%s時間</item>
         <item quantity="one">1時間</item>
     </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%2$d 個中 %1$d 個のアプリに位置情報へのアクセスを許可</item>
+        <item quantity="one">%2$d 個中 %1$d 個のアプリに位置情報へのアクセスを許可</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">ON - %1$d 個のアプリに位置情報へのアクセスを許可</item>
+        <item quantity="one">ON - %1$d 個のアプリに位置情報へのアクセスを許可</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">"パスワードには英字が%d文字以上必要です。"</item>
         <item quantity="one">"パスワードには英字が1文字以上必要です。"</item>
@@ -228,9 +240,17 @@
         <item quantity="other">%d件を追加しました</item>
         <item quantity="one">%d件を追加しました</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+      <item quantity="other">SIM: %1$d 枚</item>
+      <item quantity="one">SIM: %1$d 枚</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d 個の制限</item>
         <item quantity="one">1 個の制限</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+      <item quantity="other">%1$d 件の通知チャンネルがあります</item>
+      <item quantity="one">%1$d 件の通知チャンネルがあります。</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d 件のカテゴリ</item>
@@ -244,9 +264,21 @@
         <item quantity="other">%d 件のカテゴリが OFF</item>
         <item quantity="one">%d 件のカテゴリが OFF</item>
     </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">約 %d 件の通知 / 日</item>
+        <item quantity="one">約 %d 件の通知 / 日</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">約 %d 件の通知 / 週</item>
+        <item quantity="one">約 %d 件の通知 / 週</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">有効なアプリ: %d 個</item>
         <item quantity="one">有効なアプリ: %d 個</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s 個のアプリ</item>
+        <item quantity="one">1 個のアプリ</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">"%d件の権限を付与"</item>
@@ -295,6 +327,10 @@
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">オーディオログの取得開始まであと%1$dステップです。</item>
         <item quantity="one">オーディオログの取得開始まであと%1$dステップです。</item>
+    </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d 台のデバイスを接続済み</item>
+        <item quantity="one">%1$d 台のデバイスを接続済み</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"CITへの切り替えまであと%1$dステップです"</item>
@@ -452,6 +488,14 @@
         <item quantity="other">ネットワーク: %d 件</item>
         <item quantity="one">ネットワーク: 1 件</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d 件のネットワークと登録</item>
+        <item quantity="one">1 件のネットワークと登録</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d 件の登録</item>
+        <item quantity="one">1 件の登録</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d回線のネットワークを共有中</item>
         <item quantity="one">%d回線のネットワークを共有中</item>
@@ -464,17 +508,22 @@
         <item quantity="other">"SIM PINコードが無効です。入力できるのはあと%d回です。"</item>
         <item quantity="one">"SIM PINコードが無効です。入力できるのはあと%d回です。この回数を超えると、お使いの端末をロック解除するのに携帯通信会社にお問い合わせいただく必要があります。"</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">%1$d 個のアプリの通知がサイレント モードをオーバーライドできます</item>
+        <item quantity="zero">No apps can override Do Not Disturb</item>
+        <item quantity="one">1 個のアプリの通知がサイレント モードをオーバーライドできます</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d 時間（自動的に ON になった場合を除く）</item>
-        <item quantity="one">1 時間（自動的に ON になった場合を除く）</item>
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">1 時間</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">ON になっている自動ルールが %d 件あります</item>
-        <item quantity="one">ON になっている自動ルールが 1 件あります</item>
+        <item quantity="other">%d 件のルールが有効</item>
+        <item quantity="one">1 件のルールが有効</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d 件のルールを自動的に ON にできます</item>
-        <item quantity="one">1 件のルールを自動的に ON にできます</item>
+        <item quantity="other">%d 件のスケジュールを自動的に ON にできます</item>
+        <item quantity="one">1 件のスケジュールを自動的に ON にできます</item>
     </plurals>
     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
         <item quantity="other">他 %d 人</item>

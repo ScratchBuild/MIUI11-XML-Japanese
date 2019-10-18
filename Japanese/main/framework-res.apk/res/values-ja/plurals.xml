@@ -92,6 +92,10 @@
         <item quantity="other">%d 年後</item>
         <item quantity="one">%d 年後</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s、他 %2$d ファイル</item>
+        <item quantity="one">%1$s、他 %2$d ファイル</item>
+    </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">%d秒後にもう一度お試しください。</item>
         <item quantity="one">1秒後にもう一度お試しください。</item>

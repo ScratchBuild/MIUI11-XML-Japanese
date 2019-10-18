@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="user_detail_fixed_items">
-        <item>同期したアイテムを表示</item>
-        <item>ストレージの詳細</item>
+    <string-array name="micloud_entrance_titleArray">
+        <item>アプリのデータを同期</item>
+        <item>ホーム画面のレイアウトをバックアップ</item>
+        <item>システム設定をバックアップ</item>
+        <item>Find device</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>連絡先、メッセージ、メモ、カレンダーなどを同期する</item>
+        <item>アプリ、ホーム画面の設定、壁紙などをバックアップする</item>
+        <item>Wi-Fiやディスプレイを含む重要な設定をバックアップする</item>
+        <item>端末を紛失した場合にリモートからロックする</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>For syncing events</item>
+        <item>For syncing messages</item>
+        <item>For syncing messages</item>
+        <item>For syncing contacts</item>
+        <item>For syncing contacts</item>
+        <item>For saving items on your device (e.g. images, videos, songs)</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>For identifying your device</item>
+        <item>For locating your device and switching to the lost mode</item>
     </string-array>
     <string-array name="settings_search_contacts">
         <item>Sync contacts with Xiaomi Cloud</item>
@@ -104,28 +124,8 @@
         <item>Download backed up items to your device</item>
         <item>Cloud;Back up;Backup;Restore;Cloud services;Xiaomi Cloud</item>
     </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm_desc">
-        <item>For syncing events</item>
-        <item>For syncing messages</item>
-        <item>For syncing messages</item>
-        <item>For syncing contacts</item>
-        <item>For syncing contacts</item>
-        <item>For saving items on your device (e.g. images, videos, songs)</item>
-    </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
-        <item>For identifying your device</item>
-        <item>For locating your device and switching to the lost mode</item>
-    </string-array>
-    <string-array name="micloud_entrance_titleArray">
-        <item>アプリのデータを同期</item>
-        <item>ホーム画面のレイアウトをバックアップ</item>
-        <item>システム設定をバックアップ</item>
-        <item>Find device</item>
-    </string-array>
-    <string-array name="micloud_entrance_subtitleArray">
-        <item>連絡先、メッセージ、メモ、カレンダーなどを同期する</item>
-        <item>アプリ、ホーム画面の設定、壁紙などをバックアップする</item>
-        <item>Wi-Fiやディスプレイを含む重要な設定をバックアップする</item>
-        <item>端末を紛失した場合にリモートからロックする</item>
+    <string-array name="user_detail_fixed_items">
+        <item>同期したアイテムを表示</item>
+        <item>ストレージの詳細</item>
     </string-array>
 </resources>

@@ -76,7 +76,7 @@
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
-        <item>LDAC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>オプションのコーデックを有効にします</item>
         <item>オプションのコーデックを無効にします</item>
     </string-array>
@@ -86,7 +86,7 @@
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
-        <item>LDAC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>オプションのコーデックの有効化</item>
         <item>オプションのコーデックの無効化</item>
     </string-array>
@@ -94,6 +94,13 @@
         <item>AVRCP 1.4（デフォルト）</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Disabled</item>
+        <item>Enabled Filtered</item>
+        <item>Enabled Headers Filtered</item>
+        <item>Enabled Media Pkts Filtered</item>
+        <item>Enabled</item>
     </string-array>
     <string-array name="clock_options">
         <item>時間、分、秒を表示</item>

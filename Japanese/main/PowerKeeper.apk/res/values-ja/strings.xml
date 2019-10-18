@@ -55,6 +55,8 @@
   <string name="performance_category">"パフォーマンス"</string>
   <string name="permstep_description">アプリが端末の歩数情報を読み取ることを許可する</string>
   <string name="permstep_label">歩数の読み取り</string>
+  <string name="permstep_description">このアプリは歩数へのアクセスを許可します</string>
+  <string name="permstep_label">歩数へのアクセス</string>
   <string name="power_center">バッテリーの最適化</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s runs abnormally</string>
   <string name="power_checker_background_cpu_title">%1$s runs abnormally</string>
