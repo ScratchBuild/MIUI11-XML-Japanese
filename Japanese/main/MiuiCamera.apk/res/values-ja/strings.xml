@@ -123,6 +123,8 @@
   <string name="cannot_connect_camera_volte_call">"ビデオ通話中です、後ほど再試行してください。"</string>
   <string name="cannot_move_warning_message">"写真を撮影中です、端末を静止したままにしてください"</string>
   <string name="capture_back_pressed_hint">終了するにはもう一度タップ</string>
+  <string name="ccc_temperature_warning_msg">Your device is overheated. Camera will be closed in %d seconds. Your photos or videos will be saved automatically.</string>
+  <string name="ccc_temperature_warning_title">Device is overheated</string>
   <string name="close_back_flash_toast">端末が過熱状態のため、しばらく使用できません。</string>
   <string name="close_front_flash_toast">端末が過熱状態のため、しばらく使用できません。</string>
   <string name="config_name_group">グループセルフィー</string>
@@ -231,8 +233,8 @@ and then create a shot where everyone looks best."</string>
   <string name="hint_groupshot_beauty">"Can't use Beautify in group shots"</string>
   <string name="hint_mimovie">Shoot in landscape mode for best effect</string>
   <string name="hint_slow_motion">The video you shoot will be played slower.</string>
-  <string name="hint_subtitle">边录边说，语音自动转字幕</string>
-  <string name="hint_subtitle_prompt">已开启语音字幕，请边录边说</string>
+  <string name="hint_subtitle">"Dictate subtitles while you're shooting video"</string>
+  <string name="hint_subtitle_prompt">You can dictate subtitles now</string>
   <string name="hunt_dual_water_mark">Dual camera watermark will be added automatically.</string>
   <string name="install_confirmed">"インストール"</string>
   <string name="lens_dirty_detected_content">"端末のカメラが汚れているようです。より良い
@@ -681,7 +683,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_video_speed_fast_title">タイムラプス</string>
   <string name="pref_video_speed_slow_title">"スローモーション"</string>
   <string name="pref_video_speed_title">Video capture speed</string>
-  <string name="pref_video_subtitle">语音字幕</string>
+  <string name="pref_video_subtitle">字幕</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">"0.3秒間隔 (10回)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">"4秒間隔 (120回)"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">"5秒間隔 (150回)"</string>
@@ -739,7 +741,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="spaceIsLow_content_external_storage_priority">"SDカードの空き容量が不足しています"</string>
   <string name="spaceIsLow_content_primary_storage_priority">"USBストレージの空き容量が不足しています"</string>
   <string name="start_capture">OK</string>
-  <string name="subtitle_network_exception_tips">网络不给力，暂时无法使用语音字幕</string>
+  <string name="subtitle_network_exception_tips">"Couldn't connect to the network. Can't transcribe now."</string>
   <string name="super_eis">Super stabilization</string>
   <string name="super_eis_disabled_hint">Super stabilization is off</string>
   <string name="super_night_hint">Optimizing image… Keep your device stable.</string>
@@ -754,7 +756,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"写真を撮影できません"</string>
   <string name="ubifocus_capture_warning_message">"最良の結果を得るためには、(レンズから1メートル未満で)遠近両方の被写体を写真に収める必要があります"</string>
-  <string name="ultra_pixel_portrait_hint">HD portrait</string>
+  <string name="ultra_pixel_portrait_hint">Low light portrait</string>
   <string name="ultra_pixel_zoom_no_support_tip">"Zoom doesn't work in %s Ultra HD mode"</string>
   <string name="ultra_tele_use_hint_text_body">"Use 50X zoom to capture distant objects
 in greater detail"</string>

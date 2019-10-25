@@ -81,6 +81,7 @@
   <string name="feed_search_fail">"結果がありません、もう一度お試しください"</string>
   <string name="feedback_description_camera_access">"スキャナーがカメラに接続できません"</string>
   <string name="feedback_description_save_photo">"写真や動画を保存できませんでした"</string>
+  <string name="flight_mode_connecting_to_wifi">機内モードがオンのとき、手動でWi-Fiをオンにします</string>
   <string name="got_it">OK</string>
   <string name="gps">Navigate</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>

@@ -89,6 +89,7 @@
   <string name="feedback_choose_app_tag">問題を選択</string>
   <string name="feedback_choose_module">"アイテムを選択"</string>
   <string name="feedback_choose_module_hint">"必須"</string>
+  <string name="feedback_choose_occurrence_time">時間</string>
   <string name="feedback_choose_reproductivity">"再現性"</string>
   <string name="feedback_choose_third_app_name">"アプリ名を選択"</string>
   <string name="feedback_collect_log_failed">"ログを取得できませんでした"</string>
@@ -118,6 +119,7 @@
   <string name="feedback_detail_waiting">Generating…</string>
   <string name="feedback_empty_report_list">"レポートはありません"</string>
   <string name="feedback_guess">Our guess:</string>
+  <string name="feedback_hint_optional">選択</string>
   <string name="feedback_history_remind_login_desc">"レポートの進捗状況の詳細を表示するには、Mi Accountでログインしてください"</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Key: %s</string>
@@ -182,6 +184,7 @@
   <string name="feedback_third_packagename_hint">"どのサードパーティアプリで問題が発生しますか？"</string>
   <string name="feedback_title">"件名"</string>
   <string name="feedback_title_hint">"問題を簡素に記述"</string>
+  <string name="feedback_title_occurrence_time">時間を選択</string>
   <string name="feedback_title_reproductivity">"再現性を選択"</string>
   <string name="feedback_tracking">"問題の追跡"</string>
   <string name="feedback_version_label">"バージョン"</string>

@@ -18,6 +18,7 @@
   <string name="calibrate_title">現在地確認</string>
   <string name="cancel">キャンセル</string>
   <string name="compass_settings">設定</string>
+  <string name="cta_v2_app_purpose">展示地磁南方、经纬度、气压、以及计算展示海拔</string>
   <string name="dialog_body_no_network">Wi-Fiに接続、またはモバイルデータをオンにする</string>
   <string name="dialog_calibrat_altitude">補正中…</string>
   <string name="dialog_title_no_network">ネットワークに接続できませんでした</string>

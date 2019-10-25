@@ -2,6 +2,10 @@
 <resources>
   <string name="ad_downloading">ダウンロード…</string>
   <string name="app_select_title">よく使うアプリを追加する</string>
+  <string name="camera_perm_dialog_btn_cancel">キャンセル</string>
+  <string name="camera_perm_dialog_btn_ok">許可する</string>
+  <string name="camera_perm_dialog_message">在使用过程中，本应用需要访问相机权限，用于屏幕距离检测功能。如果您不同意调用以上权限，将导致该功能无法正常使用，但不影响您使用本应用的其他功能。您可以随时通过关闭“屏幕距离检测”功能，取消以上权限调用并撤回您的同意。</string>
+  <string name="camera_perm_dialog_title">提示</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="cta_main_purpose">Welcome to Game Turbo!</string>
   <string name="dialog_market_score_cancel">キャンセル</string>
@@ -54,7 +58,14 @@
   <string name="search_menu_title">検索</string>
   <string name="share">"共有"</string>
   <string name="superpower_app_add">追加</string>
+  <string name="superpower_app_contact">連絡先</string>
+  <string name="superpower_app_delete">削除</string>
+  <string name="superpower_app_edit">編集</string>
+  <string name="superpower_app_exit">終了</string>
   <string name="superpower_app_finish">完了</string>
+  <string name="superpower_app_isadded">追加しました</string>
+  <string name="superpower_app_mms">メッセージ</string>
+  <string name="superpower_app_phone">通話</string>
   <string name="superpower_battery_dangerous">Connect the charger as soon as possible</string>
   <string name="superpower_date">M月d日 EEEE</string>
   <string name="superpower_dialog_app_select_content">Third party apps normally consume more power than system apps. Add anyway?</string>
@@ -64,10 +75,12 @@
   <string name="superpower_progress_battery_last">残り %s</string>
   <string name="superpower_progress_left_time">%1$d時間 %2$d分</string>
   <string name="superpower_search_hint">アプリを検索</string>
-  <string name="superpower_select_app_title">ホーム画面のレイアウト</string>
+  <string name="superpower_select_app_title">よく使うアプリ</string>
   <string name="superpower_settings">ウルトラバッテリーセーバー</string>
+  <string name="superpower_settings_launcher">ウルトラバッテリーセーバー</string>
   <string name="superpower_system">Recommended</string>
   <string name="superpower_third">Third party apps</string>
+  <string name="superpower_toast_app_select_full">よく使うアプリを 6個 まで追加することができます</string>
   <string name="title_share_link">"URLを共有"</string>
   <string name="toast_create_fail_text">作成に失敗しました</string>
   <string name="toast_founction_not_support">このバージョンはサポートされていません</string>

@@ -16,6 +16,8 @@
   <string name="collapse_handle">"折りたたみハンドル"</string>
   <string name="connectio_delay_content">お使いのプリンタで接続を確認する必要があります。</string>
   <string name="connectio_help_title">プリンタに接続中</string>
+  <string name="copies_decrease">Minus one copy</string>
+  <string name="copies_increase">Plus one copy</string>
   <string name="could_not_create_file">ファイルを作成できませんでした</string>
   <string name="delete_saved_printer_content">今すぐ選択したプリンタを削除しますか？</string>
   <string name="destination_default_text">プリンタを選択</string>

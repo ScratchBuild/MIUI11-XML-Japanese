@@ -15,6 +15,9 @@
   <string name="all_apps_setting_drawer_tips_desc">ホーム画面を上にスワイプすると、アプリドロワーが開きます。アプリドロワーでホーム画面モードに切り替えると、検索が利用できなくなります。とにかく切り替えますか？</string>
   <string name="all_apps_setting_drawer_tips_title">アプリドロワーを使用</string>
   <string name="all_apps_setting_drawer_title">アプリドロワー</string>
+  <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+  <string name="all_apps_setting_original_scrollbar">元のレイアウト</string>
+  <string name="all_apps_setting_scroll_bar">スクロールバー</string>
   <string name="all_apps_setting_title">ホーム画面</string>
   <string name="all_apps_slide_up_tips">\"上にスワイプ\"はアプリドロワーを開くために使用されます。通常のホーム画面モードに切り替えてから、もう一度試してください。</string>
   <string name="all_apps_suggestions">App suggestions</string>
@@ -76,6 +79,7 @@
   <string name="apply_as_lock_screen">"ロック画面として設定"</string>
   <string name="apply_as_wallpaper">"ホーム画面として設定"</string>
   <string name="apply_both">"両方に設定"</string>
+  <string name="apply_text">適用</string>
   <string name="aqi_quality_index_dangerous">"危険"</string>
   <string name="aqi_quality_index_good">"良好"</string>
   <string name="aqi_quality_index_hazardous">"有害"</string>
@@ -115,6 +119,11 @@
   <string name="disable_wallpaper_scroll">"横スクロールをオフにする"</string>
   <string name="double_tap_to_lock_title">画面をロックするにはダブルタップ</string>
   <string name="download_action">"ダウンロード"</string>
+  <string name="drawer_background">背景</string>
+  <string name="drawer_background_dark">ダーク</string>
+  <string name="drawer_background_light">ライト</string>
+  <string name="drawer_background_transparency">アプリドロワーの背景の透明度</string>
+  <string name="drawer_settings">アプリドロワー</string>
   <string name="drawer_background">背景</string>
   <string name="drawer_background_dark">ダーク</string>
   <string name="drawer_background_light">ライト</string>
@@ -210,6 +219,7 @@
   <string name="home_screen_settings">ホーム画面</string>
   <string name="home_slide_up_action">ホーム画面を上にスワイプ</string>
   <string name="icon_reorganize_channel">"アイコンを整列"</string>
+  <string name="icon_size">アイコンサイズ</string>
   <string name="image_too_small_message">"元の画像は十分な大きさではない。"</string>
   <string name="install">"インストール"</string>
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
@@ -359,6 +369,7 @@
   <string name="status_paused">"停止中"</string>
   <string name="status_pending">"待機中"</string>
   <string name="system_shortcuts_more_operation">アプリ情報</string>
+  <string name="system_text">システム</string>
   <string name="title_select_live_folder">"フォルダを選択"</string>
   <string name="title_select_shortcut">"ショートカットを選択"</string>
   <string name="toast_screen_icons_misplaced">Restored from other source, some icons may be misplaced.</string>

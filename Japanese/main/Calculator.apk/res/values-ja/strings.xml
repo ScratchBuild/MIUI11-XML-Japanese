@@ -170,6 +170,9 @@
   <string name="preference_settings">設定</string>
   <string name="preference_use_degress_summary">三角関数の角度でラジアンを代入する</string>
   <string name="preference_use_degress_title">角度を使用する</string>
+  <string name="preference_use_voice_summary">Turn on to use speech output during calculations</string>
+  <string name="preference_use_voice_title">Speech output</string>
+  <string name="preference_user_feedback_title">フィードバック</string>
   <string name="privacy_policy">プライバシーポリシー</string>
   <string name="radDesc">ラジアン</string>
   <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
@@ -422,6 +425,7 @@
   <string name="updating">電卓を更新中…</string>
   <string name="view_float_window_move">Move minimized Calculator</string>
   <string name="voiceDesc">音声コントロール</string>
+  <string name="voice_guide_text">You can turn on speech output here</string>
   <string name="wf_word_figure">財務諸表</string>
   <string name="word_figure_guide_text">Press and hold the text to convert between cases.</string>
   <string name="xiaomi_connect_download_manager_fail">"Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。"</string>

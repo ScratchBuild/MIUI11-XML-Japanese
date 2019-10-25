@@ -107,7 +107,7 @@
   <string name="date_jump_title">"日付に移動"</string>
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_today">" (今日)"</string>
-  <string name="day_view_new_event_hint">"+予定を追加"</string>
+  <string name="day_view_new_event_hint">"予定を追加"</string>
   <string name="default_reminder_later_time">Default interval for \"Remind later\"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
@@ -171,7 +171,7 @@
   <string name="event_info_reminders_label">"通知"</string>
   <string name="event_info_reminders_label_1">"通知"</string>
   <string name="event_info_repeat">"繰り返し"</string>
-  <string name="event_info_title">"予定の表示"</string>
+  <string name="event_info_title">"予定の詳細"</string>
   <string name="event_info_title_anniversary">記念日</string>
   <string name="event_info_title_birthday">誕生日</string>
   <string name="event_info_title_countdown">カウントダウン</string>
@@ -300,10 +300,15 @@
   <string name="month_medium_september">" 9月"</string>
   <string name="month_view">"月"</string>
   <string name="monthly">"月次"</string>
-  <string name="monthly_on_day">"毎月（on the same day each month）"</string>
+  <string name="monthly_on_day">"毎月 (同じ日付)"</string>
+  <string name="monthly_on_day_count">毎月 (%1$s)</string>
   <string name="more_match">"その他の予定"</string>
   <string name="more_string">+%1$s</string>
   <string name="movie_event_title">"映画："</string>
+  <string name="n_day_before">日前</string>
+  <string name="n_day_later">日後</string>
+  <string name="n_week_first">第</string>
+  <string name="n_week_last">週</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="new_event_description">"新規"</string>
   <string name="no_contact_birthday_hint">"インポートする誕生日がありません"</string>

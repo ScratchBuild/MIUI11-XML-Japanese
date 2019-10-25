@@ -144,6 +144,7 @@
   <string name="international_details_uv_index_title">"UV指数"</string>
   <string name="international_details_wind_title">"風速"</string>
   <string name="it_is_going_to_rain">"雨が降るでしょう"</string>
+  <string name="life_index_title">Weather index</string>
   <string name="locate_fail_detail_err">"端末の現在地を取得できません
 画面をタップして手動で追加または都市の位置を変更する"</string>
   <string name="location_provider_btn_text">位置情報サービスをオンにする</string>
@@ -203,6 +204,7 @@
   <string name="privacy_settings">"プライバシーポリシー"</string>
   <string name="pull_fresh_updated">"正常に更新されました"</string>
   <string name="pull_fresh_updating">"更新中…"</string>
+  <string name="q_version_location_provider_btn_text">Turn on location access and improve location accuracy</string>
   <string name="radar_cloud_image_title">"レーダーマップ"</string>
   <string name="radar_cloud_update_time">Before %1$s</string>
   <string name="rainfall_settings_summary">Rainfall alerts</string>
@@ -212,6 +214,7 @@
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">"湿度"</string>
   <string name="receive_net_mock_success">Net mockを正常に受信しました</string>
+  <string name="refresh_empty_data">データを読み込めませんでした。しばらくしてからもう一度お試しください。</string>
   <string name="refresh_fail">"ネットワークに接続できませんでした"</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Weather alert</string>
   <string name="request_permission_location_dialog_content">For displaying the weather info relevant in your current location</string>
@@ -253,6 +256,7 @@
   <string name="updating">"更新中…"</string>
   <string name="user_agreement">"利用規約"</string>
   <string name="view_forecast_item_yesterday">"昨日"</string>
+  <string name="view_indexes_item_day_after_tommorrow">In 2 days</string>
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>
   <string name="warning_weather_day_and_night_settings_summary">Receive daily summaries containing weather info at 7:00 and 19:00</string>

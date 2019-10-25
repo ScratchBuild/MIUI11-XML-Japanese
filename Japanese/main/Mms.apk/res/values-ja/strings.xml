@@ -88,6 +88,7 @@
   <string name="class_0_message_activity">"クラス0メッセージ"</string>
   <string name="click_to_update">更新を確認するにはタップ</string>
   <string name="close">閉じる</string>
+  <string name="cloud_recommend_view_tip">Turn on sync with the cloud to restore important messages anytime</string>
   <string name="cloud_state_disabled">Mi Cloudとの同期をオンにしてメッセージを同期する</string>
   <string name="cloud_state_sync_finished">Mi Cloudと同期しました</string>
   <string name="cloud_state_syncing">Mi Cloudと同期中...</string>

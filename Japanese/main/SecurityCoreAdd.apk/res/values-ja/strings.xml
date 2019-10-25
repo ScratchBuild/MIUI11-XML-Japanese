@@ -448,6 +448,8 @@ to enter Second space from Lock screen"</string>
   <string name="xspace_default_setting_dialog_title">"デフォルト"</string>
   <string name="xspace_default_setting_label">Personalization</string>
   <string name="xspace_description">"デュアルアプリを作成して使用します。デュアルアプリはホーム画面上に別々のアイコンを持ちます。"</string>
+  <string name="xspace_disable">作成されていません</string>
+  <string name="xspace_enable">作成済み</string>
   <string name="xspace_guide_des">"2つのアカウントを切り替えずに使用する"</string>
   <string name="xspace_guide_title">"デュアルアプリを作成"</string>
   <string name="xspace_header">"デュアルアプリ"</string>
@@ -458,8 +460,11 @@ to enter Second space from Lock screen"</string>
   <string name="xspace_introduce">"おすすめ"</string>
   <string name="xspace_label">"デュアルアプリ"</string>
   <string name="xspace_loading_msg">"アプリを読み込み中…"</string>
+  <string name="xspace_notification">デュアルアプリの通知</string>
+  <string name="xspace_notification_error">Sign in to dual WeChat and try again</string>
   <string name="xspace_remove">デュアルアプリのアカウントを削除</string>
   <string name="xspace_setting_label">"デュアルアプリの設定"</string>
+  <string name="xspace_settins">設定</string>
   <string name="xspace_uninstall_completed">"デュアルアプリが正常にアンインストールされました"</string>
   <string name="xspace_uninstall_dialog_content">"デュアルアプリをアンインストールすると、アプリの全データが削除されます。"</string>
   <string name="xspace_uninstall_dialog_title">"デュアルアプリをアンインストール"</string>

@@ -125,6 +125,7 @@
   <string name="online_recognize_order_upload">Confirm and upload</string>
   <string name="online_recognize_order_uploading">Uploading %s…</string>
   <string name="online_recognize_other_order_upload">Wait until current uploads are complete and try again.</string>
+  <string name="online_recognize_progress">Transcribing %s…</string>
   <string name="online_recognize_running">Transcribing…</string>
   <string name="online_recognize_service_unavailable">"Service isn't available now. Wait a minute or two and try again."</string>
   <string name="order_item_duration">Duration: %s</string>
@@ -245,7 +246,9 @@
   <string name="retry">"再試行"</string>
   <string name="runtime_permission_ungranted">"アクセス権限が許可されていないため、レコーダーを使用できません"</string>
   <string name="search_app">"レコーダー"</string>
+  <string name="search_empty">何も見つかりませんでした</string>
   <string name="search_enable_earpiece_title">Use receiver to play audio</string>
+  <string name="search_hint">検索</string>
   <string name="search_led_indicator">"ロック画面の通知"</string>
   <string name="search_led_indicator_prompt">"録音中に、ロック画面で通知LEDの点滅と通知領域にショートカットを表示します"</string>
   <string name="search_quliaty_title">"録音の品質"</string>

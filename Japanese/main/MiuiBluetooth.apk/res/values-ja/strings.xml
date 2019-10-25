@@ -18,6 +18,7 @@
   <string name="copy">コピー</string>
   <string name="device_picker">"Bluetoothデバイスの設定"</string>
   <string name="disconnect">"切断"</string>
+  <string name="fast_connect_device_battery">バッテリー</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">%1$s Box</string>
   <string name="fast_connect_device_box_use_time">Can use %1$s hours</string>
@@ -26,14 +27,13 @@
   <string name="fast_connect_device_connect_retry">再試行</string>
   <string name="fast_connect_device_connect_setup">設定</string>
   <string name="fast_connect_device_connect_success">完了</string>
-  <string name="fast_connect_device_headset">バッテリー</string>
   <string name="fast_connect_device_headset_l">左</string>
   <string name="fast_connect_device_headset_r">右</string>
   <string name="fast_connect_device_headset_reset">long press box reset button</string>
   <string name="fast_connect_device_title_connect_fail">%1$sに接続できませんでした</string>
   <string name="fast_connect_device_title_connecting">接続中...</string>
-  <string name="fast_connect_device_title_find_headset">Find headset %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Find headset %1$s others</string>
+  <string name="fast_connect_device_title_find_headset">Find %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">"Looks like this device isn't yours: %1$s"</string>
   <string name="goto_package">"%1$sを開く"</string>
   <string name="install_package">Install %1$s for more functions</string>
   <string name="mi_band_vibrate_alarm">"アラーム時に振動する"</string>

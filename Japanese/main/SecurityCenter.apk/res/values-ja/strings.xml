@@ -581,11 +581,15 @@
   <string name="create_gamebooster_destop">ホーム画面にショートカットを作成しました</string>
   <string name="create_shortcut">"Game speed boosterのショートカットをホーム画面に作成"</string>
   <string name="cta_HIPS_Perm_Location_Desc">正確な位置情報を取得する (GPSとネットワークを使用)</string>
+  <string name="cta_close_dialog_cancel">キャンセル</string>
+  <string name="cta_close_dialog_content">"If you restrict Security's access to the internet and your location info, you won't be able to receive earthquake warnings, update virus definitions and blocklist info. Your device will become less secure. Restrict anyway?"</string>
+  <string name="cta_close_dialog_ok">Restrict</string>
+  <string name="cta_close_dialog_title">Restricting access</string>
   <string name="cta_dialog_negative">終了</string>
   <string name="cta_dialog_positive">同意</string>
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="cta_main_purpose">Welcome to Security! You can use this app to clear trash on your device, find and neutralize viruses, optimize performance for gaming, save battery, manage apps, and more.</string>
-  <string name="cta_settings">"インターネット接続を許可する"</string>
+  <string name="cta_settings">Allow to connect to the internet and access location</string>
   <string name="current_network_state_not_need_diagnose">"インターネット接続は正常です。"</string>
   <string name="customize_limit_pkg">%s (custom)</string>
   <string name="customizer_mode_user_define_name">"マイルール"</string>
@@ -1354,7 +1358,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mixed_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
   <string name="mixed_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
   <string name="mixed_pattern_entered_header">Set password successfully</string>
-  <string name="mixed_recording_intro_header">Enter at least 4 characters</string>
+  <string name="mixed_recording_intro_header">Enter %1$s-%2$s characters</string>
   <string name="mixed_retry_button_text">"キャンセル"</string>
   <string name="mixed_settings_help_how_to_record">How to set password</string>
   <string name="modify_password_mode">&lt;u>パスワードの種類を変更&lt;/u></string>
@@ -1975,6 +1979,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="shield_keyboard_detail">"ボタンをダブルタップすることで有効に戻します"</string>
   <string name="shield_keyboard_summary">ゲーム中にボタン操作とフルスクリーンジェスチャーを制限する</string>
   <string name="shield_keyboard_title">ボタンとジェスチャーを制限</string>
+  <string name="shortcut_title_scan">スキャン</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsAppクリーナー</string>
   <string name="show_system_app">"システムアプリを表示"</string>
   <string name="show_traffic_dialog_message">"データ使用量の情報が通知シェードに表示されます。この機能はいつでも[データ使用量] &gt; [設定]からオン/オフを切り替えられます"</string>
   <string name="show_traffic_dialog_title">"通知シェードに使用状況を表示"</string>

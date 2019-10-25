@@ -38,7 +38,7 @@
   <string name="can_not_backup_in_lite_mode">"Lite modeではバックアップできません"</string>
   <string name="can_not_restore_in_lite_mode">"Lite modeでは復元できません"</string>
   <string name="cancel_backup">バックアップをキャンセル中…</string>
-  <string name="cancel_recover_settings">&lt;u>キャンセル&lt;/u></string>
+  <string name="cancel_recover_settings">キャンセル</string>
   <string name="cancel_restore_home">キャンセル中…</string>
   <string name="click_try_to_restore_again">"タップして再試行"</string>
   <string name="cloud_app_backup_success">"アプリのバックアップが完了しました"</string>
@@ -48,7 +48,6 @@
   <string name="cloud_app_no_data">バックアップなし</string>
   <string name="cloud_app_no_network">ネットワークに接続できません</string>
   <string name="cloud_app_other_devices">"他のデバイス"</string>
-  <string name="cloud_app_restore_app_and_data">"お使いの端末を設定する"</string>
   <string name="cloud_app_restore_data">個人データや以前インストールしたアプリはお使いのデバイス上に自動で表示されます</string>
   <string name="cloud_app_restore_error">復元できませんでした</string>
   <string name="cloud_app_restore_success">アプリを復元しました</string>
@@ -128,6 +127,7 @@
   <string name="lack_of_storage">ストレージの空き領域が不足しています</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
   <string name="load_backup_failed">バックアップを読み込めませんでした</string>
+  <string name="loading_progress_num">読み込み中 (%s%%)</string>
   <string name="loading_user_backup">ユーザーバックアップを読み込み中…</string>
   <string name="managespace_delete_backup">削除</string>
   <string name="menu_item_managespace">spaceの管理</string>
@@ -200,6 +200,7 @@
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
   <string name="restoring_data">データを復元中…</string>
   <string name="restoring_file_title_no_progress">ファイルを復元中…</string>
+  <string name="restoring_home_screen_apps">Xiaomi Cloud から復元しています…</string>
   <string name="restoring_settings">設定を復元中…</string>
   <string name="retry">再試行</string>
   <string name="selected">選択済み</string>

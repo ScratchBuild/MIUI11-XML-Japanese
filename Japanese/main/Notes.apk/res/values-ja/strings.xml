@@ -157,6 +157,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">ジェスチャーを使用して削除</string>
   <string name="pref_title_todo_float_mode">タスクツールボックスを使用</string>
   <string name="pref_title_todo_shorcut">ツールボックス</string>
+  <string name="privacy_note_content_empty">ここにアイテムはありません。</string>
   <string name="recover_notes_hint">"エラーが発生しました、メモを復元するには i.mi.com へアクセスしてください。"</string>
   <string name="redo">"やり直し"</string>
   <string name="refuse_to_open_as_pic_because_of_loading">"メモが読み込まれるまで待って、もう一度お試しください。"</string>

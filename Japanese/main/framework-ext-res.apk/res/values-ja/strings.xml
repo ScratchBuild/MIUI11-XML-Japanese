@@ -76,6 +76,7 @@
   <string name="handy_mode_summary">"終了するには暗いエリアをタップ"</string>
   <string name="handy_mode_title">"片手操作モード"</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">"ホームボタンの上に指を置いてください"</string>
+  <string name="input_method_clipboard_tips">コピーしたアイテムは 48 時間後にクリップボードから削除されます。</string>
   <string name="input_method_edit_phrase_text">よく使うフレーズを編集</string>
   <string name="input_method_no_content_text">ここにはまだアイテムがありません</string>
   <string name="input_method_switch_settings_text">キーボード設定</string>

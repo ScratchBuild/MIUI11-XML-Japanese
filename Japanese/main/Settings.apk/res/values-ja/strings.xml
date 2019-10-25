@@ -128,6 +128,7 @@
   <string name="add_account_label">アカウントを追加</string>
   <string name="add_auto_startup_application">自動起動アプリを追加</string>
   <string name="add_back_fingerprint_instruction_msg">センサーに指を置いてください</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Fingerprint sensor is located on the right edge of your device</string>
   <string name="add_device_admin">有効にする</string>
   <string name="add_device_admin_msg">デバイス管理者を有効にしますか？</string>
   <string name="add_facerecoginition_text">顔データを追加</string>
@@ -880,6 +881,12 @@
   <string name="bluetooth_hid_profile_summary_connected">入力デバイスに接続されています</string>
   <string name="bluetooth_hid_profile_summary_use_for">入力に使用</string>
   <string name="bluetooth_incoming_pairing_msg">発信元:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>このデバイスをペアに設定しますか？</string>
+  <string name="bluetooth_inform_messgae">"Couldn't connect to %1$s.
+Here's what might be wrong:
+1. Bluetooth is turned off on this device or it's out of range.
+2. This device isn't in discoverable mode.
+3. The device is connected to other devices. Disconnect and try again."</string>
+  <string name="bluetooth_inform_messgae_title">"Couldn't connect"</string>
   <string name="bluetooth_is_disconnect_question">%1$sを切断しますか？</string>
   <string name="bluetooth_is_discoverable">周辺のすべてのBluetoothデバイスに表示（%1$s）</string>
   <string name="bluetooth_is_discoverable_always">周辺のすべてのBluetoothデバイスに表示</string>
@@ -3199,7 +3206,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
   <string name="lockscreen_label">ロック画面</string>
-  <string name="lockscreen_magazine_summary">高品質な Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_summary">Stunning images and exciting stories delivered to you daily</string>
   <string name="lockscreen_remote_input">端末がロックされている場合に、通知で返信などのテキストを入力できないようにします</string>
   <string name="lockscreen_settings_title">ロック画面の表示</string>
   <string name="lockscreen_settings_what_to_show_category">表示する情報</string>
@@ -3728,6 +3735,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="need_reboot_now">アップデートをインストールするため再起動します。</string>
   <string name="netcheck_title">ネットワーク診断</string>
   <string name="network_4G">4G（推奨）</string>
+  <string name="network_alarm">"Don't silence internet calls"</string>
+  <string name="network_alarm_summary">"Note: Some apps aren't compatible with this feature.%1$s"</string>
+  <string name="network_alarm_summary_reg">View supported apps</string>
+  <string name="network_alarm_support_apps">Supported apps</string>
   <string name="network_assistant">データ使用量</string>
   <string name="network_changed_noti_summary">モバイルデータを使用</string>
   <string name="network_changed_noti_title">Wi-Fiから切断しました</string>

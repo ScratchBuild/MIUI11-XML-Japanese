@@ -31,6 +31,7 @@
   <string name="download_fail_desc">"MD5チェックサムが一致しません…"</string>
   <string name="downloading">"ダウンロード中:"</string>
   <string name="downloading_desc">"ダウンロードを実行中です、通知領域から状態を確認できます。"</string>
+  <string name="fetching_data">ダウンロードリンクを取得中、しばらくお待ちください…</string>
   <string name="install_desc">端末をリカバリーモードで再起動して選択したファイルをインストールします: &lt;b>%1$s&lt;/b>"
 データは消去されません。"</string>
   <string name="install_title">"続行してもよろしいですか？"</string>
@@ -41,6 +42,7 @@
   <string name="message_title">NOTE!</string>
   <string name="new_version">"更新が利用可能"</string>
   <string name="no_info">"更新情報がありません。"</string>
+  <string name="no_mirror">すべてのミラーがオフラインです、しばらくしてからお試しください…</string>
   <string name="no_network">"ネットワークに接続できません。"</string>
   <string name="no_update">既に最新版です</string>
   <string name="no_xioamieu">"あなたはXiaomi.euチームが作成したMIUI ROMを使用していないため、
