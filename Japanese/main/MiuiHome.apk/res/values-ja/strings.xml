@@ -124,11 +124,6 @@
   <string name="drawer_background_light">ライト</string>
   <string name="drawer_background_transparency">アプリドロワーの背景の透明度</string>
   <string name="drawer_settings">アプリドロワー</string>
-  <string name="drawer_background">背景</string>
-  <string name="drawer_background_dark">ダーク</string>
-  <string name="drawer_background_light">ライト</string>
-  <string name="drawer_background_transparency">アプリドロワーの背景の透明度</string>
-  <string name="drawer_settings">アプリドロワー</string>
   <string name="dual_app">デュアルアプリ</string>
   <string name="edit_folder_title">"フォルダ名を編集"</string>
   <string name="edit_mode_dual_app">デュアルアプリを作成</string>
