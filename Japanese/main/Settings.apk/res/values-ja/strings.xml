@@ -5221,7 +5221,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="security_patch">Androidセキュリティパッチレベル</string>
   <string name="security_privacy_settings_title">プライバシー</string>
   <string name="security_relative">セキュリティ</string>
-  <string name="security_relative">Security</string>
   <string name="security_settings_face_enroll_dialog_ok">OK</string>
   <string name="security_settings_face_enroll_done">Done</string>
   <string name="security_settings_face_enroll_education_start">Start</string>
@@ -7456,7 +7455,6 @@ Looks like credential storage isn't enabled."</string>
   <string name="zen_mode_from_none">なし</string>
   <string name="zen_mode_from_none_calls">通話を許可しない</string>
   <string name="zen_mode_from_none_messages">メッセージを許可しない</string>
-  <string name="zen_mode_messages_title">メッセージの許可</string>
   <string name="zen_mode_from_starred">スター付きの連絡先のみ</string>
   <string name="zen_mode_important_category">設定</string>
   <string name="zen_mode_media">メディア サウンドを再生</string>
