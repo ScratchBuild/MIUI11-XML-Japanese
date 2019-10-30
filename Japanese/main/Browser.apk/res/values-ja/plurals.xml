@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d個のアイテムをブロック済み</item>
-        <item quantity="one">%d個のアイテムをブロック済み</item>
-    </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d matches</item>
-        <item quantity="one">%d match</item>
-    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">過去%d日間</item>
     </plurals>

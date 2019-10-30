@@ -6,8 +6,8 @@
         <item>"なし"</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>"スタートページ"</item>
-        <item>"カスタム"</item>
+        <item>デフォルト</item>
+        <item>カスタムURL</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Phone</item>

@@ -46,7 +46,7 @@
   <string name="open_print_service">印刷を有効にする</string>
   <string name="open_print_service_tips">この機能を使用するには、まず [設定] で印刷を有効にしてください。</string>
   <string name="open_wlan">Wi-Fiをオンにする</string>
-  <string name="open_wlan_tips">高速にプリンタを見つけるにはWi-Fiをオンにします。</string>
+  <string name="open_wlan_tips">プリンタを見つけるにはWi-Fiをオンにします。</string>
   <string name="other_printer">その他のプリンタ</string>
   <string name="page_description_template">"%1$d/%2$dページ"</string>
   <string name="pages_range_example">"例: 1-5,8,11-13"</string>

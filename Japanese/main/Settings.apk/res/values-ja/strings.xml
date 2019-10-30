@@ -2357,11 +2357,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_swipe_for_notifications_suggestion_title">通知をすばやく確認</string>
   <string name="fingerprint_swipe_for_notifications_summary">通知を確認するには、スマートフォンの背面にある指紋認証センサーを下にスワイプします。</string>
   <string name="fingerprint_swipe_for_notifications_title">指紋センサーをスワイプして通知を表示</string>
+  <string name="fingerprint_unlock_press_type">Press</string>
   <string name="fingerprint_unlock_set_unlock_password">指紋 + パスワード</string>
   <string name="fingerprint_unlock_set_unlock_pattern">指紋 + パターン</string>
   <string name="fingerprint_unlock_set_unlock_pin">指紋 + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continue without fingerprint</string>
   <string name="fingerprint_unlock_title">You can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
+  <string name="fingerprint_unlock_touch_type">Touch</string>
+  <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
   <string name="fingerprint_usage_category_title">指紋の用途</string>
   <string name="finish_application">強制停止</string>
   <string name="finish_button">完了</string>
@@ -2559,6 +2562,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gxzw_add_fingerprint_put_finger_message">画面を押して振動を感じたら指を離します。数回繰り返してください。</string>
   <string name="gxzw_add_fingerprint_put_finger_title">押して振動後に持ち上げる</string>
   <string name="gxzw_add_fingerprint_title">指紋を追加</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Neon</string>
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
@@ -4822,8 +4826,11 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_dark_mode_smart_dark_title">Global dark mode</string>
   <string name="screen_dark_mode_time_title">スケジュール</string>
   <string name="screen_effect">Color scheme</string>
-  <string name="screen_fps_summary">Higher refresh rate makes the picture smoother while lower refresh rate saves battery</string>
+  <string name="screen_fps_summary_power_save">Using fixed rate consumes less power</string>
+  <string name="screen_fps_summary_smooth">Some apps will increase refresh rate automatically to improve picture quality</string>
   <string name="screen_fps_title">Refresh rate</string>
+  <string name="screen_fps_unit_power_save">%dHz (Saves battery)</string>
+  <string name="screen_fps_unit_smooth">%dHz (Better quality)</string>
   <string name="screen_key_long_press">ナビゲーションボタンを長押し</string>
   <string name="screen_key_long_press_action">トリガ機能</string>
   <string name="screen_key_long_press_timeout">長押し時間を設定</string>
@@ -6224,6 +6231,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>
+  <string name="unlock_type_category_title">Recognition method</string>
   <string name="unlogin_account_summary">すべてのMiサービスを、一つのMiアカウントで。</string>
   <string name="unlogin_account_title">Miアカウントにログイン</string>
   <string name="unmount_inform_text">SDカードのマウントが解除されます。</string>
@@ -6724,6 +6732,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="weight_light">Light</string>
   <string name="weight_setting_toast">You can change font weight only for the default system font</string>
   <string name="welcome">ようこそ</string>
+  <string name="wellbing_title">Digital Wellbeing &amp; parental controls</string>
   <string name="wfc_disclaimer_agree_button_text">続行</string>
   <string name="wfc_disclaimer_disagree_text">同意しない</string>
   <string name="wfc_disclaimer_emergency_limitation_desc_text">"お使いの携帯通信会社は、Wi‑Fi 通話による緊急通報には対応していません。

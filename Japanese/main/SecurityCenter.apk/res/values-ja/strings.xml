@@ -288,10 +288,12 @@
   <string name="applock_face_unlock_title">フェイスアンロック</string>
   <string name="applock_function_base_settings">アプリロック</string>
   <string name="applock_function_pwd_settings">パスワード</string>
+  <string name="applock_go_to">設定</string>
   <string name="applock_header_text_less_than_half">"小さすぎます。もう少しドラッグしてください。"</string>
   <string name="applock_login_and_add_account">"ログインと追加"</string>
   <string name="applock_not_add_account">"後で"</string>
   <string name="applock_not_login_account">"ログインしていません"</string>
+  <string name="applock_settings_unlock_all_toast">すべてのアプリをロック解除しました</string>
   <string name="applock_toast_tip">アプリロックの認証が完了しました</string>
   <string name="apps_item_sign_dialog_content">"%sの署名がアプリストアのバージョンと異なります。このアプリを削除して公式版をインストールしますか？ 注意: 署名が競合するアプリをインストールすると、アプリデータが失われる可能性があります。"</string>
   <string name="apps_item_sign_dialog_title">"公式アプリをインストール"</string>
@@ -1172,6 +1174,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いの端末のFeedbackアプリからログを送信してください。"</string>
+  <string name="lock_all_title">すべてのアプリをロック</string>
   <string name="lock_mode_title">"ロックの設定"</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
   <string name="lock_screen_traffic_guide_notification_title">"データ使用量を管理するにはタップ。"</string>
@@ -1655,6 +1658,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_list_item_close_bluetooth">Bluetoothをオフにする</string>
   <string name="power_center_list_item_deep_save_title">高度な設定</string>
   <string name="power_center_list_item_set_lockscreen_time">30秒間操作が行われていない場合に画面を消灯する</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">%d 秒間操作が行われていない場合に端末をロックする</string>
   <string name="power_center_one_key_save">最適化</string>
   <string name="power_center_ontime_boot">Power on time</string>
   <string name="power_center_ontime_shutdown">Power off time</string>
@@ -2263,8 +2267,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
   <string name="system_permission_declare_no_say_no_analytics">"If you don't want to grant these permissions, you can unenroll in Settings &gt; Additional settings &gt; Privacy &gt; User Experience Program."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
-  <string name="system_permission_declare_privacy_declare">We respect and protect your privacy. Note that %1s needs to collect your data and requires the following permissions to work normally:</string>
-  <string name="system_permission_declare_privacy_no_permission">Note that %1s needs to collect your data to work normally. We respect and protect your privacy.</string>
+  <string name="system_permission_declare_privacy_declare">We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. Note that Security needs to connect to the internet and requires the following permissions to collect your personal information:</string>
+  <string name="system_permission_declare_privacy_no_permission">Note that Security needs to connect to the internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using this feature.&lt;/Data></string>
   <string name="system_permission_declare_revoke_system">このアプリを終了することができます。</string>
   <string name="system_permission_declare_revoke_uninstallable">You can sign out, uninstall this app, or revoke your authorization in Security &gt; Manage apps &gt; Permissions &gt; Permissions.</string>
