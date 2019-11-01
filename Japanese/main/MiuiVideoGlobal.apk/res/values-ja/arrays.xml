@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
     <string-array name="playback_streaming_quality">
         <item>自動</item>
         <item>低品質</item>

@@ -5,7 +5,7 @@
   <string name="agree_terms">"私は利用規約およびプライバシーポリシーを読み、同意しました。"</string>
   <string name="agree_terms_input_method_facemoji">"私はFacemojiプライバシーポリシーを読み、同意しました。"</string>
   <string name="agree_terms_input_method_kika">"私はKikaプライバシーポリシーを読み、同意しました。"</string>
-  <string name="ai_button_desc">このボタンを使用してMi AIを起動し、音声コマンドだけで端末の操作を完了させます。</string>
+  <string name="ai_button_desc">AIボタンを使用すると、Mi AIの起動やショートカットを使用することができます。</string>
   <string name="ai_button_double_press">2回押す</string>
   <string name="ai_button_double_press_desc">Mi AIの機能を設定する</string>
   <string name="ai_button_long_press">長押し</string>

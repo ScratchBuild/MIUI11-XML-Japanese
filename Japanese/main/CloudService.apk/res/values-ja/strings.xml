@@ -244,14 +244,14 @@ Locate and lock your device in case it's lost."</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_depend_wifi">同期するにはWi-Fiに接続。</string>
   <string name="micloud_notif_content_dirty_data">詳細</string>
-  <string name="micloud_notif_content_master_depend_wifi">初めにWi-Fiに接続。</string>
+  <string name="micloud_notif_content_master_depend_wifi">Wi-Fiへの接続や同期設定を変更します。変更するにはタップ。</string>
   <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">First spaceと同じアカウントでログインしました。</string>
   <string name="micloud_notif_content_privacy_reopen_failed">詳細を表示</string>
   <string name="micloud_notif_content_sync_with_off">"今すぐデバイスを同期するにはタップ。"</string>
   <string name="micloud_notif_title_battery_low">"Xiaomi Cloudと同期できません"</string>
   <string name="micloud_notif_title_dirty_data">同期していないアイテムがあります</string>
-  <string name="micloud_notif_title_master_depend_wifi">"Xiaomi Cloudと同期できません"</string>
+  <string name="micloud_notif_title_master_depend_wifi">モバイルデータを使用中は、同期が一時停止されます。</string>
   <string name="micloud_notif_title_memory_low">"Xiaomi Cloudと同期できません"</string>
   <string name="micloud_notif_title_multi_user_error">"Xiaomi Cloudと同期できません"</string>
   <string name="micloud_notif_title_privacy_reopen_failed">Xiaomi Cloudサービスを有効にできませんでした</string>
