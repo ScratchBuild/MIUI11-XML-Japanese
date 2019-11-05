@@ -1335,6 +1335,7 @@ EEEE"</string>
   <string name="quick_settings_screenshot_label">スクリーンショット</string>
   <string name="quick_settings_secondary_label_until">%sまで</string>
   <string name="quick_settings_settings_label">設定</string>
+  <string name="quick_settings_sim_disabled">(無効)</string>
   <string name="quick_settings_sync_label">同期</string>
   <string name="quick_settings_tethering_label">テザリング</string>
   <string name="quick_settings_time_label">時間</string>
@@ -1830,7 +1831,7 @@ EEEE"</string>
   <string name="wifi_fail_to_scan">ネットワークをスキャンできません</string>
   <string name="wifi_is_off">Wi-Fi は OFF です</string>
   <string name="wifi_limited_connection">Limited connection</string>
-  <string name="wifi_no_internet">No internet access</string>
+  <string name="wifi_no_internet">インターネットに接続できません</string>
   <string name="wifi_no_internet_no_reconnect">自動的に接続されません</string>
   <string name="wifi_not_in_range">圏外</string>
   <string name="wifi_remembered">保存済み</string>

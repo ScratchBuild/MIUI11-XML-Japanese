@@ -100,6 +100,8 @@
   <string name="member_menu_vipname_mega">メガ</string>
   <string name="member_menu_vipname_premium">プレミアム</string>
   <string name="member_menu_vipname_ultra">ウルトラ</string>
+  <string name="menu_add_feedback">フィードバック</string>
+  <string name="menu_add_short_cut">ホーム画面にショートカットを作成</string>
   <string name="micloud_alert_dialog_positive">OK</string>
   <string name="micloud_all_sub_1_intl_sms">International SMS will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_1_sms">Regular SMS will be sent to activate your SIM card. You will be charged by the carrier.</string>
@@ -499,6 +501,8 @@ Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agre
   <string name="sync_sub_2_intl_sms">2 outgoing international SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
   <string name="sync_sub_2_sms">2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
   <string name="system_busy_or_network_error">エラーが発生しました。しばらくしてからもう一度お試しください。</string>
+  <string name="tip_short_cut_added_success">正常に作成されました</string>
+  <string name="tip_short_cut_already_added">作成されました</string>
   <string name="title_back">戻る</string>
   <string name="title_reg">Mi Accountを作成</string>
   <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>

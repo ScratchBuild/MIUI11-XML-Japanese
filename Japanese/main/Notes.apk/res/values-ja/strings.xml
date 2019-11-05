@@ -23,6 +23,8 @@
   <string name="app_notification_info">メモはバックグラウンドで動作しています</string>
   <string name="app_widget">"メモ"</string>
   <string name="application_icon">App icon</string>
+  <string name="audio_create_normal_state">Release to create. Slide up to cancel.</string>
+  <string name="audio_create_will_cancel_state">Release to cancel</string>
   <string name="audio_toast_file_invalid">"音声ファイルが無効です"</string>
   <string name="audio_toast_file_undownload">"音声ファイルが完全にダウンロードされていないか、見つかりません"</string>
   <string name="audio_toast_network_is_not_available">"ネットワークに接続できませんでした"</string>
@@ -122,6 +124,10 @@
   <string name="menu_todo_show_finished_todo">完了したタスクを表示</string>
   <string name="menu_unmark_privacy">"非表示を解除"</string>
   <string name="menu_unstick">"ピン留めを解除"</string>
+  <string name="new_audio_create_cancel_talkback_des">キャンセルしました</string>
+  <string name="new_audio_create_done_talkback_des">作成しました</string>
+  <string name="new_audio_create_guide_tip">長押しして音声メモを作成する</string>
+  <string name="new_audio_create_talkback_des">Tap to create a text note. Press and hold to create a voice note. Release the button to stop recording and create the note, or slide up to cancel.</string>
   <string name="not_now">"後で"</string>
   <string name="note_description_content">"メモアプリはあなたのアイデアを記録するのに最適なツールです。内蔵のリマインダーを備えており、作成したメモをお使いのクラウドと同期することで、いつでもどこからでもアクセスすることができます。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。"</string>
   <string name="note_description_title">メモについて</string>

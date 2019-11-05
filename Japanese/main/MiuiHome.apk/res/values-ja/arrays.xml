@@ -7,6 +7,15 @@
         <item>Large</item>
         <item>Huge</item>
     </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>なし</item>
+        <item>上にスワイプ</item>
+        <item>検索バー</item>
+    </string-array>
+    <string-array name="global_search_provider_entries">
+        <item>Default</item>
+        <item>Google</item>
+    </string-array>
     <string-array name="minus_screen_entries">
         <item>なし</item>
         <item>App vault</item>

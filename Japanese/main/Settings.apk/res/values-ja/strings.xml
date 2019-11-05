@@ -998,6 +998,12 @@ aptX-Adaptive: Codec Mode"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth オーディオ LDAC コーデック: 再生音質</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth オーディオ LDAC コーデックを選択:
 再生音質"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth audio LHDC codec: Latency</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Select Bluetooth audio LHDC codec:
+Latency"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth audio LHDC codec: Playback quality</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Select Bluetooth audio LHDC codec:
+Playback quality"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth オーディオ サンプルレート</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth オーディオ コーデックを選択:
 サンプルレート"</string>
@@ -1138,8 +1144,16 @@ This feature can be turned off in [Settings]"</string>
   <string name="bt_ldac_pre_summary">高品質なオーディオ体験を提供します</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">プロパティ</string>
-  <string name="bt_pre_summary">Provide a high-quality audio experience</string>
   <string name="bt_ldac_settings">設定</string>
+  <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience, but also increases power consumption.
+This feature can be turned off in the Settings."</string>
+  <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
+  <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Attributes</string>
+  <string name="bt_pre_summary">Provide a high-quality audio experience</string>
   <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
   <string name="bt_trace_log">Bluetoothトレースログ</string>
   <string name="bt_trace_log_summary">Bluetoothトレースログ</string>
@@ -7032,7 +7046,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_network_optimization">Optimized connection</string>
   <string name="wifi_network_prefix_length">ネットワークプレフィックス長</string>
   <string name="wifi_no_domain_warning">ドメインを指定する必要があります。</string>
-  <string name="wifi_no_internet">インターネット接続なし</string>
+  <string name="wifi_no_internet">インターネットに接続できません</string>
   <string name="wifi_no_internet_no_reconnect">インターネットに接続できません</string>
   <string name="wifi_not_in_range">圏外</string>
   <string name="wifi_not_in_range_message">ネットワーク圏外です</string>
@@ -7341,6 +7355,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_system_settings">システム設定の変更</string>
   <string name="wrong_pin_code_pukked">SIM PINコードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
   <string name="xiaomi_account">Miアカウント</string>
+  <string name="xiaomi_cloud_find_device">Find device</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloudは連絡先、写真、その他のアイテムをお使いの端末間で同期します。\"Find device\"が正常に動作するにはMi Cloudが必要です。</string>
   <string name="xiaomi_cloud_service_description_format">Xiaomi Cloud は %s の写真を同期、アプリや設定をバックアップ、端末を紛失した場合にFind deviceで見つける手助けを行います。</string>

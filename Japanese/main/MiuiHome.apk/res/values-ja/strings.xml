@@ -220,10 +220,11 @@
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
+  <string name="launcher_global_search_mode_title">Global search</string>
+  <string name="launcher_global_search_provider_title">Global search provider</string>
   <string name="launcher_minus_screen_title">Minus one screen</string>
   <string name="launcher_not_exist">"エラーが発生しました。ホーム画面に戻りもう一度やり直してください。"</string>
   <string name="launcher_pull_down_title">ホーム画面を下にスワイプ</string>
-  <string name="launcher_search_bar_title">検索バー</string>
   <string name="launcher_slide_up_title">ホーム画面を上にスワイプ</string>
   <string name="launcher_sliding_up_gesture">ホーム画面を上にスワイプして検索を開きます</string>
   <string name="launcher_title">ホーム画面と履歴</string>
