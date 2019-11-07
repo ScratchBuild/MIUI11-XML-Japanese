@@ -1217,7 +1217,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="voicemail_number_not_set">"&lt;未設定>"</string>
   <string name="voicemail_provider">ボイスメールサービス</string>
   <string name="voicemail_provider_summary">ボイスメールサービスを選択</string>
-  <string name="voicemail_settings">設定</string>
+  <string name="voicemail_settings">ボイスメールの設定</string>
   <string name="voicemail_settings_number_hint">ボイスメールボックスの番号を入力</string>
   <string name="voicemail_settings_number_label">ボイスメールの番号</string>
   <string name="voicemail_settings_number_title">ボイスメール番号</string>

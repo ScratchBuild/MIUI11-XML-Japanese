@@ -6,6 +6,8 @@
   <string name="abrupt_weather_settings_summary_type_a">"異常気象警報を切り替える"</string>
   <string name="abrupt_weather_settings_summary_type_b">"異常気象警報を切り替える"</string>
   <string name="abrupt_weather_settings_title">"異常気象警報"</string>
+  <string name="accessibility_ad_close">关闭推荐内容</string>
+  <string name="accessibility_webview_share">分享</string>
   <string name="act_find_city_hint">"都市名を入力"</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_city_title">"人気の都市"</string>
@@ -75,6 +77,7 @@
   <string name="button_settings_confirm_to_revoke_msg">"許可の取り消しを行った後、天気アプリを使用することはできません。"</string>
   <string name="button_settings_confirm_to_revoke_title">"許可を取り消しますか？"</string>
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
+  <string name="card_item_ad_text">広告</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="china_version_first_start_network_msg">"天気アプリを使用するには、Xiaomiの%1$sと%2$sに同意する必要があります。このアプリが正常に動作するには、位置情報へのアクセスとインターネットに接続する必要があります。同意しますか？"</string>
@@ -125,6 +128,7 @@
   <string name="hourly_forecast_date">M/d</string>
   <string name="hourly_forecast_title_24_hours_desc">"24時間の予報"</string>
   <string name="hourly_forecast_title_hourly_desc">"1時間ごとの予報"</string>
+  <string name="index_item_download_pause">ダウンロードを再開</string>
   <string name="index_item_downloading">ダウンロード中</string>
   <string name="index_item_experience_now">"今すぐインストール"</string>
   <string name="index_item_install_now">"今すぐインストール"</string>
@@ -263,6 +267,8 @@
   <string name="warning_weather_day_and_night_settings_title">Daily summaries</string>
   <string name="weather_alert_channel_name">アラート</string>
   <string name="weather_introduce">雨の日も晴れの日も、あなたと共に。</string>
+  <string name="weather_list_info">関連情報</string>
+  <string name="weather_list_title">天気予報</string>
   <string name="weather_permission_agree">許可</string>
   <string name="weather_service_channel_name">バックグラウンドサービス</string>
   <string name="wind_direction_no_data">"風向き"</string>

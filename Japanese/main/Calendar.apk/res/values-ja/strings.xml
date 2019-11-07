@@ -149,6 +149,14 @@
   <string name="edit_event_tab_birthday">"誕生日"</string>
   <string name="edit_event_tab_countdown">"カウントダウン"</string>
   <string name="edit_event_tab_event">"予定"</string>
+  <string name="edit_event_title_create_agenda">予定を追加</string>
+  <string name="edit_event_title_create_anniversary">記念日を追加</string>
+  <string name="edit_event_title_create_birthday">誕生日を追加</string>
+  <string name="edit_event_title_create_countdown">カウントダウンを追加</string>
+  <string name="edit_event_title_edit_agenda">予定を編集</string>
+  <string name="edit_event_title_edit_anniversary">記念日を編集</string>
+  <string name="edit_event_title_edit_birthday">誕生日を編集</string>
+  <string name="edit_event_title_edit_countdown">カウントダウンを編集</string>
   <string name="edit_event_to_label">"終了"</string>
   <string name="email_guests_label">"ゲストにメールを送信"</string>
   <string name="email_install_hint">"メールアプリがアンインストールされました。再インストールすることで、カレンダーアカウントのデータを復元したり、新しいアカウントを追加することができます。"</string>
@@ -237,6 +245,7 @@
   <string name="limit_card_preview_desc">订阅并设置限行提醒后更新数据</string>
   <string name="limit_card_set_reminder">"通知の設定"</string>
   <string name="limit_city_label">"都市を選択"</string>
+  <string name="limit_detail_no_limit">無制限</string>
   <string name="limit_detail_title">都市の制限</string>
   <string name="limit_no_city">"都市データなし"</string>
   <string name="limit_notification_date_format">M月d日(EE)</string>

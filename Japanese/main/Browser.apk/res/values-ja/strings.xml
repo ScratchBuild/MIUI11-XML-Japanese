@@ -185,7 +185,6 @@
   <string name="cloud_tabs_sync_off">"同期はオフです"</string>
   <string name="cloud_time_tips">"前回の同期"</string>
   <string name="cloud_up_to_loading_tips">"指を離して更新"</string>
-  <string name="collect_diagnosis_log">診断ログを収集</string>
   <string name="collect_video">"動画を収集"</string>
   <string name="comment_app_menu">"コメント"</string>
   <string name="comment_description">"コメント"</string>
@@ -240,10 +239,6 @@
   <string name="delete_bookmark_group_warning">"\"%s\"を削除しますか？このグループ内のすべてのブックマークが削除されます。"</string>
   <string name="delete_bookmark_warning">"ブックマーク\"%s\"を削除しますか？"</string>
   <string name="delete_download">"削除"</string>
-  <string name="diagnosis_log_send_failed">診断ログの送信に失敗しました。</string>
-  <string name="diagnosis_log_sent_format">"診断ログが送信されました。
-ID:%s
-このコードを技術者に送ってください。"</string>
   <string name="dialog_ad_exit_exit_app">後で開く</string>
   <string name="dialog_ad_exit_open_app">今すぐ開く</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました"</string>
@@ -350,7 +345,6 @@ ID:%s
   <string name="find_on_page_next">"次へ"</string>
   <string name="find_on_page_prev">"戻る"</string>
   <string name="finish_sync_cloud_tabs">"同期が完了しました"</string>
-  <string name="for_diagnosis_usage_only">この情報は診断目的にのみ使用してください。</string>
   <string name="forward_description">"転送する"</string>
   <string name="geolocation_permissions_prompt_dont_share">"拒否"</string>
   <string name="geolocation_permissions_prompt_message">"%sが現在地情報をリクエストしています"</string>
@@ -860,15 +854,18 @@ ID:%s
   <string name="send_bookmark">ブックマーク</string>
   <string name="send_comment_button">"送信"</string>
   <string name="send_desktop">ホーム画面</string>
-  <string name="send_diagnosis_log">診断ログを送信</string>
   <string name="send_startpage">スタートページ</string>
-  <string name="sending">送信中…</string>
   <string name="sequence_bookmark_description">"長押ししてブックマークの並び順を変更する"</string>
   <string name="share_by_yidianzixun">【ちょっとした情報】</string>
   <string name="share_image_text">こんなものを見つけました！ @MIUI</string>
   <string name="share_page_text">こんなものを見つけました: %1$s @MIUI| %2$s</string>
   <string name="share_video">動画を共有</string>
+  <string name="short_video_comment_hint">发表你的观点</string>
   <string name="short_video_description">"ビデオチャンネル"</string>
+  <string name="short_video_gesture_btn">我知道了</string>
+  <string name="short_video_gesture_hint">滑动查看更多</string>
+  <string name="short_video_net_dialog_continue">继续播放</string>
+  <string name="short_video_net_dialog_title">当前为非WIFI环境，继续播放将消耗流量</string>
   <string name="short_video_tip">Look! Fun video</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
 Here's the data that we'll collect:
@@ -886,6 +883,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="slide_guide">スライドして戻る</string>
   <string name="small_video_ad_app_text_click">ダウンロード</string>
   <string name="small_video_ad_app_text_resume">再開</string>
+  <string name="small_video_ad_download_text">ダウンロード</string>
   <string name="small_video_ad_web_text">開く</string>
   <string name="small_video_boba_tab">Broadcast</string>
   <string name="small_video_comment">すべてのコメント</string>
@@ -922,8 +920,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="storage_permission_request_toast">"ダウンロードにはストレージへのアクセス許可が必要です。"</string>
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>
-  <string name="sug_search_history_delete_text">履歴を削除する</string>
-  <string name="sug_search_history_empty_text">すべて削除</string>
+  <string name="sug_search_history_delete_text">削除</string>
+  <string name="sug_search_history_empty_text">消去</string>
   <string name="suggest_access_btn_install">"インストール"</string>
   <string name="suggest_access_btn_open">"開く"</string>
   <string name="suggest_access_item_app_mark">"アプリ"</string>
@@ -967,7 +965,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
   <string name="tabs_description">"タブ"</string>
   <string name="temp_refuse">"結構です"</string>
-  <string name="temporary_not_available">一時的に利用できません</string>
   <string name="title_bar_loading">"読み込み中…"</string>
   <string name="title_notice_push">"通知をオンにする"</string>
   <string name="toast_feedback">Will reduce this kind of content for you</string>

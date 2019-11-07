@@ -134,6 +134,7 @@
   <string name="current_album">"現在のアルバムカバー"</string>
   <string name="current_lyric">"現在の歌詞"</string>
   <string name="current_version">Current version</string>
+  <string name="daily_recommendation">Daily mix</string>
   <string name="dark_mode">Dark mode</string>
   <string name="data_usage_warning">"データ使用量"</string>
   <string name="data_usage_warning_summary">"モバイルデータ接続を使用して高品質の音楽をストリーミングすると、データ使用料が増加する可能性があります。"</string>
@@ -176,6 +177,10 @@
   <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
   <string name="dialog_renew_positive_text">YEAH, I WANNA ROCK LIKE A PRO</string>
   <string name="dialog_renew_success">Thanks for your confirmation</string>
+  <string name="dialog_score_btn_good">Rate</string>
+  <string name="dialog_score_prompt_bad">"Thanks for your feedback! We'll do our best to improve our app and services."</string>
+  <string name="dialog_score_prompt_good">Thanks for your support! Rate our app in Google Play as well?</string>
+  <string name="dialog_score_title">Rate our app</string>
   <string name="dialog_song_sort_type">"曲を並べ替え"</string>
   <string name="dialog_song_sort_type_name">"名前順"</string>
   <string name="dialog_song_sort_type_playing_times">"再生回数順"</string>
@@ -341,11 +346,14 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Only PRO members can download multiple songs. Get a PRO membership now?</string>
+  <string name="hungama_batch_download_alert_summary_toast">Get a subscription to download the whole playlist.</string>
+  <string name="hungama_category_chart">Charts</string>
   <string name="hungama_category_playlist">Playlist</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Video</string>
   <string name="hungama_category_vip">Vip</string>
   <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
+  <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
   <string name="hungama_playlist_category">Playlist category</string>
   <string name="hungama_privacy_desc">Hungama Privacy Policy (optional)</string>
   <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
@@ -446,6 +454,7 @@
   <string name="more_settings">"その他の設定"</string>
   <string name="more_settings_summary">スリープタイマー、ファイルのフィルタリング、その他。</string>
   <string name="more_share">"共有"</string>
+  <string name="more_splendid_contents">More</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mulit_choice_management">複数の項目を管理</string>
   <string name="music_browser_label">Music</string>
@@ -730,6 +739,7 @@
   <string name="tab_album_list">"アルバム"</string>
   <string name="tab_artist">"アーティスト"</string>
   <string name="tab_artist_list">"アーティスト"</string>
+  <string name="tab_chart">Charts</string>
   <string name="tab_folder">Folders</string>
   <string name="tab_playlist">Playlists</string>
   <string name="tab_top_results">Top result</string>
@@ -803,4 +813,5 @@ Tap %s to start this download the next time you're connected to a Wi-Fi network.
   <string name="xiaomi_update_sdk_dialog_title">%1$sの更新が利用可能</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">ストレージが使用できません、SDカードを確認してください。</string>
   <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
+  <string name="you_may_like">You may also like</string>
 </resources>

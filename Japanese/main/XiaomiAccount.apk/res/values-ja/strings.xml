@@ -410,6 +410,7 @@ ID:%s
   <string name="push_notification_title">You signed in to your Mi Account on an unknown device</string>
   <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Mi Account. Enter this verification code on the device. If that wasn't you, change your Mi Account password right away. Don't disclose the verification code to other people."</string>
   <string name="push_notify_dialog_title">"アカウントの確認"</string>
+  <string name="pwd_width_phone_number_or_mail_num">パスワードには、お使いの電話番号、メールアドレス、MiアカウントIDを含めることはできません</string>
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
   <string name="recycle_phone_notification_title">Mi Account security risk</string>
@@ -422,6 +423,7 @@ ID:%s
   <string name="restart_action">Start over</string>
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">"予備の電話を変更"</string>
+  <string name="risky_pwd_not_allow">新しいパスワードは安全ではありません。別のものを設定してください。</string>
   <string name="same_new_and_old_pwd">現在のパスワードと同じにはできません</string>
   <string name="scan_barcode_title">"Mi Accountにログインするには、QRコードをスキャン"</string>
   <string name="search_account_security">"アカウントのセキュリティ"</string>
