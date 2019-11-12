@@ -194,7 +194,7 @@
   <string name="airplane_mode">機内モード</string>
   <string name="alarm_ringtone_title">デフォルトのアラーム音</string>
   <string name="alarm_sound_dialog_title">アラーム音を選択</string>
-  <string name="alarm_sound_title">アラーム音</string>
+  <string name="alarm_sound_title">アラーム</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
   <string name="alarm_template">%1$s</string>
@@ -2054,6 +2054,20 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dual_clock_hint">デュアルクロックを使用するにはシステムの時計ウィジェットとデフォルトテーマが必要です</string>
   <string name="dual_clock_ok">OK</string>
   <string name="dual_clock_open_message">デュアルクロックはロック画面、ホーム画面に表示されます。</string>
+  <string name="dual_wifi">Dual WLAN network acceleration</string>
+  <string name="dual_wifi_acceleration">Slave WLAN acceleration</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Available slave WLAN</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Available slave WLAN(2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Available slave WLAN(5G)</string>
+  <string name="dual_wifi_enabler_summary">Simultaneously use two WLAN for acceleration</string>
+  <string name="dual_wifi_off">Off</string>
+  <string name="dual_wifi_on">On</string>
+  <string name="dual_wifi_primary_wifi_connected">Connected primary WLAN</string>
+  <string name="dual_wifi_slave_wifi_connected">Connected slave WLAN</string>
+  <string name="dual_wifi_summary">Connect to the primary WLAN, turn on the slave WLAN, and increase the network speed.</string>
+  <string name="dual_wifi_switching_not_remind">No more hints next time</string>
+  <string name="dual_wifi_switching_prompt">WLAN switching prompt</string>
+  <string name="dual_wifi_switching_summary">Dual WLANs require different frequency bands, and if you want to change the frequency band of the primary WLAN, the slave WLAN will be disconnected.</string>
   <string name="dump_log">問題に関するログを取得</string>
   <string name="dump_log_summary">"この機能はMIUIのAlpha版とBeta版で診断ログを生成するために設計されています。慎重に使用してください。
 生成されたログはファイルマネージャーで表示できます。"</string>
@@ -3656,6 +3670,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mtrl_picker_header_prompt">Pick a Date</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_range_header_prompt">Pick a Date Range</string>
+  <string name="multi_network_acceleration_app_settings">Multi-network accelerated application management</string>
   <string name="multi_touch_points_category_title">マルチタッチポイント</string>
   <string name="multi_touch_points_preference">この設定は、端末を再起動した後に有効になります</string>
   <string name="music_app_unavailable">Mi Musicアプリが利用可能か確認してください。</string>
@@ -3754,7 +3769,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="netcheck_title">ネットワーク診断</string>
   <string name="network_4G">4G（推奨）</string>
   <string name="network_alarm">"Don't silence internet calls"</string>
-  <string name="network_alarm_summary">"Note: Some apps aren't compatible with this feature.%1$s"</string>
+  <string name="network_alarm_summary">"Note: Some apps aren't compatible with this feature. %1$s"</string>
   <string name="network_alarm_summary_reg">View supported apps</string>
   <string name="network_alarm_support_apps">Supported apps</string>
   <string name="network_assistant">データ使用量</string>
@@ -4720,7 +4735,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="reset_network_final_button_text">設定をリセット</string>
   <string name="reset_network_final_desc">今すぐすべてのネットワーク設定をリセットしますか？これには数秒かかる場合があります。この操作は元に戻せません。</string>
   <string name="reset_network_final_desc_esim">すべてのネットワーク設定をリセットして、ダウンロード型 SIM を消去しますか？この操作を取り消すことはできません。</string>
-  <string name="reset_network_title">ネットワーク設定のリセット</string>
+  <string name="reset_network_title">Wi-Fi、モバイルネットワーク、Bluetooth設定のリセット</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Second spaceのパスワードをリセット</string>
   <string name="reset_second_space_passwd_cancel">キャンセル</string>
@@ -4829,7 +4844,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_cancel">キャンセル</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
-  <string name="screen_color_temperature">色</string>
+  <string name="screen_color_temperature">色温度</string>
   <string name="screen_color_temperature_and_saturation">色と彩度</string>
   <string name="screen_compatibility_label">画面の互換性</string>
   <string name="screen_compatibility_text">このアプリはお使いの画面用に設計されていない可能性があります。ここでお使いの画面に合わせて設定できます。</string>
@@ -7042,6 +7057,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_metered_title">ネットワーク使用状況</string>
   <string name="wifi_modify">変更</string>
   <string name="wifi_more">その他</string>
+  <string name="wifi_multi_network_acceleration">Intelligent multi-network acceleration</string>
   <string name="wifi_multiple_cert_added">（複数の証明書が追加されています）</string>
   <string name="wifi_network_optimization">Optimized connection</string>
   <string name="wifi_network_prefix_length">ネットワークプレフィックス長</string>

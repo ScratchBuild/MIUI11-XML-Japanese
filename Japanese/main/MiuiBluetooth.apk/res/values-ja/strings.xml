@@ -34,6 +34,7 @@
   <string name="fast_connect_device_title_connecting">接続中...</string>
   <string name="fast_connect_device_title_find_headset">Find %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">"Looks like this device isn't yours: %1$s"</string>
+  <string name="fast_connect_nzbt_reset">電源をオフにするには、上部のボタンを %1$s 秒間長押しします</string>
   <string name="goto_package">"%1$sを開く"</string>
   <string name="install_package">Install %1$s for more functions</string>
   <string name="mi_band_vibrate_alarm">"アラーム時に振動する"</string>

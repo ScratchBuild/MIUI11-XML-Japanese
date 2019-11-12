@@ -45,6 +45,7 @@
   <string name="content_description_web_url">ブラウザで開く</string>
   <string name="copy">"コピー"</string>
   <string name="cut">"切り取り"</string>
+  <string name="data_usage_context">If WLAN is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
   <string name="default_device_name">不明な端末</string>
   <string name="device_type_pc">コンピュータ</string>
   <string name="enable_livetalk_summary">Save 70% on your calling charges</string>

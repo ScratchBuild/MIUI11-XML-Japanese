@@ -349,7 +349,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_account_hint_text">メールアドレス/電話番号/Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_label">Mi Account</string>
-  <string name="passport_account_name">Account: %1$s</string>
+  <string name="passport_account_name">"Account: %1$s "</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
   <string name="passport_account_set_password">パスワードを設定</string>

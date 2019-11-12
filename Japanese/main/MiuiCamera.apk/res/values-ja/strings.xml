@@ -519,6 +519,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_lying_summary">端末が地面と平行になったとき、現在のカメラの向きを通知する。</string>
   <string name="pref_camera_lying_title">カメラの向きを通知</string>
   <string name="pref_camera_magic_mirror_title">"マジックミラー"</string>
+  <string name="pref_camera_manual_description_title">パラメータの説明</string>
   <string name="pref_camera_manual_mode_title">"マニュアル"</string>
   <string name="pref_camera_mono_mode_title">B&amp;W</string>
   <string name="pref_camera_mfnr_sat_enable_title">Turn on MFNR</string>
@@ -609,6 +610,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_video_duration_entry_120">"無制限"</string>
   <string name="pref_camera_video_duration_entry_30">"30分"</string>
   <string name="pref_camera_video_duration_entry_mms">"30秒 (MMS)"</string>
+  <string name="pref_camera_video_tag">视频标记</string>
+  <string name="pref_camera_video_tag_description">录像中点击“标记”，回放时可查看标记位置</string>
   <string name="pref_camera_volumekey_function_entry_exposure">"露出"</string>
   <string name="pref_camera_volumekey_function_entry_shutter">"シャッター"</string>
   <string name="pref_camera_volumekey_function_entry_timer">"カウントダウンシャッター"</string>
@@ -784,6 +787,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="video_beauty_tip">Beautify for videos</string>
   <string name="video_camera_label">Camcorder</string>
   <string name="video_reach_size_limit">"サイズ制限に達しました。"</string>
+  <string name="video_tag_flag_title">マーク</string>
   <string name="view_privacy_policy">"プライバシーポリシーを表示"</string>
   <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
   <string name="vv_hint">You can shoot vlogs only in the landscape mode</string>
