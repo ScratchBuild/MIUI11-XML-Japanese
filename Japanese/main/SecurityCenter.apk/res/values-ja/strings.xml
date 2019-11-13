@@ -13,7 +13,7 @@
   <string name="ac_enter_applock">"アプリロックに切り替える"</string>
   <string name="ac_firstUseApplock_subTitle">"システムレベルのより優れたセキュリティツールを使用する"</string>
   <string name="ac_firstUseApplock_title">"アプリを保護するためのパスワードを設定する"</string>
-  <string name="ac_mask_all_apps">"すべてのアプリを非表示"</string>
+  <string name="ac_mask_all_apps">"すべてを非表示"</string>
   <string name="ac_notification_contentText">"オンにするにはタップ"</string>
   <string name="ac_notification_contentTitle">"アプリロックでアプリを保護する"</string>
   <string name="ac_post_notification_contentText">"システムレベルの保護を実施する"</string>
@@ -22,7 +22,7 @@
   <string name="ac_pre_notification_contentTitle">"アプリロックを試す"</string>
   <string name="ac_summaryOff">"オフにしました、アプリを開くのにパスワードは不要です"</string>
   <string name="ac_summaryOn">保護されたアプリを開くにはパスワードを入力してください</string>
-  <string name="ac_unmask_all_apps">"すべてのアプリを表示"</string>
+  <string name="ac_unmask_all_apps">"すべてを表示"</string>
   <string name="access_control_app_is_launching">"アプリを起動中"</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">"新しい指紋でロックを解除する前にパスワードを入力してください"</string>
   <string name="access_control_fingerprint_not_identified_msg">"指紋を読み取れませんでした。"</string>
@@ -1451,8 +1451,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_mask_summary">保護されたアプリからの通知の内容を表示しない</string>
   <string name="notification_mask_title">"通知内容を隠す"</string>
-  <string name="notification_masked_item">"通知を非表示"</string>
-  <string name="notification_masked_subtitle">"アプリロックで保護されているアプリからの通知を非表示"</string>
+  <string name="notification_masked_item">通知の内容を非表示にするには？</string>
+  <string name="notification_masked_subtitle">アプリロックを使用して、選択したアプリからの通知内容を非表示にする</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notify_channel_mipush">Security push messages</string>
   <string name="notify_channel_name_security">"システムセキュリティ"</string>
@@ -1665,6 +1665,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_power_save_summary_text">残り時間を最大 %1$d時間%2$d分 まで増やす</string>
   <string name="power_center_power_save_title_text">バッテリーセーバー</string>
   <string name="power_center_repeat">Repeat</string>
+  <string name="power_center_scan_item_title_5g">5G connectivity</string>
   <string name="power_center_scan_item_title_GPS">Adjust GPS accuracy</string>
   <string name="power_center_scan_item_title_abnormal">Battery issues</string>
   <string name="power_center_scan_item_title_abnormal_apps">Apps that drain battery</string>
@@ -1695,6 +1696,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_dialog_cancel">"キャンセル"</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_super_save_msg">ウルトラバッテリーセーバーは、基本的な機能(通話、SMS、ネットワークへの接続など)をできるだけ長く利用できるようにするため、 消費電力が多く端末のパフォーマンスを低下させる機能を制限します。ウルトラバッテリーセーバーをオンにしますか？</string>
+  <string name="power_dialog_super_save_msg_5g">"Ultra battery saver restricts most power consuming features (e.g. 5G connectivity) lowering your device's performance. Only calls, messages, and network connectivity won't be affected. Turn on Ultra battery saver?"</string>
   <string name="power_dialog_super_save_title">ウルトラバッテリーセーバー</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_optimize_auto_catagory_title">Battery issues</string>
@@ -1704,6 +1706,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_optimize_btn_text_fixed">Optimized</string>
   <string name="power_optimize_catagory_fixed_title">Optimized</string>
   <string name="power_optimize_close_app">Close apps consuming excessive power</string>
+  <string name="power_optimize_disable_5g">Restrict 5G connectivity</string>
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
@@ -1726,6 +1729,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_save_on_time_start_time_summary_na">"開始時間"</string>
   <string name="power_save_ps_clean">端末のロック時、常にキャッシュを消去する</string>
   <string name="power_save_ps_close_setting">バッテリーを節約するためにバックグラウンドサービス(同期、GPS)をオフにする</string>
+  <string name="power_save_ps_close_setting_5g">Restrict power consuming features (sync, 5G connectivity, GPS)</string>
   <string name="power_save_ps_freeze">アプリをバックグラウンドで停止する</string>
   <string name="power_save_ps_limit">システムアプリのアクティビティを制限する</string>
   <string name="power_save_settings">バッテリー設定</string>
@@ -1861,6 +1865,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_upload">"アップロード"</string>
+  <string name="privacyapp_number_masked_text">通知内容は非表示です。</string>
+  <string name="privacyapp_number_unmasked_text">通知内容を非表示にすることができます。</string>
   <string name="process_mediaserver_label">"メディアサーバー"</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Ad</string>

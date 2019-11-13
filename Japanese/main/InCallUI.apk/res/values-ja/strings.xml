@@ -194,4 +194,5 @@
   <string name="volume_boost_text">Boosted volume successfully</string>
   <string name="wait_prompt_str">"次の番号を送信しますか？"</string>
   <string name="waiting_close_airplane_mode">"読み込み中…"</string>
+  <string name="wifi_call">Wi-Fi通話</string>
 </resources>
