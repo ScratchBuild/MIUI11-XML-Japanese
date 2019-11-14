@@ -202,6 +202,8 @@
   <string name="auto_disable_screenbuttons_enable_toast_text">ナビゲーションボタンは有効です</string>
   <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="back">戻る</string>
+  <string name="band_24G">" (2.4 GHz 帯)"</string>
+  <string name="band_5G">" (5 GHz 帯)"</string>
   <string name="battery">電池</string>
   <string name="battery_can_use_time">残り約 %s</string>
   <string name="battery_detail_charging_summary">充電中はバッテリー セーバーは利用できません</string>
