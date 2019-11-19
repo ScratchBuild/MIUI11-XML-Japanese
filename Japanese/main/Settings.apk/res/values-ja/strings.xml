@@ -384,6 +384,7 @@
   <string name="applications_settings_summary">アプリの管理やクイック起動ショートカットのセットアップ</string>
   <string name="applications_settings_title">アプリ</string>
   <string name="apply">適用</string>
+  <string name="apply_fingerprint_to">以下の用途で指紋を使用:</string>
   <string name="apply_fingerprint_to_category_title">指紋認証の適用</string>
   <string name="apply_now_button_text">アップデート</string>
   <string name="apply_password_to_category_title">ロック解除を要求</string>
@@ -2193,6 +2194,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enhanced_4g_lte_mode_title">VoLTE</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">4G 回線による通話</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">拡張モードでの通話</string>
+  <string name="enrol_fingerprint_data">指紋を追加</string>
   <string name="enter_password">Androidを起動するには、パスワードを入力します</string>
   <string name="enter_pattern">Androidを起動するには、パターンを入力します</string>
   <string name="enter_pin">Androidを起動するには、PINを入力します</string>
@@ -3352,6 +3354,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_title">データの初期化</string>
   <string name="max_aspect_settings_all_app_display_loading">読み込み中…</string>
   <string name="max_fingerprint_number_reached">5つ以上の指紋を追加することはできません。新しい指紋を追加するには、既存の指紋を削除してください。</string>
+  <string name="max_fingerprint_reached_toast">最大5つの指紋を追加できます</string>
   <string name="maximum_memory_use">最大メモリ使用</string>
   <string name="mbn_version">MBN version</string>
   <string name="media_button">メディアボタン</string>

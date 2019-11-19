@@ -23,6 +23,10 @@
         <item quantity="other">%s個のアイテムを選択済み</item>
         <item quantity="one">%s個のアイテムを選択済み</item>
     </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">%d個の電話番号を追加済み</item>
+        <item quantity="one">%d個の電話番号を追加済み</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d時間前</item>
     </plurals>

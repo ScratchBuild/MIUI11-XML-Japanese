@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">"1時間前"</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">"30分前"</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">"すぐに"</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">"たった今"</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">"%d分前"</item>
-        <item quantity="one">"%d分前"</item>
-    </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">これらのファイルを非表示にしますか？</item>
         <item quantity="one">このファイルを非表示にしますか？</item>
@@ -218,6 +192,26 @@
         <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
         <item quantity="one">"Skipped a photo which couldn't be rendered."</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
+        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
+        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
+        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Items can be stored here for up to %1$d days (%2$s)</item>
+        <item quantity="one">Items can be stored here for %1$d day (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Items can be stored here for up to %1$d days. Upgrade your plan to extend this period.</item>
+        <item quantity="one">Items can be stored here for %1$d day. Upgrade your plan to extend this period.</item>
+    </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d files</item>
         <item quantity="one">%1$d file</item>
@@ -261,6 +255,10 @@
     <plurals name="photo_count_format">
         <item quantity="other">Total %1$d items</item>
         <item quantity="one">Total %1$d item</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"選択した写真は端末上にありません。モバイルデータを使用してダウンロードしますか？"</item>

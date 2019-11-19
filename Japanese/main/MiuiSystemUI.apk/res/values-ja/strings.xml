@@ -1337,7 +1337,7 @@ EEEE"</string>
   <string name="quick_settings_screenshot_label">スクリーンショット</string>
   <string name="quick_settings_secondary_label_until">%sまで</string>
   <string name="quick_settings_settings_label">設定</string>
-  <string name="quick_settings_sim_disabled">(無効)</string>
+  <string name="quick_settings_sim_disabled">" (無効)"</string>
   <string name="quick_settings_sync_label">同期</string>
   <string name="quick_settings_tethering_label">テザリング</string>
   <string name="quick_settings_time_label">時間</string>
@@ -1432,7 +1432,9 @@ EEEE"</string>
   <string name="screenshot_edit">"編集"</string>
   <string name="screenshot_failed_title">スクリーンショットをキャプチャできませんでした。</string>
   <string name="screenshot_failed_to_capture_text">スクリーンショットの作成はアプリまたは組織で許可されていません</string>
+  <string name="screenshot_failed_to_capture_title">このアプリはスクリーンショットの作成を許可していません</string>
   <string name="screenshot_failed_to_save_text">空き容量が足りないため、スクリーンショットを保存できません。</string>
+  <string name="screenshot_failed_to_save_title">スクリーンショットのための空き容量が不足しています</string>
   <string name="screenshot_failed_to_save_unknown_text">スクリーンショットの保存中に問題が発生しました。</string>
   <string name="screenshot_insert_failed">"スクリーンショットを読み込めませんでした。取得し直すか、ギャラリーで画像を表示してください。"</string>
   <string name="screenshot_feedback_txt">フィードバック</string>
