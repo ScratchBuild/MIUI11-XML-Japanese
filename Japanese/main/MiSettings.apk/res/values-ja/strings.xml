@@ -15,7 +15,6 @@
   <string name="mms">メッセージ</string>
   <string name="more_ringtone">すべての着信音</string>
   <string name="most_unlock_week_day">"Most unlocks: "</string>
-  <string name="network_error">A network error occurred. Try again.</string>
   <string name="network_error">网络连接错误，请重试</string>
   <string name="notification_sound">通知音</string>
   <string name="retry">再試行</string>
