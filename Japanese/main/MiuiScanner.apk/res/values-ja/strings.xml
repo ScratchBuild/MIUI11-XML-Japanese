@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Approval">Apply</string>
+  <string name="Xiaomi_account_pending_approval">Reviewing application</string>
   <string name="about_title">このアプリについて</string>
   <string name="access_sd_fail">SDカードにアクセスできませんでした</string>
   <string name="accessibility_shutter_button">シャッター</string>
@@ -31,6 +33,7 @@
   <string name="camera_error_title">Camera error</string>
   <string name="cancel">キャンセル</string>
   <string name="character_counter_content_description">文字数制限を %2$d 文字のうち %1$d 文字超えました</string>
+  <string name="check_for_updates">Check for Beta updates</string>
   <string name="choose_open_code_app">アプリを選択</string>
   <string name="choose_pay_title">支払い方法を選択</string>
   <string name="choose_picture">"QRコードの画像を選択"</string>
@@ -43,6 +46,7 @@
   <string name="contact_details">QR code contact:</string>
   <string name="continue_access_web_url">ウェブサイトに移動</string>
   <string name="continue_to_website">ウェブサイトに移動</string>
+  <string name="continue_waiting">Keep waiting</string>
   <string name="copy_text">テキストをコピー</string>
   <string name="copy_text_success">テキストをコピーしました</string>
   <string name="crop_cancel_description">キャンセル</string>
@@ -67,6 +71,8 @@
   <string name="document_title">Take a photo of the document</string>
   <string name="document_top_panel_title">Document photo</string>
   <string name="done">完了</string>
+  <string name="download_stable_version">Use stable version</string>
+  <string name="download_use_stable_version">Download stable version</string>
   <string name="drag_barcode_into_frame">フレームをドラッグしてコードに合わせる</string>
   <string name="drag_crop_to_business_card">移動して切り抜く</string>
   <string name="email">メール:</string>
@@ -77,11 +83,28 @@
   <string name="error_media_storage_failure">写真を保存できませんでした</string>
   <string name="error_permissions">"スキャナーが正常に動作するために必要な権限がありません。続行するには[設定]に移動して権限を確認してください。"</string>
   <string name="error_server_error">サーバーエラーが発生しました。</string>
+  <string name="experience_new_feature_tips">"Sign in to your Mi Account to apply for permissions to use Beta version. You'll be able to use Beta version after we review your application. Beta version might contain bugs."</string>
+  <string name="experience_new_features">Beta version</string>
+  <string name="experiential_version_of_the_prompt_content">Sign in to your Mi Account to access Scanner Beta. Sign in now?</string>
+  <string name="failed_to_get_xiaomi_account">"Couldn't sign in"</string>
   <string name="fax">ファックス</string>
   <string name="feed_search_fail">"結果がありません、もう一度お試しください"</string>
+  <string name="feedback">Feedback</string>
   <string name="feedback_description_camera_access">"スキャナーがカメラに接続できません"</string>
   <string name="feedback_description_save_photo">"写真や動画を保存できませんでした"</string>
+  <string name="feedback_title">Feedback</string>
   <string name="flight_mode_connecting_to_wifi">機内モードがオンのとき、手動でWi-Fiをオンにします</string>
+  <string name="food_identification_fail_tips">Scan fruits, vegetables, and other food. This feature also works with images.</string>
+  <string name="food_identification_tip_msg">Recognizing food…</string>
+  <string name="food_make_complaints_hint">Enter feedback here</string>
+  <string name="food_module_feedback_str">Feedback</string>
+  <string name="food_module_get_more_info">More info</string>
+  <string name="food_module_identification_failure">"Can't recognize this item"</string>
+  <string name="food_module_send_feedback">Send</string>
+  <string name="food_module_step_on">"Don't like"</string>
+  <string name="food_module_thumbs_up">Like</string>
+  <string name="food_module_tip">Place the food inside the frame</string>
+  <string name="food_module_title_food">Calories</string>
   <string name="got_it">OK</string>
   <string name="gps">Navigate</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -124,6 +147,8 @@
   <string name="name">名前:</string>
   <string name="new_schedule">予定を作成</string>
   <string name="nickname">ニックネーム:</string>
+  <string name="no_has_experience_version_permission">"You don't have permissions to use Scanner Beta. Apply for permissions or download the stable version."</string>
+  <string name="no_inner_version">"Beta version isn't available"</string>
   <string name="no_network">ネットワークに接続できません</string>
   <string name="no_storage">内部ストレージがありません</string>
   <string name="no_support_to_translate_type">この言語はサポートされていません</string>
@@ -146,9 +171,11 @@
   <string name="pref_camera_jpeg_quality_superfine">スーパーファイン</string>
   <string name="preparing_sd">内部ストレージの準備中…</string>
   <string name="previous">戻る</string>
+  <string name="prompt">Attention</string>
   <string name="qr_code_details">QRコードの詳細:</string>
   <string name="recognize">Scan</string>
   <string name="recognize_fail">"コードを読み取れませんでした"</string>
+  <string name="request_server_failed">"Couldn't connect to the server"</string>
   <string name="refresh">再読み込み</string>
   <string name="scan_result">"結果"</string>
   <string name="scan_support_type">WeChat, Alipay, QR codes, barcodes</string>
@@ -172,6 +199,7 @@
   <string name="study_searching">結果を検索中…</string>
   <string name="study_title">解きたい問題をスキャンする</string>
   <string name="study_vendor_info">Powered by Zuoyebang</string>
+  <string name="suggested_submission_success">Submitted your feedback successfully</string>
   <string name="switch_open">オンにする</string>
   <string name="tel">発信</string>
   <string name="title">Title:</string>
@@ -207,6 +235,7 @@
   <string name="translation_see_more">View definition</string>
   <string name="translation_type_sentence">フレーズ</string>
   <string name="translation_type_word">単語</string>
+  <string name="uninstall_prompt">If problems occur during installation, go to Settings &gt; Apps &gt; Manage apps &gt; Scanner, tap \"Uninstall\", and try to install the app again.</string>
   <string name="url_is_phish">フィッシングサイトの可能性があります</string>
   <string name="url_is_safety">このウェブサイトは安全です</string>
   <string name="url_is_unknown">ウェブサイトが安全か確認することができません</string>
@@ -214,6 +243,7 @@
   <string name="web">ウェブサイト:</string>
   <string name="website_details">ウェブサイト:</string>
   <string name="weixin_code_tip">WeChatを使用するにはこのQRコードをスキャンしてください</string>
+  <string name="welcome_to_thesweepversion">Welcome to Scanner Beta!</string>
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">Wi-Fiホットスポット \"%1$s\" は既に存在します。削除してからコードをもう一度スキャンして接続します。</string>
   <string name="wifi_open_fail">Wi-Fiをオンにできません</string>
@@ -221,5 +251,9 @@
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="will_be_sent_tothe_background_review">" (Your application will be sent for review soon.)"</string>
   <string name="wx_not_installed_toast">この機能はWeChatを使用する必要があります。初めにWeChatをインストールしてください。</string>
+  <string name="you_have_permission_to_download">Tap to download Beta version</string>
+  <string name="you_id">"Your ID: "</string>
+  <string name="your_application_is_under_review">" (Your application is being reviewed.)"</string>
 </resources>

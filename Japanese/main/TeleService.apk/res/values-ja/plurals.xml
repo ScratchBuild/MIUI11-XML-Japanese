@@ -25,8 +25,8 @@
         <item quantity="one">%s人まで追加できます、もう一度選択してください。</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">待ち時間: %s秒</item>
-        <item quantity="one">待ち時間: %s秒</item>
+        <item quantity="other">待ち時間: %d秒</item>
+        <item quantity="one">待ち時間: %d秒</item>
     </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">試行できるのはあと%d回です。</item>

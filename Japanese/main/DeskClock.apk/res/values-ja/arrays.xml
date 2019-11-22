@@ -44,10 +44,37 @@
         <item>"25分"</item>
         <item>"30分"</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>月～金</item>
+        <item>毎日</item>
+        <item>平日</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>毎日</item>
+        <item>月～金</item>
+        <item>平日</item>
+        <item>カスタム</item>
+    </string-array>
     <string-array name="clock_bg_setting_entries">
         <item>白色</item>
         <item>黒色</item>
         <item>自動</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>At set time</item>
+        <item>15 minutes in advance</item>
+        <item>30 minutes in advance</item>
+        <item>1 hour in advance</item>
+        <item>None</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>"1分"</item>

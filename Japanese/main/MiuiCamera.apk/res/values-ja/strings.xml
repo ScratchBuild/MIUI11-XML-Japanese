@@ -115,6 +115,7 @@
   <string name="camera_liveshot_on_tip">Dynamic shots</string>
   <string name="camera_mode_options">"モード"</string>
   <string name="camera_setting">"カメラ"</string>
+  <string name="camera_settings_category_development">実験的な機能</string>
   <string name="camera_settings_label">"カメラ"</string>
   <string name="camera_snap_mode_title">"クイック撮影モード"</string>
   <string name="camera_snap_mode_title_detail">"詳細を表示するにはタップ"</string>
@@ -459,6 +460,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
+  <string name="pref_camera_common_settings">全般設定</string>
   <string name="pref_camera_contrast_title">"コントラスト"</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_entry_3s">3秒遅延</string>
@@ -498,6 +500,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Off</string>
   <string name="pref_camera_hdr_title">HDR</string>
+  <string name="pref_camera_heic_image_format_description">Capture photos in high-efficiency HEIF format</string>
+  <string name="pref_camera_heic_image_format_title">HEIC Format</string>
   <string name="pref_camera_hfr_entry_off">Off</string>
   <string name="pref_camera_histogram_entry_disable">"オフにする"</string>
   <string name="pref_camera_histogram_entry_enable">"オンにする"</string>
@@ -551,6 +555,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
   <string name="pref_camera_proximity_lock_summary">"ポケットに入れたらタッチジェスチャーをロックする"</string>
   <string name="pref_camera_proximity_lock_title">"ポケットモード"</string>
+  <string name="pref_camera_quick_settings">クイック設定</string>
   <string name="pref_camera_quick_shot_anim_enable_title">クイック撮影アニメーションをオンにする</string>
   <string name="pref_camera_quick_shot_enable_title">クイック撮影をオンにする</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
