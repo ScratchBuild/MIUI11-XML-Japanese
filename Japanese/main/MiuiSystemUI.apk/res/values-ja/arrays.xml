@@ -98,9 +98,9 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Disabled</item>
         <item>Enabled Filtered</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
         <item>Enabled</item>
+        <item>Enabled \"Headers filtered\"</item>
+        <item>Enabled \"Media packets filtered\"</item>
     </string-array>
     <string-array name="clock_options">
         <item>時間、分、秒を表示</item>

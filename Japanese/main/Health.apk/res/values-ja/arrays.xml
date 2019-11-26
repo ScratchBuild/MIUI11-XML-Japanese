@@ -52,6 +52,15 @@
         <item>No sleep data for now</item>
         <item>Opening Mi Health</item>
     </string-array>
+    <string-array name="week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
     <string-array name="week_label">
         <item>Sun</item>
         <item>Mon</item>

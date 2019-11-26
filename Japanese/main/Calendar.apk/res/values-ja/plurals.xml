@@ -114,6 +114,10 @@
     <plurals name="feed_list_dislike_title">
         <item quantity="other">%1$d件の理由が選択されました</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d more events</item>
+        <item quantity="one">%d more event</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" 日"</item>
         <item quantity="one">" 日"</item>

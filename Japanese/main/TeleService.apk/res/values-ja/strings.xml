@@ -905,7 +905,6 @@
   <string name="preferred_network_type_td_scdma">"GSM / TD-SCDMA"</string>
   <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
   <string name="preferred_phone_account">優先通話アカウント</string>
-  <string name="preferred_wificall_roaming_title">ローミング設定</string>
   <string name="preferred_wificall_title">優先ネットワーク</string>
   <string name="privacy_policy_title">プライバシーポリシー</string>
   <string name="private_num">非通知</string>

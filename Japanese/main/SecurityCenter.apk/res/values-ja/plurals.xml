@@ -164,6 +164,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"Wait for %d seconds and try again. "</item>
         <item quantity="one">"Wait for %d second and try again. "</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s時間</item>
+        <item quantity="one">%s時間</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s分</item>
+        <item quantity="one">%s分</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">少なくとも%dつの点を結んでください。</item>
         <item quantity="one">少なくとも%dつの点を結んでください。</item>

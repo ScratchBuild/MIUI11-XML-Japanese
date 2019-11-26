@@ -3246,6 +3246,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_remote_input">端末がロックされている場合に、通知で返信などのテキストを入力できないようにします</string>
   <string name="lockscreen_settings_title">ロック画面の表示</string>
   <string name="lockscreen_settings_what_to_show_category">表示する情報</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">ロック画面のサイドパネルに表示されるアプリをカスタマイズします</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">サイドパネルのショートカット</string>
   <string name="login_account_dialog_message">Mi Accountでログインして、Cloudとの同期をオンにします。</string>
   <string name="login_account_dialog_title">Mi Accountでログイン</string>
   <string name="login_account_summary">アカウント、クラウドサービス、支払い方法などを管理する</string>
@@ -3667,7 +3669,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="msd_pc_system_install_summary_xp">1. インストールするには、setup.exeを実行します。</string>
   <string name="msg_wlan_signal_found">%sに接続しますか？</string>
   <string name="msim_sim_radio_off">Off</string>
+  <string name="mtp_connection_failed">接続されたコンピュータにファイルを転送できません。トラブルシューティングをお試しください。</string>
+  <string name="mtp_connection_failed_title">USB接続</string>
+  <string name="mtp_connection_not_remind">次回から表示しない</string>
   <string name="mtp_ptp_mode_summary">MTPまたはPTP機能が有効です</string>
+  <string name="mtp_solution_button_cancel">OK</string>
+  <string name="mtp_solution_button_ok">トラブルシューティング</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mtrl_picker_cancel">Cancel</string>
   <string name="mtrl_picker_confirm">Save</string>
