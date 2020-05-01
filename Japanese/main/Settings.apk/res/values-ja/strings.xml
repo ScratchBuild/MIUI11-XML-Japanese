@@ -356,8 +356,6 @@
   <string name="app_ops_settings">アプリの操作状況</string>
   <string name="app_overlay_permission_preference">アプリが上に重ねて描画する権限</string>
   <string name="app_permissions">権限マネージャ</string>
-  <string name="app_permissions_group_summary" formatted="false">%d/%d個のアプリを許可</string>
-  <string name="app_permissions_summary" formatted="false">%d/%d個のアプリに追加アクセスを許可</string>
   <string name="app_process_limit_title">バックグラウンドプロセスの上限</string>
   <string name="app_restrictions_custom_label">アプリの制限を設定</string>
   <string name="app_sees_restricted_accounts">このアプリはアカウントにアクセスする場合があります</string>
