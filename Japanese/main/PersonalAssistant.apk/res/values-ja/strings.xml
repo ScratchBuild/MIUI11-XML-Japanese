@@ -178,7 +178,6 @@
   <string name="alipay_newUserRegister">新用户注册</string>
   <string name="alipay_password">密码</string>
   <string name="alipay_password_login">密码登录</string>
-  <string name="alipay_phoneNumber">+81</string>
   <string name="alipay_pre_router_alipay_account">用已登录支付宝账号</string>
   <string name="alipay_pre_router_cancel">キャンセル</string>
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
