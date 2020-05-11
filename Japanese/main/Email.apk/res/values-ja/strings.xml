@@ -948,7 +948,6 @@ to receive reminders about payments and trips"</string>
   <string name="refreshing_done">"完了"</string>
   <string name="release_to_refresh">"指を離して更新"</string>
   <string name="remind_attachment_size_limit">Your emails should be less than %sMB</string>
-  <string name="remote_no_mail">サーバーにはこれ以上メールがありません。</string>
   <string name="remote_search_body_too_large_prompt">"This email is too long.
 Wait until it's fully synced or view the message on your computer."</string>
   <string name="remove_account">"アカウントを削除"</string>
