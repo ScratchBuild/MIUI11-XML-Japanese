@@ -413,20 +413,20 @@
         <item quantity="one">1 件のアイテム</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">%d回のロック解除</item>
+        <item quantity="one">1回のロック解除</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">%d回のロック解除</item>
+        <item quantity="one">1回のロック解除</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Received %d notifications</item>
-        <item quantity="one">Received %d notification</item>
+        <item quantity="other">%d回の通知</item>
+        <item quantity="one">1回の通知</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Received %d notifications</item>
-        <item quantity="one">Received %d notification</item>
+        <item quantity="other">%d回の通知</item>
+        <item quantity="one">1回の通知</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d時間</item>
@@ -510,7 +510,7 @@
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
         <item quantity="other">%1$d 個のアプリの通知がサイレント モードをオーバーライドできます</item>
-        <item quantity="zero">No apps can override Do Not Disturb</item>
+        <item quantity="zero">どのアプリの通知もサイレント モードをオーバーライドできません</item>
         <item quantity="one">1 個のアプリの通知がサイレント モードをオーバーライドできます</item>
     </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
