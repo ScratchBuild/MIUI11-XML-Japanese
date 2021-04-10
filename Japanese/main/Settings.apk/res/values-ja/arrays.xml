@@ -410,11 +410,11 @@
     </string-array>
     <string-array name="common_password_business_names">
         <item>ロック画面</item>
-        <item>Privacy password</item>
+        <item>プライバシー パスワード</item>
         <item>キッズモード</item>
-        <item>File Manager</item>
+        <item>ファイル マネージャー</item>
         <item>アプリロック</item>
-        <item>Second space</item>
+        <item>セカンド スペース</item>
     </string-array>
     <string-array name="connect_mode_entries">
         <item>互換</item>
@@ -432,9 +432,9 @@
         <item>今日 (data)</item>
         <item>今月 (data)</item>
         <item>先月 (data)</item>
-        <item>今日 WLAN</item>
-        <item>今月 WLAN</item>
-        <item>先月 WLAN</item>
+        <item>今日 Wi-Fi</item>
+        <item>今月 Wi-Fi</item>
+        <item>先月 Wi-Fi</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"今日 "</item>
@@ -526,13 +526,13 @@
         <item>アニメーションを表示</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Yellow</item>
-        <item>Green</item>
-        <item>Cyan</item>
-        <item>White</item>
-        <item>Violet</item>
+        <item>青色</item>
+        <item>赤色</item>
+        <item>黄色</item>
+        <item>緑色</item>
+        <item>シアン</item>
+        <item>白色</item>
+        <item>菫色</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2秒</item>
@@ -580,12 +580,12 @@
         <item>"弱め"</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
-        <item>Violet</item>
-        <item>Purple</item>
+        <item>青色</item>
+        <item>赤色</item>
+        <item>緑色</item>
+        <item>ピンク</item>
+        <item>菫色</item>
+        <item>紫色</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP and older</item>
@@ -642,8 +642,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>拒否</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Single mic noise suppression</item>
-        <item>Dual mic noise suppression</item>
+        <item>シングルマイクでのノイズ低減</item>
+        <item>デュアルマイクでのノイズ低減</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>パフォーマンス</item>
@@ -734,7 +734,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>環境光の状態に応じて色を調節します</item>
         <item>常に色を強調します</item>
-        <item>Restore standard color of screen content with color calibration</item>
+        <item>カラーキャリブレーションを使用して色を標準的に復元します</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>オート (推奨)</item>

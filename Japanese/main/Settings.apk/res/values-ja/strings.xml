@@ -6822,7 +6822,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_ap_choose_auto">自動</string>
   <string name="wifi_api_test">Wi-Fiネットワーク API</string>
   <string name="wifi_ap_choose_dual">両方</string>
-  <string name="wifi_ap_choose_vendor_both">両方/string>
+  <string name="wifi_ap_choose_vendor_both">両方</string>
   <string name="wifi_ap_prefer_5G">5.0 GHz帯を優先</string>
   <string name="wifi_ap_unable_to_handle_new_sta">アクセス ポイントが一時的にいっぱいです</string>
   <string name="wifi_assistant">Wi-Fiアシスタント</string>
